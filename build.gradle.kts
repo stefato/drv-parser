@@ -44,6 +44,9 @@ subprojects {
 
     tasks.withType<Test> {
         useJUnitPlatform()
+        reports {
+            junitXml.required.set(true)
+        }
     }
 }
 
