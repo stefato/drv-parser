@@ -1,0 +1,89 @@
+<regatta-meldungen stand="2022-12-01T11:11:11+01:00">
+  <obleute>
+    <obmann id="123">
+      <name>testname1</name>
+      <email>testmail1</email>
+      <phone>testphone1</phone>
+    </obmann>
+    <obmann id="456">
+      <name>testname2</name>
+      <email>testmail2</email>
+      <phone>testphone2</phone>
+    </obmann>
+  </obleute>
+  <meldungen>
+    <rennen nummer="350" spezifikation="Jung 2x+">
+      <meldung id="1234" verein="10001" obmann="123">
+        <mannschaft>
+          <position nr="1" st="true">
+            <athlet id="DE-11111-1" verein="10001">
+              <name>testAthletName1</name>
+              <vorname>testAthletVorname1</vorname>
+              <jahrgang>1921</jahrgang>
+              <geschlecht>m</geschlecht>
+            </athlet>
+          </position>
+          <position nr="2" st="false">
+            <athlet id="DE-22222-2" verein="11000">
+              <name>testAthletName2</name>
+              <vorname>testAthletVorname2</vorname>
+              <jahrgang>1922</jahrgang>
+              <geschlecht>m</geschlecht>
+            </athlet>
+          </position>
+        </mannschaft>
+        <titel>testTitel1</titel>
+      </meldung>
+      <meldung id="6789" verein="11000" obmann="456">
+        <mannschaft>
+          <position nr="1" st="false">
+            <athlet id="DE-33333-3" verein="11000">
+              <name>testAthletName3</name>
+              <vorname>testAthletVorname3</vorname>
+              <jahrgang>1921</jahrgang>
+              <geschlecht>m</geschlecht>
+            </athlet>
+          </position>
+          <position nr="2" st="true">
+            <athlet id="DE-44444-4" verein="10001">
+              <name>testAthletName4</name>
+              <vorname>testAthletVorname4</vorname>
+              <jahrgang>1921</jahrgang>
+              <geschlecht>m</geschlecht>
+            </athlet>
+          </position>
+        </mannschaft>
+        <titel>testTitel2</titel>
+      </meldung>
+    </rennen>
+    <rennen nummer="351" spezifikation="Mäd 2x+">
+      <meldung id="2834" verein="10001" obmann="4563">
+        <mannschaft>
+          <position nr="1" st="false">
+            <athlet id="DE-33333-3" verein="11000">
+              <name>testAthletName3</name>
+              <vorname>testAthletVorname3</vorname>
+              <jahrgang>1921</jahrgang>
+              <geschlecht>m</geschlecht>
+            </athlet>
+          </position>
+        </mannschaft>
+        <titel>testTitel3</titel>
+      </meldung>
+    </rennen>
+  </meldungen>
+  <vereine>
+    <verein id="10001">
+      <ort>testVereinsOrt1</ort>
+      <name>testVereinsName1</name>
+      <kurzform>testVereinsKurzform1</kurzform>
+      <lettern>testVereinsLettern1</lettern>
+    </verein>
+    <verein id="11000">
+      <ort>testVereinsOrt2</ort>
+      <name>testVereinsName2</name>
+      <kurzform>testVereinsKurzform2</kurzform>
+      <lettern>testVereinsLettern2</lettern>
+    </verein>
+  </vereine>
+</regatta-meldungen>

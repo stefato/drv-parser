@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ra:ausschreibungen
+  xmlns:ra="http://schemas.rudern.de/service/ausschreibung/2010/"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://schemas.rudern.de/service/ausschreibung/2010/ http://schemas.rudern.de/service/ausschreibung_2010.xsd">
+  <regatta stand="2024-12-15T15:00:33+01:00">
+    <angaben>
+      <titel>testRegattaTitel</titel>
+      <subTitel>testRegattaSubTitel</subTitel>
+      <ort>testRegattaOrt</ort>
+      <veranstalter id="testVeranstalterId">testVeranstalterValue</veranstalter>
+      <startDatum>2025-01-01</startDatum>
+      <endDatum>2025-01-10</endDatum>
+      <meldeschluss>2024-12-01T10:00:00+01:00</meldeschluss>
+      <homepage>testHomepage</homepage>
+      <email>testEmail</email>
+      <bestimmungen>
+        <bestimmung nr="1" inhalt="application/xhtml+xml">
+        </bestimmung>
+        <bestimmung nr="2" inhalt="text/plain">
+        </bestimmung>
+      </bestimmungen>
+    </angaben>
+    <rennfolge>
+      <rennen datum="2022-01-01">
+        <nummer>1</nummer>
+        <spezifikation>testSpezifikation1</spezifikation>
+        <zusatz>testZusatz1</zusatz>
+        <parameters>
+          <param name="testParam">testValue</param>
+        </parameters>
+      </rennen>
+      <rennen datum="2022-12-31">
+        <nummer>2</nummer>
+        <spezifikation>testSpezifikation2</spezifikation>
+        <zusatz>testZusatz2</zusatz>
+        <parameters>
+          <param name="testParam">testValue</param>
+        </parameters>
+      </rennen>
+    </rennfolge>
+  </regatta>
+</ra:ausschreibungen>

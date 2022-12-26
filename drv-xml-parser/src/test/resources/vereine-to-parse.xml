@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dvl:vereine xmlns:dvl="http://schemas.rudern.de/vereinsliste/2008/" erstellt="2022-12-23T20:36:49+01:00"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://schemas.rudern.de/vereinsliste/2008/ http://schemas.rudern.de/vereinsliste_v2.xsd">
+	<verein id="10001">
+		<name>testVereinsName1</name>
+		<ort>testVereinsOrt1</ort>
+		<kurzform>testVereinsKurzform1</kurzform>
+		<lettern>testVereinsLettern1</lettern>
+	</verein>
+	<verein id="11000">
+		<name>testVereinsName2</name>
+		<ort>testVereinsOrt2</ort>
+		<kurzform>testVereinsKurzform2</kurzform>
+		<lettern>testVereinsLettern2</lettern>
+	</verein>
+</dvl:vereine>

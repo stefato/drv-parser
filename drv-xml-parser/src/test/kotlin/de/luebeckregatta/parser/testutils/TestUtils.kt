@@ -1,0 +1,15 @@
+package de.luebeckregatta.parser.testutils
+
+import java.io.File
+
+object TestUtils {
+    fun readStringContentFromTestResourceFile(testResourceFileName: String): String {
+        val classLoader = javaClass.classLoader
+        val resource = classLoader.getResource(testResourceFileName)
+        val file = File(resource?.file ?: throw RuntimeException())
+        val expectedMeldungenXmlString = file.bufferedReader().use {
+            it.readText()
+        }
+        return expectedMeldungenXmlString
+    }
+}
