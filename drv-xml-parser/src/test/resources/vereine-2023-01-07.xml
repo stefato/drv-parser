@@ -1,0 +1,4643 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dvl:vereine xmlns:dvl="http://schemas.rudern.de/vereinsliste/2008/" erstellt="2023-01-07T20:19:03+0100"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://schemas.rudern.de/vereinsliste/2008/ http://schemas.rudern.de/vereinsliste_v2.xsd">
+	<verein id="11001">
+		<name>Ruderverein Waldsee 1900 e.V.</name>
+		<ort>Bad Waldsee</ort>
+		<kurzform>RV Waldsee</kurzform>
+		<lettern>RVW</lettern>
+	</verein>
+	<verein id="11002">
+		<name>Ruderverein Bad Wimpfen e.V.</name>
+		<ort>Bad Wimpfen</ort>
+		<kurzform>RV Bad Wimpfen</kurzform>
+		<lettern>RVW</lettern>
+	</verein>
+	<verein id="11003">
+		<name>Breisacher Ruderverein e.V.</name>
+		<ort>Breisach</ort>
+		<kurzform>Breisacher RV</kurzform>
+		<lettern>BRV</lettern>
+	</verein>
+	<verein id="11004">
+		<name>Rudergesellschaft Eberbach 1899 e.V.</name>
+		<ort>Eberbach</ort>
+		<kurzform>RG Eberbach</kurzform>
+		<lettern>RGE</lettern>
+	</verein>
+	<verein id="11005">
+		<name>Ruderverein Esslingen e.V.</name>
+		<ort>Esslingen</ort>
+		<kurzform>RV Esslingen</kurzform>
+		<lettern>RVE</lettern>
+	</verein>
+	<verein id="11006">
+		<name>Ruderverein Friedrichshafen e.V.</name>
+		<ort>Friedrichshafen</ort>
+		<kurzform>RV Friedrichshafen</kurzform>
+		<lettern>RVF</lettern>
+	</verein>
+	<verein id="11007">
+		<name>Ruderclub Grenzach e.V.</name>
+		<ort>Grenzach-Wyhlen</ort>
+		<kurzform>RC Grenzach</kurzform>
+		<lettern>RCG</lettern>
+	</verein>
+	<verein id="11008">
+		<name>Rudergesellschaft Heidelberg 1898 e.V.</name>
+		<ort>Heidelberg</ort>
+		<kurzform>RG Heidelberg</kurzform>
+		<lettern>RGH</lettern>
+	</verein>
+	<verein id="11009">
+		<name>Heidelberger Ruderklub 1872 e.V.</name>
+		<ort>Heidelberg</ort>
+		<kurzform>Heidelberger RK</kurzform>
+		<lettern>HRK</lettern>
+	</verein>
+	<verein id="11010">
+		<name>Alte Herren RR am Gymnasial-Ruder- und Leichtathletik-Verein e.V.</name>
+		<ort>Heidelberg</ort>
+		<kurzform>Alte Herren RR am Gymn. RLV</kurzform>
+		<lettern>RRaGLV</lettern>
+	</verein>
+	<verein id="11011">
+		<name>Heilbronner Rudergesellschaft 'Schwaben' von 1879 e.V.</name>
+		<ort>Heilbronn</ort>
+		<kurzform>Heilbronner RG Schwaben</kurzform>
+		<lettern>HRGS</lettern>
+	</verein>
+	<verein id="11012">
+		<name>Karlsruher Rheinklub Alemannia e.V.</name>
+		<ort>Karlsruhe</ort>
+		<kurzform>Karlsruher RK Alemannia</kurzform>
+		<lettern>KRA</lettern>
+	</verein>
+	<verein id="11013">
+		<name>Karlsruher Ruder-Verein Wiking von 1879 e.V.</name>
+		<ort>Karlsruhe</ort>
+		<kurzform>Karlsruher RV Wiking</kurzform>
+		<lettern>KRVW</lettern>
+	</verein>
+	<verein id="11014">
+		<name>Ruderverein Neptun e.V. Konstanz</name>
+		<ort>Konstanz</ort>
+		<kurzform>RV Neptun Konstanz</kurzform>
+		<lettern>RVNK</lettern>
+	</verein>
+	<verein id="11015">
+		<name>Lauffener Ruderclub 'Neckar' e.V. 1931</name>
+		<ort>Lauffen</ort>
+		<kurzform>Lauffener RC Neckar</kurzform>
+		<lettern>LRCN</lettern>
+	</verein>
+	<verein id="11016">
+		<name>Mannheimer Ruder-Verein "Amicitia" e.V.</name>
+		<ort>Mannheim</ort>
+		<kurzform>Mannheimer RV Amicitia</kurzform>
+		<lettern>MRVA</lettern>
+	</verein>
+	<verein id="11017">
+		<name>Mannheimer Rudergesellschaft Baden von 1880 e.V.</name>
+		<ort>Mannheim</ort>
+		<kurzform>Mannheimer RG Baden</kurzform>
+		<lettern>MRGB</lettern>
+	</verein>
+	<verein id="11018">
+		<name>Mannheimer Ruder-Club von 1875 e.V.</name>
+		<ort>Mannheim</ort>
+		<kurzform>Mannheimer RC</kurzform>
+		<lettern>MRC</lettern>
+	</verein>
+	<verein id="11019">
+		<name>Mannheimer Rudergesellschaft Rheinau 1909 e.V.</name>
+		<ort>Mannheim</ort>
+		<kurzform>Mannheimer RG Rheinau</kurzform>
+		<lettern>MRGR</lettern>
+	</verein>
+	<verein id="11020">
+		<name>Volkstümlicher Wassersport Mannheim e.V.</name>
+		<ort>Mannheim</ort>
+		<kurzform>VW Mannheim</kurzform>
+		<lettern>VWM</lettern>
+	</verein>
+	<verein id="11021">
+		<name>Marbacher Ruderverein von 1920 e.V.</name>
+		<ort>Marbach</ort>
+		<kurzform>Marbacher RV</kurzform>
+		<lettern>MRV20</lettern>
+	</verein>
+	<verein id="11022">
+		<name>Ruderclub Neptun Neckarelz e.V.</name>
+		<ort>Neckarelz/Mosbach</ort>
+		<kurzform>RC Neptun Neckarelz</kurzform>
+		<lettern>RCN</lettern>
+	</verein>
+	<verein id="11023">
+		<name>Wassersportverein Schifferclub Neckarrems e.V.</name>
+		<ort>Remseck</ort>
+		<kurzform>WSV Schifferclub Neckarrems</kurzform>
+		<lettern>WSV SCN</lettern>
+	</verein>
+	<verein id="11024">
+		<name>Ruderclub Nürtingen e.V. 1921</name>
+		<ort>Nürtingen</ort>
+		<kurzform>RC Nürtingen</kurzform>
+		<lettern>RCN</lettern>
+	</verein>
+	<verein id="11025">
+		<name>Ruderclub Undine Radolfzell e.V.</name>
+		<ort>Radolfzell</ort>
+		<kurzform>RC Undine Radolfzell</kurzform>
+		<lettern>RCUR</lettern>
+	</verein>
+	<verein id="11026">
+		<name>Ruder-Club Rastatt 1898 e.V.</name>
+		<ort>Rastatt</ort>
+		<kurzform>RC Rastatt</kurzform>
+		<lettern>RCR</lettern>
+	</verein>
+	<verein id="11027">
+		<name>Ruderclub Rheinfelden/Baden e.V.</name>
+		<ort>Rheinfelden</ort>
+		<kurzform>RC Rheinfelden/Baden</kurzform>
+		<lettern>RCR</lettern>
+	</verein>
+	<verein id="11028">
+		<name>Ruderclub Bad Säckingen e.V.</name>
+		<ort>Bad Säckingen</ort>
+		<kurzform>RC Bad Säckingen</kurzform>
+		<lettern>RCS</lettern>
+	</verein>
+	<verein id="11029">
+		<name>Stuttgart-Cannstatter Ruderclub von 1910 e.V.</name>
+		<ort>Stuttgart</ort>
+		<kurzform>Stuttgart-Cannstatter RC</kurzform>
+		<lettern>StCRC</lettern>
+	</verein>
+	<verein id="11030">
+		<name>Stuttgarter Rudergesellschaft von 1899 e.V.</name>
+		<ort>Stuttgart</ort>
+		<kurzform>Stuttgarter RG</kurzform>
+		<lettern>SRG</lettern>
+	</verein>
+	<verein id="11031">
+		<name>Behindertensport-Verein Stuttgart e.V.</name>
+		<ort>Stuttgart</ort>
+		<kurzform>BSV Stuttgart</kurzform>
+		<lettern>BSVS</lettern>
+	</verein>
+	<verein id="11032">
+		<name>Ruderclub Titisee e.V.</name>
+		<ort>Titisee-Neustadt</ort>
+		<kurzform>RC Titisee</kurzform>
+		<lettern>RCT</lettern>
+	</verein>
+	<verein id="11033">
+		<name>Tübinger Ruderverein "Fidelia" 1877/1911 e.V.</name>
+		<ort>Tübingen</ort>
+		<kurzform>Tübinger RV Fidelia</kurzform>
+		<lettern>TRV</lettern>
+	</verein>
+	<verein id="11034">
+		<name>Überlinger Ruderclub "Bodan" e.V.</name>
+		<ort>Überlingen</ort>
+		<kurzform>Überlinger RC Bodan</kurzform>
+		<lettern>ÜRCB</lettern>
+	</verein>
+	<verein id="11035">
+		<name>Ulmer Ruderclub Donau e.V.</name>
+		<ort>Ulm</ort>
+		<kurzform>Ulmer RC Donau</kurzform>
+		<lettern>URCD</lettern>
+	</verein>
+	<verein id="11036">
+		<name>Rudergesellschaft "Ghibellinia" Waiblingen 1920 e.V.</name>
+		<ort>Waiblingen</ort>
+		<kurzform>RG Ghibellinia Waiblingen</kurzform>
+		<lettern>RGGW</lettern>
+	</verein>
+	<verein id="11037">
+		<name>Wassersport-Verein Waldshut e.V.</name>
+		<ort>Waldshut-Tiengen</ort>
+		<kurzform>WSV Waldshut</kurzform>
+		<lettern>WVW</lettern>
+	</verein>
+	<verein id="11038">
+		<name>Rudergesellschaft Wertheim von 1902 e.V.</name>
+		<ort>Wertheim</ort>
+		<kurzform>RG Wertheim</kurzform>
+		<lettern>RGW</lettern>
+	</verein>
+	<verein id="11039">
+		<name>Rennrudergemeinschaft Baden-Württemberg e.V.</name>
+		<ort>Breisach</ort>
+		<kurzform>RRugm. Baden-Württemberg</kurzform>
+		<lettern>RRugmBW</lettern>
+	</verein>
+	<verein id="11040">
+		<name>Pfullendorfer Ruderclub 2002 e.V.</name>
+		<ort>Pfullendorf</ort>
+		<kurzform>Pfullendorfer RC</kurzform>
+		<lettern>PRC</lettern>
+	</verein>
+	<verein id="11041">
+		<name>Mannheimer Regatta-Verein e.V.</name>
+		<ort>Mannheim</ort>
+		<kurzform>Mannheimer Regatta-Verein</kurzform>
+		<lettern>MaRegV</lettern>
+	</verein>
+	<verein id="11042">
+		<name>Turnverein Breisach 1877 e.V.</name>
+		<ort>Breisach</ort>
+		<kurzform>TV Breisach 1877 e.V.</kurzform>
+		<lettern>TVB</lettern>
+	</verein>
+	<verein id="11043">
+		<name>Marine-Jugend Konstanz e.V.</name>
+		<ort>Konstanz</ort>
+		<kurzform>Marine-Jugend Konstanz e.V.</kurzform>
+		<lettern>MJK</lettern>
+	</verein>
+	<verein id="11044">
+		<name>Rudergemeinschaft Bodensee e.V.</name>
+		<ort>Überlingen</ort>
+		<kurzform>RG Bodensee e.V.</kurzform>
+		<lettern>RGBo</lettern>
+	</verein>
+	<verein id="11101">
+		<name>Ruder-Club Aschaffenburg von 1898 e.V.</name>
+		<ort>Aschaffenburg</ort>
+		<kurzform>RC Aschaffenburg</kurzform>
+		<lettern>RCA</lettern>
+	</verein>
+	<verein id="11102">
+		<name>Bamberger Rudergesellschaft von 1884 e.V.</name>
+		<ort>Bamberg</ort>
+		<kurzform>Bamberger RG</kurzform>
+		<lettern>BRG</lettern>
+	</verein>
+	<verein id="11103">
+		<name>Deggendorfer Ruder-Verein 1876 e.V.</name>
+		<ort>Deggendorf</ort>
+		<kurzform>Deggendorfer RV</kurzform>
+		<lettern>DRV</lettern>
+	</verein>
+	<verein id="11104">
+		<name>Ruderverein Erlangen e.V. 1911</name>
+		<ort>Erlangen</ort>
+		<kurzform>RV Erlangen</kurzform>
+		<lettern>RVE</lettern>
+	</verein>
+	<verein id="11105">
+		<name>Schwimmverein Hof 1911 e.V.</name>
+		<ort>Hof/Saale</ort>
+		<kurzform>Schwimmverein Hof</kurzform>
+		<lettern>SVH</lettern>
+	</verein>
+	<verein id="11106">
+		<name>Donau-Ruder-Club Ingolstadt e.V.</name>
+		<ort>Ingolstadt</ort>
+		<kurzform>Donau-RC Ingolstadt</kurzform>
+		<lettern>DRCI</lettern>
+	</verein>
+	<verein id="11107">
+		<name>Ruder-Club Karlstadt 1928 e.V.</name>
+		<ort>Karlstadt</ort>
+		<kurzform>RC Karlstadt</kurzform>
+		<lettern>RCK</lettern>
+	</verein>
+	<verein id="11108">
+		<name>Kitzinger Ruderverein von 1897 e.V.</name>
+		<ort>Kitzingen</ort>
+		<kurzform>Kitzinger RV</kurzform>
+		<lettern>KRV</lettern>
+	</verein>
+	<verein id="11109">
+		<name>Landshuter Ruderverein 1952 e.V.</name>
+		<ort>Landshut</ort>
+		<kurzform>Landshuter RV</kurzform>
+		<lettern>LRV</lettern>
+	</verein>
+	<verein id="11110">
+		<name>Lauinger Ruder- und Surfclub "Donau" e.V.</name>
+		<ort>Lauingen</ort>
+		<kurzform>Lauinger RSC Donau</kurzform>
+		<lettern>LRSC</lettern>
+	</verein>
+	<verein id="11111">
+		<name>Ruderclub Lindau (Bodensee) e.V.</name>
+		<ort>Lindau/Bodensee</ort>
+		<kurzform>Ruderclub Lindau</kurzform>
+		<lettern>RCL</lettern>
+	</verein>
+	<verein id="11112">
+		<name>Rudergesellschaft Marktheidenfeld e.V.</name>
+		<ort>Marktheidenfeld</ort>
+		<kurzform>RG Marktheidenfeld</kurzform>
+		<lettern>RGM</lettern>
+	</verein>
+	<verein id="11113">
+		<name>Miltenberger Ruder-Club von 1900 e.V.</name>
+		<ort>Miltenberg</ort>
+		<kurzform>Miltenberger RC</kurzform>
+		<lettern>MRC</lettern>
+	</verein>
+	<verein id="11114">
+		<name>Postsportverein Mühldorf e.V.</name>
+		<ort>Mühldorf</ort>
+		<kurzform>PostSV Mühldorf</kurzform>
+		<lettern>PSVM</lettern>
+	</verein>
+	<verein id="11115">
+		<name>Münchener Ruder-Club von 1880 e.V.</name>
+		<ort>München</ort>
+		<kurzform>Münchener RC</kurzform>
+		<lettern>MRC</lettern>
+	</verein>
+	<verein id="11116">
+		<name>Münchener Ruder- und Segelverein "Bayern" von 1910 e.V.</name>
+		<ort>München</ort>
+		<kurzform>Münchener RSV Bayern</kurzform>
+		<lettern>MRSVB</lettern>
+	</verein>
+	<verein id="11117">
+		<name>Rudergesellschaft München 1972 e.V.</name>
+		<ort>München</ort>
+		<kurzform>RG München</kurzform>
+		<lettern>RGM</lettern>
+	</verein>
+	<verein id="11118">
+		<name>Ruderverein Nürnberg von 1880 e.V.</name>
+		<ort>Nürnberg</ort>
+		<kurzform>RV Nürnberg</kurzform>
+		<lettern>RVN</lettern>
+	</verein>
+	<verein id="11120">
+		<name>Passauer Ruderverein von 1874 e.V.</name>
+		<ort>Passau</ort>
+		<kurzform>Passauer RV</kurzform>
+		<lettern>PRV</lettern>
+	</verein>
+	<verein id="11121">
+		<name>Regensburger Ruderverein von 1898 e.V.</name>
+		<ort>Regensburg</ort>
+		<kurzform>Regensburger RV</kurzform>
+		<lettern>RRV</lettern>
+	</verein>
+	<verein id="11122">
+		<name>Regensburger Ruder-Klub von 1890 e.V.</name>
+		<ort>Regensburg</ort>
+		<kurzform>Regensburger RK</kurzform>
+		<lettern>RRK</lettern>
+	</verein>
+	<verein id="11123">
+		<name>Schweinfurter Ruder-Club Franken von 1882 e.V.</name>
+		<ort>Schweinfurt</ort>
+		<kurzform>Schweinfurter RC Franken</kurzform>
+		<lettern>SRCF</lettern>
+	</verein>
+	<verein id="11124">
+		<name>Straubinger Ruderclub von 1881 e.V.</name>
+		<ort>Straubing</ort>
+		<kurzform>Straubinger RC</kurzform>
+		<lettern>StRC</lettern>
+	</verein>
+	<verein id="11125">
+		<name>Ruderverein am Tegernsee von 1949 e.V.</name>
+		<ort>Tegernsee</ort>
+		<kurzform>RV am Tegernsee</kurzform>
+		<lettern>RVaT</lettern>
+	</verein>
+	<verein id="11126">
+		<name>Tutzinger Ruderverein 1983 e.V.</name>
+		<ort>Tutzing</ort>
+		<kurzform>Tutzinger RV</kurzform>
+		<lettern>TRV</lettern>
+	</verein>
+	<verein id="11127">
+		<name>Ruderclub Vilshofen 1913 e.V.</name>
+		<ort>Vilshofen an der Donau</ort>
+		<kurzform>RC Vilshofen</kurzform>
+		<lettern>RCV</lettern>
+	</verein>
+	<verein id="11128">
+		<name>Akademischer Ruderclub Würzburg e.V.</name>
+		<ort>Würzburg</ort>
+		<kurzform>ARC Würzburg</kurzform>
+		<lettern>ARCW</lettern>
+	</verein>
+	<verein id="11131">
+		<name>Ruderverein Babensham-Wasserburg von 1981 e.V.</name>
+		<ort>Babensham</ort>
+		<kurzform>RV Babensham-Wasserburg</kurzform>
+		<lettern>RVB</lettern>
+	</verein>
+	<verein id="11132">
+		<name>Ruderclub Zellingen e.V.</name>
+		<ort>Zellingen</ort>
+		<kurzform>RC Zellingen</kurzform>
+		<lettern>RCZ</lettern>
+	</verein>
+	<verein id="11133">
+		<name>Erlanger Wanderrudergesellschaft Franken e.V.</name>
+		<ort>Erlangen</ort>
+		<kurzform>Erlanger WRG Franken</kurzform>
+		<lettern>EWF</lettern>
+	</verein>
+	<verein id="11134">
+		<name>Ruder Club am Lech Kaufering e.V.</name>
+		<ort>Kaufering</ort>
+		<kurzform>RC am Lech Kaufering</kurzform>
+		<lettern>RCLK</lettern>
+	</verein>
+	<verein id="11135">
+		<name>Würzburger Ruderverein Bayern von 1875/1905 e.V.</name>
+		<ort>Würzburg</ort>
+		<kurzform>Würzburger RV Bayern</kurzform>
+		<lettern>WRVB</lettern>
+	</verein>
+	<verein id="11136">
+		<name>Waginger Ruderverein e.V.</name>
+		<ort>Waging</ort>
+		<kurzform>Waginger RV</kurzform>
+		<lettern>WRV</lettern>
+	</verein>
+	<verein id="11137">
+		<name>Schleissheimer Ruderclub e.V.</name>
+		<ort>Oberschleißheim</ort>
+		<kurzform>Schleissheimer RC</kurzform>
+		<lettern>SRC</lettern>
+	</verein>
+	<verein id="11139">
+		<name>Donau Ruder Club Deggendorf 2001 e.V.</name>
+		<ort>Deggendorf</ort>
+		<kurzform>Donau RC Deggendorf</kurzform>
+		<lettern>DRCD</lettern>
+	</verein>
+	<verein id="11140">
+		<name>Rudergemeinschaft Bayern e.V.</name>
+		<ort>München</ort>
+		<kurzform>Rugm. Bayern</kurzform>
+		<lettern>RugmB</lettern>
+	</verein>
+	<verein id="11141">
+		<name>TSV Herrsching - Abt. Wassersport</name>
+		<ort>Herrsching</ort>
+		<kurzform>TSV Herrsching</kurzform>
+		<lettern>TSVH</lettern>
+	</verein>
+	<verein id="11142">
+		<name>Rudersport-Club Rosenheim e.V.</name>
+		<ort>Rosenheim</ort>
+		<kurzform>RC Rosenheim</kurzform>
+		<lettern>RCRH</lettern>
+	</verein>
+	<verein id="11143">
+		<name>1. Ruderclub-Forggensee e.V.</name>
+		<ort>Füssen</ort>
+		<kurzform>1. RC-Forggensee</kurzform>
+		<lettern>1. RCF</lettern>
+	</verein>
+	<verein id="11144">
+		<name>Rudergemeinschaft Olympos Würzburg (ROW) e.V.</name>
+		<ort>Würzburg</ort>
+		<kurzform>Olympos Würzburg</kurzform>
+		<lettern>ROW</lettern>
+	</verein>
+	<verein id="11145">
+		<name>Ruder-Club Deutschland e.V.</name>
+		<ort>Bad Kissingen</ort>
+		<kurzform>RC Deutschland</kurzform>
+		<lettern>RC Deutschland</lettern>
+	</verein>
+	<verein id="11146">
+		<name>Sport-Club Riederau 1976 e.V. Abt. Rudern</name>
+		<ort>Dießen-Riederau</ort>
+		<kurzform>Ammersee-Ruderer</kurzform>
+		<lettern>SC Riederau Abt. Rudern</lettern>
+	</verein>
+	<verein id="11147">
+		<name>Ruderfreunde Königswinkel e.V.</name>
+		<ort>Füssen</ort>
+		<kurzform>Ruderfreunde Königswinkel</kurzform>
+		<lettern>RFK</lettern>
+	</verein>
+	<verein id="11148">
+		<name>Ruder Club Isar Niederpöring 2020 e.V.</name>
+		<ort>Niederpöring</ort>
+		<kurzform>RC Isar Niederpöring 2020 e.V.</kurzform>
+		<lettern>RC Isar Niederpöring 2020 e.V.</lettern>
+	</verein>
+	<verein id="11149">
+		<name>Ruderclub Schondorf "Wilde Woge" e.V.</name>
+		<ort>Schondorf</ort>
+		<kurzform>RC Schondorf Wilde Woge</kurzform>
+		<lettern>RC SWW</lettern>
+	</verein>
+	<verein id="11201">
+		<name>Akademischer Ruder Club zu Berlin e.V.</name>
+		<ort>Berlin</ort>
+		<kurzform>ARC zu Berlin</kurzform>
+		<lettern>ARCB</lettern>
+	</verein>
+	<verein id="11202">
+		<name>Akademische Rudergesellschaft zu Berlin e.V.</name>
+		<ort>Berlin</ort>
+		<kurzform>ARG zu Berlin</kurzform>
+		<lettern>ARGB</lettern>
+	</verein>
+	<verein id="11203">
+		<name>Ruderriege des Akademischen Turnvereins zu Berlin e.V.</name>
+		<ort>Berlin</ort>
+		<kurzform>RR des Akad. TV zu Berlin</kurzform>
+		<lettern>ATVB</lettern>
+	</verein>
+	<verein id="11204">
+		<name>Ruder-Union Arkona Berlin  1879  e.V.</name>
+		<ort>Berlin</ort>
+		<kurzform>RU Arkona Berlin</kurzform>
+		<lettern>RUAB</lettern>
+	</verein>
+	<verein id="11205">
+		<name>Astoria-Rudergemeinschaft in der Berliner Turnerschaft</name>
+		<ort>Berlin</ort>
+		<kurzform>Berliner RK Astoria</kurzform>
+		<lettern>BRKA</lettern>
+	</verein>
+	<verein id="11206">
+		<name>Berliner Ruderklub Brandenburgia e.V.</name>
+		<ort>Berlin</ort>
+		<kurzform>Berliner RK Brandenburgia</kurzform>
+		<lettern>BRKB</lettern>
+	</verein>
+	<verein id="11208">
+		<name>Berliner Ruder-Club e.V.</name>
+		<ort>Berlin</ort>
+		<kurzform>Berliner RC</kurzform>
+		<lettern>BRC</lettern>
+	</verein>
+	<verein id="11209">
+		<name>Berliner Ruder-Gesellschaft e.V.</name>
+		<ort>Berlin</ort>
+		<kurzform>Berliner RG</kurzform>
+		<lettern>BRG</lettern>
+	</verein>
+	<verein id="11210">
+		<name>Ruderverein Berlin von 1878 e.V.</name>
+		<ort>Berlin</ort>
+		<kurzform>RVBerlin 1878 e.V.</kurzform>
+		<lettern>RVB</lettern>
+	</verein>
+	<verein id="11211">
+		<name>Ruderverein Collegia 1895 e.V.</name>
+		<ort>Berlin</ort>
+		<kurzform>RV Collegia</kurzform>
+		<lettern>RVC</lettern>
+	</verein>
+	<verein id="11212">
+		<name>Sport-Vereinigung Dresdenia Berlin e.V. Ruder-Abteilung</name>
+		<ort>Berlin</ort>
+		<kurzform>SVg. Dresdenia Berlin</kurzform>
+		<lettern>SVgDB</lettern>
+	</verein>
+	<verein id="11213">
+		<name>Spandauer Ruder-Club "Friesen" e.V.</name>
+		<ort>Berlin</ort>
+		<kurzform>Spandauer RC "Friesen"</kurzform>
+		<lettern>SRCF</lettern>
+	</verein>
+	<verein id="11215">
+		<name>Rudervereinigung Hellas-Titania Berlin e.V.</name>
+		<ort>Berlin</ort>
+		<kurzform>Rvg. Hellas-Titania Berlin</kurzform>
+		<lettern>RvgHTB</lettern>
+	</verein>
+	<verein id="11216">
+		<name>Berliner Ruder-Club Hevella e.V.</name>
+		<ort>Berlin</ort>
+		<kurzform>Berliner RC Hevella</kurzform>
+		<lettern>BRCHE</lettern>
+	</verein>
+	<verein id="11217">
+		<name>Märkischer Wassersport e.V.</name>
+		<ort>Berlin</ort>
+		<kurzform>Märkischer Wassersport</kurzform>
+		<lettern>MWS</lettern>
+	</verein>
+	<verein id="11218">
+		<name>Berliner Ruderclub Phönix e.V.</name>
+		<ort>Berlin</ort>
+		<kurzform>Berliner RC Phönix</kurzform>
+		<lettern>BRPH</lettern>
+	</verein>
+	<verein id="11219">
+		<name>Pichelsberger Rudergesellschaft 1914 e.V.</name>
+		<ort>Berlin</ort>
+		<kurzform>Pichelsberger RG</kurzform>
+		<lettern>PRG</lettern>
+	</verein>
+	<verein id="11220">
+		<name>Pro Sport Berlin 24 e.V.</name>
+		<ort>Berlin</ort>
+		<kurzform>Pro Sport Berlin 24 e.V.</kurzform>
+		<lettern>PSB 24</lettern>
+	</verein>
+	<verein id="11221">
+		<name>Ruderverein 'Preußen' e.V.</name>
+		<ort>Berlin</ort>
+		<kurzform>RV Preußen</kurzform>
+		<lettern>RVP</lettern>
+	</verein>
+	<verein id="11222">
+		<name>Potsdamer Ruder-Club Germania e.V.</name>
+		<ort>Berlin</ort>
+		<kurzform>Potsdamer RC Germania</kurzform>
+		<lettern>PRCG</lettern>
+	</verein>
+	<verein id="11223">
+		<name>Ruder-Vereinigung Preußen Saffonia e.V.</name>
+		<ort>Berlin</ort>
+		<kurzform>Rvg. Preußen Saffonia</kurzform>
+		<lettern>RVPS</lettern>
+	</verein>
+	<verein id="11225">
+		<name>Ruder-Club Tegel 1886 e.V.</name>
+		<ort>Berlin</ort>
+		<kurzform>RC Tegel 1886</kurzform>
+		<lettern>RCT</lettern>
+	</verein>
+	<verein id="11226">
+		<name>Ruder-Club Tegelort e.V.</name>
+		<ort>Berlin</ort>
+		<kurzform>RC Tegelort</kurzform>
+		<lettern>RCT</lettern>
+	</verein>
+	<verein id="11227">
+		<name>Ruderverein 'Vorwärts' Berlin e.V.</name>
+		<ort>Berlin</ort>
+		<kurzform>RV Vorwärts Berlin</kurzform>
+		<lettern>RVVB</lettern>
+	</verein>
+	<verein id="11228">
+		<name>Ruder-Riege der Turngemeinde in Berlin 1848 e.V.</name>
+		<ort>Berlin</ort>
+		<kurzform>RR der Turngemeinde in Berlin</kurzform>
+		<lettern>RRTiB</lettern>
+	</verein>
+	<verein id="11229">
+		<name>Ruderriege TV Waidmannslust e.V.</name>
+		<ort>Berlin</ort>
+		<kurzform>RR TV Waidmannslust</kurzform>
+		<lettern>RRTVW</lettern>
+	</verein>
+	<verein id="11230">
+		<name>Frauen-Ruder-Club Wannsee e.V.</name>
+		<ort>Berlin</ort>
+		<kurzform>Frauen-RC Wannsee</kurzform>
+		<lettern>FRCW</lettern>
+	</verein>
+	<verein id="11231">
+		<name>Ruderklub am Wannsee e.V.</name>
+		<ort>Berlin</ort>
+		<kurzform>RK am Wannsee</kurzform>
+		<lettern>RaW</lettern>
+	</verein>
+	<verein id="11232">
+		<name>Berliner Ruder-Club 'Welle-Poseidon' e.V.</name>
+		<ort>Berlin</ort>
+		<kurzform>Berliner RC Welle-Poseidon</kurzform>
+		<lettern>WePo</lettern>
+	</verein>
+	<verein id="11234">
+		<name>Rudergesellschaft Wiking e.V., Berlin</name>
+		<ort>Berlin</ort>
+		<kurzform>RG Wiking</kurzform>
+		<lettern>RGWB</lettern>
+	</verein>
+	<verein id="11235">
+		<name>Die Ruder-Union Marathon von 1980 e.V.</name>
+		<ort>Berlin</ort>
+		<kurzform>DRUM 80</kurzform>
+		<lettern>DRUM</lettern>
+	</verein>
+	<verein id="11236">
+		<name>Versehrten-Wassersport-Gemeinschaft e.V.</name>
+		<ort>Berlin</ort>
+		<kurzform>Versehrten-Wassersport-Gemeinschaft</kurzform>
+		<lettern>VWG</lettern>
+	</verein>
+	<verein id="11237">
+		<name>Märkischer Ruderverein e.V.</name>
+		<ort>Berlin</ort>
+		<kurzform>Märkischer RV</kurzform>
+		<lettern>MR</lettern>
+	</verein>
+	<verein id="11238">
+		<name>Berliner-Ruder-Club Ägir e.V.</name>
+		<ort>Berlin</ort>
+		<kurzform>Berliner-RC Ägir</kurzform>
+		<lettern>BRCÄ</lettern>
+	</verein>
+	<verein id="11239">
+		<name>Eisenbahnsportverein Schmöckwitz e.V. Abt. Rudern</name>
+		<ort>Berlin</ort>
+		<kurzform>ESV Schmöckwitz</kurzform>
+		<lettern>ESVS</lettern>
+	</verein>
+	<verein id="11240">
+		<name>Friedrichshagener Ruderverein e.V.</name>
+		<ort>Berlin</ort>
+		<kurzform>Friedrichshagener RV</kurzform>
+		<lettern>FRV</lettern>
+	</verein>
+	<verein id="11241">
+		<name>Richtershorner Ruderverein e.V.</name>
+		<ort>Berlin</ort>
+		<kurzform>Richtershorner RV</kurzform>
+		<lettern>RRV</lettern>
+	</verein>
+	<verein id="11242">
+		<name>Ruder-Club Rahnsdorf Luftfahrt e.V.</name>
+		<ort>Berlin</ort>
+		<kurzform>RC Rahnsdorf Luftfahrt</kurzform>
+		<lettern>RCR</lettern>
+	</verein>
+	<verein id="11243">
+		<name>Ruder-Gemeinschaft Grünau e.V.</name>
+		<ort>Berlin</ort>
+		<kurzform>Rugm. Grünau</kurzform>
+		<lettern>RGG</lettern>
+	</verein>
+	<verein id="11244">
+		<name>Rudergemeinschaft Rotation Berlin e.V.</name>
+		<ort>Berlin</ort>
+		<kurzform>Rugm. Rotation Berlin</kurzform>
+		<lettern>RGRB</lettern>
+	</verein>
+	<verein id="11245">
+		<name>Ruderclub Turbine Grünau e.V.</name>
+		<ort>Berlin</ort>
+		<kurzform>RC Turbine Grünau</kurzform>
+		<lettern>RCTG</lettern>
+	</verein>
+	<verein id="11246">
+		<name>Ruderverein Empor e.V.</name>
+		<ort>Berlin</ort>
+		<kurzform>RV Empor</kurzform>
+		<lettern>RVE</lettern>
+	</verein>
+	<verein id="11247">
+		<name>SportClub Berlin-Köpenick e.V.</name>
+		<ort>Berlin</ort>
+		<kurzform>SC Berlin-Köpenick</kurzform>
+		<lettern>SCBK</lettern>
+	</verein>
+	<verein id="11248">
+		<name>Ruderclub NARVA-Oberspree e.V.</name>
+		<ort>Berlin</ort>
+		<kurzform>SG NARVA Berlin</kurzform>
+		<lettern>SGNB</lettern>
+	</verein>
+	<verein id="11249">
+		<name>Sportclub Berlin-Grünau e.V. Abt. Rudern</name>
+		<ort>Berlin</ort>
+		<kurzform>SC Berlin-Grünau</kurzform>
+		<lettern>SCBG</lettern>
+	</verein>
+	<verein id="11250">
+		<name>Sportverein Energie Berlin e.V. Abt. Rudern</name>
+		<ort>Berlin</ort>
+		<kurzform>SV Energie Berlin</kurzform>
+		<lettern>SVEB</lettern>
+	</verein>
+	<verein id="11251">
+		<name>Spree-Ruder-Club Köpenick e.V.</name>
+		<ort>Berlin</ort>
+		<kurzform>Spree-RC Köpenick</kurzform>
+		<lettern>SRCK</lettern>
+	</verein>
+	<verein id="11252">
+		<name>Treptower Rudergemeinschaft e.V.</name>
+		<ort>Berlin</ort>
+		<kurzform>Treptower Rugm.</kurzform>
+		<lettern>TRG</lettern>
+	</verein>
+	<verein id="11253">
+		<name>Master Ruder Club Berlin e.V.</name>
+		<ort>Berlin</ort>
+		<kurzform>Masterruderclub Berlin</kurzform>
+		<lettern>MRCB</lettern>
+	</verein>
+	<verein id="11255">
+		<name>WSC WannseeLöwe e.V.</name>
+		<ort>Berlin</ort>
+		<kurzform>WSC WannseeLöwe</kurzform>
+		<lettern>WSCWL</lettern>
+	</verein>
+	<verein id="11256">
+		<name>Neuköllner Ruderclub Berlin e.V.</name>
+		<ort>Berlin</ort>
+		<kurzform>Neuköllner RC Berlin</kurzform>
+		<lettern>NRCB</lettern>
+	</verein>
+	<verein id="11257">
+		<name>Ruderclub Rapid Berlin e.V.</name>
+		<ort>Berlin</ort>
+		<kurzform>RC Rapid Berlin</kurzform>
+		<lettern>RC Rapid Berlin</lettern>
+	</verein>
+	<verein id="11301">
+		<name>Ruderverein Fürstenberg/O. 1910 e.v.</name>
+		<ort>Eisenhüttenstadt</ort>
+		<kurzform>RV Fürstenberg/O.</kurzform>
+		<lettern>RVF</lettern>
+	</verein>
+	<verein id="11302">
+		<name>Prenzlauer Sportverein 'Uckermark' e.V.</name>
+		<ort>Prenzlau</ort>
+		<kurzform>Prenzlauer SV Uckermark</kurzform>
+		<lettern>PSV</lettern>
+	</verein>
+	<verein id="11303">
+		<name>Ruderclub Schwedt e.V.</name>
+		<ort>Schwedt</ort>
+		<kurzform>RC Schwedt</kurzform>
+		<lettern>RCS</lettern>
+	</verein>
+	<verein id="11304">
+		<name>Rüdersdorfer Ruderverein Kalkberge e.V.</name>
+		<ort>Rüdersdorf bei Berlin</ort>
+		<kurzform>Rüdersdorfer RV Kalkberge</kurzform>
+		<lettern>RRVK</lettern>
+	</verein>
+	<verein id="11305">
+		<name>Frankfurter Ruder-Club von 1882 e.V.</name>
+		<ort>Frankfurt (Oder)</ort>
+		<kurzform>Frankfurter RC (a.d.Oder)</kurzform>
+		<lettern>FRC v.1882</lettern>
+	</verein>
+	<verein id="11306">
+		<name>Ruder-Club Plaue (Havel) e.V.</name>
+		<ort>Brandenburg an der Havel</ort>
+		<kurzform>RC Plaue (Havel)</kurzform>
+		<lettern>RCP</lettern>
+	</verein>
+	<verein id="11307">
+		<name>Ruder-Klub Werder (Havel) von 1918 e.V.</name>
+		<ort>Werder (Havel)</ort>
+		<kurzform>RK Werder (H)</kurzform>
+		<lettern>RKW</lettern>
+	</verein>
+	<verein id="11309">
+		<name>Ruderverein Sparta Klein Köris e.V.</name>
+		<ort>Klein Köris</ort>
+		<kurzform>RV Sparta Klein Köris</kurzform>
+		<lettern>RVSKK</lettern>
+	</verein>
+	<verein id="11310">
+		<name>Spiel- u. Sportvereinigung PCK 90 Schwedt e.V.</name>
+		<ort>Schwedt</ort>
+		<kurzform>Spiel- u. Svg. PCK Schwedt</kurzform>
+		<lettern>SSVPCK</lettern>
+	</verein>
+	<verein id="11312">
+		<name>Potsdamer Ruder-Gesellschaft e.V.</name>
+		<ort>Potsdam</ort>
+		<kurzform>Potsdamer RG</kurzform>
+		<lettern>PRG</lettern>
+	</verein>
+	<verein id="11313">
+		<name>Rathenower Ruder-Club Wiking e.V.</name>
+		<ort>Rathenow</ort>
+		<kurzform>Rathenower RC Wiking</kurzform>
+		<lettern>RRCW</lettern>
+	</verein>
+	<verein id="11314">
+		<name>Ruderclub Fürstenwalde 1893 e.V.</name>
+		<ort>Fürstenwalde</ort>
+		<kurzform>RC Fürstenwalde</kurzform>
+		<lettern>RCF</lettern>
+	</verein>
+	<verein id="11315">
+		<name>Ruderverein Rheinsberg 1910 e.V.</name>
+		<ort>Rheinsberg</ort>
+		<kurzform>RV Rheinsberg</kurzform>
+		<lettern>RVR</lettern>
+	</verein>
+	<verein id="11316">
+		<name>Ruder-Club-Havel Brandenburg e.V.</name>
+		<ort>Brandenburg an der Havel</ort>
+		<kurzform>RC Havel Brandenburg</kurzform>
+		<lettern>RCHB</lettern>
+	</verein>
+	<verein id="11317">
+		<name>Ruderclub Oberhavel Hennigsdorf e.V.</name>
+		<ort>Hennigsdorf</ort>
+		<kurzform>RC Oberhavel Hennigsdorf</kurzform>
+		<lettern>RCO</lettern>
+	</verein>
+	<verein id="11319">
+		<name>Ruderclub Beeskow 1920 e.V.</name>
+		<ort>Beeskow</ort>
+		<kurzform>RC Beeskow</kurzform>
+		<lettern>RCB</lettern>
+	</verein>
+	<verein id="11320">
+		<name>Ruderverein Wasserfreunde Erkner e.V.</name>
+		<ort>Erkner</ort>
+		<kurzform>RV Wasserfreunde Erkner</kurzform>
+		<lettern>RVWE</lettern>
+	</verein>
+	<verein id="11321">
+		<name>Cottbusser Rudersportverein  e.V.</name>
+		<ort>Cottbus</ort>
+		<kurzform>Cottbusser RSV</kurzform>
+		<lettern>CRSV</lettern>
+	</verein>
+	<verein id="11322">
+		<name>Neuruppiner Ruderclub e.V.</name>
+		<ort>Neuruppin</ort>
+		<kurzform>Neuruppiner RC</kurzform>
+		<lettern>NRC</lettern>
+	</verein>
+	<verein id="11324">
+		<name>SV Kloster Lehnin e.V. Sektion Rudern</name>
+		<ort>Kloster Lehnin</ort>
+		<kurzform>SV Kloster Lehnin/Rudern</kurzform>
+		<lettern>SVKL</lettern>
+	</verein>
+	<verein id="11325">
+		<name>Ruderclub Königs Wusterhausen e.V.</name>
+		<ort>Königs Wusterhausen</ort>
+		<kurzform>RC Königs Wusterhausen</kurzform>
+		<lettern>RCKW</lettern>
+	</verein>
+	<verein id="11326">
+		<name>Storkower Ruder-Vereinigung 1919 e.V.</name>
+		<ort>Storkow</ort>
+		<kurzform>Storkower Rvg.</kurzform>
+		<lettern>SRvg</lettern>
+	</verein>
+	<verein id="11327">
+		<name>Alt Ruppiner Ruderclub 1928 e.V.</name>
+		<ort>Alt Ruppin</ort>
+		<kurzform>Alt Ruppiner RC</kurzform>
+		<lettern>ARC</lettern>
+	</verein>
+	<verein id="11328">
+		<name>ESV Lok Zernsdorf e.V. Abt. Rudern</name>
+		<ort>Zernsdorf</ort>
+		<kurzform>ESV Lok Zernsdorf</kurzform>
+		<lettern>ESVLZ</lettern>
+	</verein>
+	<verein id="11330">
+		<name>Sportverein Oderhort Frankfurt (Oder) e.V.</name>
+		<ort>Frankfurt (Oder)</ort>
+		<kurzform>SV Oderhort Frankfurt/O.</kurzform>
+		<lettern>SVO</lettern>
+	</verein>
+	<verein id="11332">
+		<name>Ruderverein Mühlberg e.V.</name>
+		<ort>Mühlberg</ort>
+		<kurzform>RV  Mühlberg</kurzform>
+		<lettern>RVM</lettern>
+	</verein>
+	<verein id="11333">
+		<name>Brandenburger Sport- und Ruderklub 1883 e.V.</name>
+		<ort>Brandenburg an der Havel</ort>
+		<kurzform>Brandenburger Sport- und RK</kurzform>
+		<lettern>BSRK</lettern>
+	</verein>
+	<verein id="11334">
+		<name>Wassersportverein Königs Wusterhausen e.V.</name>
+		<ort>Königs Wusterhausen</ort>
+		<kurzform>WSV Königs Wusterhausen</kurzform>
+		<lettern>WSVKW</lettern>
+	</verein>
+	<verein id="11336">
+		<name>Ruderclub Kleinmachnow-Stahnsdorf-Teltow e.V.</name>
+		<ort>Stahnsdorf</ort>
+		<kurzform>RC Kleinmachnow-Stahnsdorf-Teltow</kurzform>
+		<lettern>RCK</lettern>
+	</verein>
+	<verein id="11337">
+		<name>SG Elektronik Kyritz e.V.</name>
+		<ort>Kyritz</ort>
+		<kurzform>SG Elektronik Kyritz</kurzform>
+		<lettern>SGEK</lettern>
+	</verein>
+	<verein id="11338">
+		<name>Wassersport PCK Schwedt e.V.</name>
+		<ort>Schwedt</ort>
+		<kurzform>Wassersport PCK Schwedt</kurzform>
+		<lettern>WPCKS</lettern>
+	</verein>
+	<verein id="11339">
+		<name>Ruder-Club Potsdam e.V.</name>
+		<ort>Potsdam</ort>
+		<kurzform>RC Potsdam</kurzform>
+		<lettern>RCPdm</lettern>
+	</verein>
+	<verein id="11340">
+		<name>Ruderverein Birkenwerder e.V.</name>
+		<ort>Birkenwerder</ort>
+		<kurzform>RV Birkenwerder e.V.</kurzform>
+		<lettern>RVB</lettern>
+	</verein>
+	<verein id="11401">
+		<name>Bremer Ruder-Club HANSA (1879/83) e.V.</name>
+		<ort>Bremen</ort>
+		<kurzform>Bremer RC HANSA</kurzform>
+		<lettern>BRCH</lettern>
+	</verein>
+	<verein id="11402">
+		<name>Bremer Ruderverein von 1882 e.V.</name>
+		<ort>Bremen</ort>
+		<kurzform>Bremer RV</kurzform>
+		<lettern>BRV</lettern>
+	</verein>
+	<verein id="11403">
+		<name>Bremer Sport-Club e.V.  - Ruderabteilung</name>
+		<ort>Bremen</ort>
+		<kurzform>Bremer SC RA</kurzform>
+		<lettern>BSCRA</lettern>
+	</verein>
+	<verein id="11404">
+		<name>Vegesacker Ruderverein e.V.</name>
+		<ort>Bremen</ort>
+		<kurzform>Vegesacker RV</kurzform>
+		<lettern>VRV</lettern>
+	</verein>
+	<verein id="11405">
+		<name>Bremerhavener Ruderverein von 1889 e.V.</name>
+		<ort>Bremerhaven</ort>
+		<kurzform>Bremerhavener RV</kurzform>
+		<lettern>BHRV</lettern>
+	</verein>
+	<verein id="11501">
+		<name>Ruder-Club "Allemannia von 1866"</name>
+		<ort>Hamburg</ort>
+		<kurzform>RC Allemannia</kurzform>
+		<lettern>RCA</lettern>
+	</verein>
+	<verein id="11502">
+		<name>Alster-Ruderverein Hanseat von 1925 e.V.</name>
+		<ort>Hamburg</ort>
+		<kurzform>Alster-RV Hanseat</kurzform>
+		<lettern>ARVH</lettern>
+	</verein>
+	<verein id="11503">
+		<name>Ruder-Club Bergedorf e.V.</name>
+		<ort>Hamburg</ort>
+		<kurzform>RC Bergedorf</kurzform>
+		<lettern>RCB</lettern>
+	</verein>
+	<verein id="11504">
+		<name>Ruder-Vereinigung "Bille" von 1896 e.V.</name>
+		<ort>Hamburg</ort>
+		<kurzform>Rvg. Bille</kurzform>
+		<lettern>RVB</lettern>
+	</verein>
+	<verein id="11505">
+		<name>Biller Ruder-Club von 1883 r.V.</name>
+		<ort>Hamburg</ort>
+		<kurzform>Biller RC</kurzform>
+		<lettern>BRC</lettern>
+	</verein>
+	<verein id="11506">
+		<name>Der Hamburger und Germania Ruder Club e.V.</name>
+		<ort>Hamburg</ort>
+		<kurzform>Der Hamburger und Germania RC</kurzform>
+		<lettern>DHUGRC</lettern>
+	</verein>
+	<verein id="11508">
+		<name>Ruder-Club Dresdenia e.V.</name>
+		<ort>Hamburg</ort>
+		<kurzform>RC Dresdenia</kurzform>
+		<lettern>RCD</lettern>
+	</verein>
+	<verein id="11509">
+		<name>Ruder-Club Favorite Hammonia</name>
+		<ort>Hamburg</ort>
+		<kurzform>RC Favorite Hammonia</kurzform>
+		<lettern>RCFH</lettern>
+	</verein>
+	<verein id="11510">
+		<name>Hammerdeicher Ruder-Verein von 1893 e.V.</name>
+		<ort>Hamburg</ort>
+		<kurzform>Hammerdeicher RV</kurzform>
+		<lettern>HRV</lettern>
+	</verein>
+	<verein id="11511">
+		<name>Ruder-Gesellschaft HANSA e.V .</name>
+		<ort>Hamburg</ort>
+		<kurzform>RG HANSA e.V .</kurzform>
+		<lettern>RGH</lettern>
+	</verein>
+	<verein id="11512">
+		<name>Ruder-Club Süderelbe von 1892 e.V. Hamburg</name>
+		<ort>Hamburg</ort>
+		<kurzform>RC Süderelbe Hamburg</kurzform>
+		<lettern>RCS</lettern>
+	</verein>
+	<verein id="11514">
+		<name>Sportvereinigung Polizei Hamburg von 1920 e.V. Wassersport-Abteilung</name>
+		<ort>Hamburg</ort>
+		<kurzform>WSAP Hamburg</kurzform>
+		<lettern>WSAP</lettern>
+	</verein>
+	<verein id="11515">
+		<name>Ruderclub Protesia von 1907 e.V.</name>
+		<ort>Hamburg</ort>
+		<kurzform>RC Protesia</kurzform>
+		<lettern>RCP</lettern>
+	</verein>
+	<verein id="11516">
+		<name>Sportverein Rot-Gelb Hamburg von 1926 e.V.</name>
+		<ort>Hamburg</ort>
+		<kurzform>Sportverein Rot-Gelb Hamburg</kurzform>
+		<lettern>Rudern SVRG</lettern>
+	</verein>
+	<verein id="11517">
+		<name>Hamburger Ruderinnen-Club von 1925 e.V.</name>
+		<ort>Hamburg</ort>
+		<kurzform>Hamburger Ruderinnen-Club</kurzform>
+		<lettern>HRC</lettern>
+	</verein>
+	<verein id="11518">
+		<name>Ruderverein an den Teichwiesen e.V.</name>
+		<ort>Hamburg</ort>
+		<kurzform>RV an den Teichwiesen</kurzform>
+		<lettern>RVT</lettern>
+	</verein>
+	<verein id="11519">
+		<name>Ruderverein Wandsbek e.V.</name>
+		<ort>Hamburg</ort>
+		<kurzform>RV Wandsbek</kurzform>
+		<lettern>RVW</lettern>
+	</verein>
+	<verein id="11520">
+		<name>Wilhelmsburger Ruder Club von 1895 e.V.</name>
+		<ort>Hamburg</ort>
+		<kurzform>Wilhelmsburger RC</kurzform>
+		<lettern>WRC</lettern>
+	</verein>
+	<verein id="11522">
+		<name>Ruder-Club Hamburg e.V.</name>
+		<ort>Hamburg</ort>
+		<kurzform>RC Hamburg</kurzform>
+		<lettern>RCH</lettern>
+	</verein>
+	<verein id="11523">
+		<name>Akademische Ruderverbindung Alania zu Hamburg</name>
+		<ort>Hamburg</ort>
+		<kurzform>Akadem. Rvb. "Alania" zu Hamburg</kurzform>
+		<lettern>ARvbH</lettern>
+	</verein>
+	<verein id="11524">
+		<name>Turnerschaft Harburg</name>
+		<ort>Hamburg</ort>
+		<kurzform>TSH</kurzform>
+		<lettern>RAH</lettern>
+	</verein>
+	<verein id="11525">
+		<name>Ruderclub "Phönix" Harburg e.V.</name>
+		<ort>Hamburg</ort>
+		<kurzform>RC "Phönix" Harburg e.V.</kurzform>
+		<lettern>RCPH</lettern>
+	</verein>
+	<verein id="11526">
+		<name>Erster Coastal Ruderclub Hamburg e.V.</name>
+		<ort>Hamburg</ort>
+		<kurzform>Erster Coastal RC Hamburg</kurzform>
+		<lettern>ECRC Hamburg</lettern>
+	</verein>
+	<verein id="11601">
+		<name>Reit- und Sportverein Steinmühle e.V.</name>
+		<ort>Marburg</ort>
+		<kurzform>Reit- und SV Steinmühle</kurzform>
+		<lettern>RSVS</lettern>
+	</verein>
+	<verein id="11602">
+		<name>Ruder-Club "Neptun" e.V. Darmstadt</name>
+		<ort>Darmstadt</ort>
+		<kurzform>RC Neptun Darmstadt</kurzform>
+		<lettern>RCN</lettern>
+	</verein>
+	<verein id="11603">
+		<name>Darmstädter Schwimm- und Wassersport-Club 1912 e.V.</name>
+		<ort>Darmstadt</ort>
+		<kurzform>Darmstädter Schwimm- und WSC</kurzform>
+		<lettern>DSW</lettern>
+	</verein>
+	<verein id="11604">
+		<name>Ruderverein Eltville 1919 e.V.</name>
+		<ort>Eltville</ort>
+		<kurzform>RV Eltville</kurzform>
+		<lettern>RVE</lettern>
+	</verein>
+	<verein id="11605">
+		<name>Eschweger Ruderverein e.V.</name>
+		<ort>Eschwege</ort>
+		<kurzform>Eschweger RV</kurzform>
+		<lettern>ERV</lettern>
+	</verein>
+	<verein id="11606">
+		<name>Flörsheimer Ruderverein 08 e.V.</name>
+		<ort>Flörsheim</ort>
+		<kurzform>Flörsheimer RV</kurzform>
+		<lettern>FRV</lettern>
+	</verein>
+	<verein id="11607">
+		<name>Frankfurter Rudergesellschaft 'Borussia' 1896 e.V.</name>
+		<ort>Frankfurt am Main</ort>
+		<kurzform>Frankfurter RG Borussia</kurzform>
+		<lettern>FRGB</lettern>
+	</verein>
+	<verein id="11608">
+		<name>Frankfurter Ruder-Club Fechenheim 1887 e.V.</name>
+		<ort>Frankfurt am Main</ort>
+		<kurzform>Frankfurter RC Fechenheim</kurzform>
+		<lettern>FRCF</lettern>
+	</verein>
+	<verein id="11609">
+		<name>Frauen-Ruderverein "Freiweg" Frankfurt e.V. 1927</name>
+		<ort>Frankfurt am Main</ort>
+		<kurzform>Frauen-RV Freiweg Frankfurt</kurzform>
+		<lettern>FRVF</lettern>
+	</verein>
+	<verein id="11610">
+		<name>Frankfurter Rudergesellschaft 'Germania' 1869 e.V.</name>
+		<ort>Frankfurt am Main</ort>
+		<kurzform>Frankfurter RG Germania</kurzform>
+		<lettern>FRGG</lettern>
+	</verein>
+	<verein id="11611">
+		<name>Frankfurter Ruder-Club Griesheim 1906 e.V.</name>
+		<ort>Frankfurt am Main</ort>
+		<kurzform>Frankfurter RC Griesheim</kurzform>
+		<lettern>FRCG</lettern>
+	</verein>
+	<verein id="11612">
+		<name>Ruder-Club Nassovia Höchst 1881 e.V.</name>
+		<ort>Frankfurt am Main</ort>
+		<kurzform>RC Nassovia Höchst</kurzform>
+		<lettern>RCNH</lettern>
+	</verein>
+	<verein id="11613">
+		<name>Frankfurter Rudergesellschaft Nied 1921 e.V.</name>
+		<ort>Frankfurt am Main</ort>
+		<kurzform>Frankfurter RG Nied</kurzform>
+		<lettern>FRGN</lettern>
+	</verein>
+	<verein id="11614">
+		<name>Frankfurter Ruder-Gesellschaft Oberrad 1879 e.V.</name>
+		<ort>Frankfurt am Main</ort>
+		<kurzform>Frankfurter RG Oberrad</kurzform>
+		<lettern>FRGO</lettern>
+	</verein>
+	<verein id="11615">
+		<name>Ruderverbindung Rheno- Franconia e.V.</name>
+		<ort>Frankfurt am Main</ort>
+		<kurzform>Ruderverbindung Rheno- Franconia</kurzform>
+		<lettern>RVRF</lettern>
+	</verein>
+	<verein id="11616">
+		<name>Frankfurter Ruder-Club 1884 e.V.</name>
+		<ort>Frankfurt am Main</ort>
+		<kurzform>Frankfurter RC</kurzform>
+		<lettern>FRC 84</lettern>
+	</verein>
+	<verein id="11617">
+		<name>Frankfurter Ruderverein von 1865 e.V.</name>
+		<ort>Frankfurt am Main</ort>
+		<kurzform>Frankfurter RV</kurzform>
+		<lettern>FRV1865</lettern>
+	</verein>
+	<verein id="11618">
+		<name>Sport- und Kulturgemeinschaft Frankfurt e.V. (SKG)</name>
+		<ort>Frankfurt am Main</ort>
+		<kurzform>SKG Frankfurt e.V.</kurzform>
+		<lettern>SKGF</lettern>
+	</verein>
+	<verein id="11619">
+		<name>Frankfurter Rudergesellschaft Sachsenhausen v. 1879 e.V.</name>
+		<ort>Frankfurt am Main</ort>
+		<kurzform>Frankfurter RG Sachsenhausen</kurzform>
+		<lettern>FRGS</lettern>
+	</verein>
+	<verein id="11620">
+		<name>Frankfurter Ruder- und Kanusportverein Sachsenhausen 1898 e.V.</name>
+		<ort>Frankfurt am Main</ort>
+		<kurzform>Frankfurter Ruder- und Kanusport Verein</kurzform>
+		<lettern>FRVS</lettern>
+	</verein>
+	<verein id="11621">
+		<name>Wassersportverein Geisenheim 1912 e.V.</name>
+		<ort>Geisenheim</ort>
+		<kurzform>WSV Geisenheim</kurzform>
+		<lettern>WSVG</lettern>
+	</verein>
+	<verein id="11622">
+		<name>Gießener Ruderclub Hassia 1906 e.V.</name>
+		<ort>Gießen</ort>
+		<kurzform>Gießener RC Hassia</kurzform>
+		<lettern>GRCH</lettern>
+	</verein>
+	<verein id="11623">
+		<name>Wassersportverein Hellas 1920 Gießen e.V.</name>
+		<ort>Gießen</ort>
+		<kurzform>WSV Hellas Gießen</kurzform>
+		<lettern>WSVH</lettern>
+	</verein>
+	<verein id="11624">
+		<name>Gießener Rudergesellschaft 1877 e.V.</name>
+		<ort>Gießen</ort>
+		<kurzform>Gießener R.G.</kurzform>
+		<lettern>GRG</lettern>
+	</verein>
+	<verein id="11625">
+		<name>Ruderclub Möve 1919 e.V. Grossauheim</name>
+		<ort>Hanau</ort>
+		<kurzform>RC Möve Grossauheim</kurzform>
+		<lettern>RCM</lettern>
+	</verein>
+	<verein id="11626">
+		<name>Hanauer Ruderclub Hassia e.V.</name>
+		<ort>Hanau</ort>
+		<kurzform>Hanauer RC Hassia</kurzform>
+		<lettern>HRCH</lettern>
+	</verein>
+	<verein id="11627">
+		<name>Hanauer Rudergesellschaft 1879 e.V.</name>
+		<ort>Hanau</ort>
+		<kurzform>Hanauer RG</kurzform>
+		<lettern>HRG</lettern>
+	</verein>
+	<verein id="11628">
+		<name>Hersfelder Ruderverein 1977 e.V.</name>
+		<ort>Bad Hersfeld</ort>
+		<kurzform>Hersfelder RV</kurzform>
+		<lettern>HRV</lettern>
+	</verein>
+	<verein id="11630">
+		<name>Ruderclub Amicitia Bad Hersfeld e.V.</name>
+		<ort>Bad Hersfeld</ort>
+		<kurzform>RC Amicitia Bad Hersfeld</kurzform>
+		<lettern>RCAH</lettern>
+	</verein>
+	<verein id="11631">
+		<name>Casseler Frauen- Ruder-Verein e.V.</name>
+		<ort>Kassel</ort>
+		<kurzform>Casseler Frauen-RV</kurzform>
+		<lettern>CFRV</lettern>
+	</verein>
+	<verein id="11632">
+		<name>Ruderverein Kurhessen-Cassel 1890/1911 e.V.</name>
+		<ort>Kassel</ort>
+		<kurzform>RV Kurhessen-Cassel</kurzform>
+		<lettern>RKC</lettern>
+	</verein>
+	<verein id="11633">
+		<name>Rudergesellschaft Kassel 1927 e.V.</name>
+		<ort>Kassel</ort>
+		<kurzform>RG Kassel</kurzform>
+		<lettern>RGK</lettern>
+	</verein>
+	<verein id="11635">
+		<name>Limburger Club für Wassersport von 1895/1907 e.V.</name>
+		<ort>Limburg</ort>
+		<kurzform>Limburger ClfW</kurzform>
+		<lettern>LCW</lettern>
+	</verein>
+	<verein id="11636">
+		<name>Marburger Ruderverein von 1911 e.V.</name>
+		<ort>Marburg</ort>
+		<kurzform>Marburger RV</kurzform>
+		<lettern>MRV</lettern>
+	</verein>
+	<verein id="11637">
+		<name>Mühlheimer Ruderverein 1911 e.V.</name>
+		<ort>Mühlheim</ort>
+		<kurzform>Mühlheimer RV</kurzform>
+		<lettern>MRV</lettern>
+	</verein>
+	<verein id="11638">
+		<name>Ruderverein Hellas Offenbach e.V.</name>
+		<ort>Offenbach</ort>
+		<kurzform>RV Hellas Offenbach</kurzform>
+		<lettern>RVHG</lettern>
+	</verein>
+	<verein id="11639">
+		<name>Interessengemeinschaft Offenbacher Rudervereine IGOR e.V.</name>
+		<ort>Offenbach</ort>
+		<kurzform>IG Offenbacher Rudervereine IGOR</kurzform>
+		<lettern>IGOR</lettern>
+	</verein>
+	<verein id="11640">
+		<name>Offenbacher Ruderverein 1874 e.V.</name>
+		<ort>Offenbach</ort>
+		<kurzform>Offenbacher RV</kurzform>
+		<lettern>ORV</lettern>
+	</verein>
+	<verein id="11641">
+		<name>Offenbacher Rudergesellschaft Undine 1876 e.V.</name>
+		<ort>Offenbach</ort>
+		<kurzform>Offenbacher RG Undine</kurzform>
+		<lettern>ORGU</lettern>
+	</verein>
+	<verein id="11642">
+		<name>Wassersportverein 1926 e.V. Offenbach am Main-Bürgel</name>
+		<ort>Offenbach a.M. - Bürgel</ort>
+		<kurzform>WSV Offenbach am Main-Bürgel</kurzform>
+		<lettern>WSVO</lettern>
+	</verein>
+	<verein id="11643">
+		<name>Sportgemeinschaft Wiking 1903 e.V.</name>
+		<ort>Offenbach</ort>
+		<kurzform>SG Wiking</kurzform>
+		<lettern>SGW</lettern>
+	</verein>
+	<verein id="11644">
+		<name>Rüsselsheimer Ruder-Klub 08 e.V.</name>
+		<ort>Rüsselsheim</ort>
+		<kurzform>Rüsselsheimer RK</kurzform>
+		<lettern>RRK</lettern>
+	</verein>
+	<verein id="11645">
+		<name>Rotenburger Ruderverein e.V.</name>
+		<ort>Rotenburg</ort>
+		<kurzform>Rotenburger RV</kurzform>
+		<lettern>RRV</lettern>
+	</verein>
+	<verein id="11646">
+		<name>Weilburger Ruderverein 1905 e.V.</name>
+		<ort>Weilburg</ort>
+		<kurzform>Weilburger RV</kurzform>
+		<lettern>WRV</lettern>
+	</verein>
+	<verein id="11647">
+		<name>Rudergesellschaft Wetzlar 1880 e.V.</name>
+		<ort>Wetzlar</ort>
+		<kurzform>RG Wetzlar</kurzform>
+		<lettern>RGW</lettern>
+	</verein>
+	<verein id="11648">
+		<name>Rudergesellschaft Wiesbaden- Biebrich 1888 e.V.</name>
+		<ort>Wiesbaden</ort>
+		<kurzform>RG Wiesbaden- Biebrich</kurzform>
+		<lettern>RGWB</lettern>
+	</verein>
+	<verein id="11650">
+		<name>Schulruderzentrum Kassel e.V.</name>
+		<ort>Kassel</ort>
+		<kurzform>SRZ Kassel</kurzform>
+		<lettern>SRZ</lettern>
+	</verein>
+	<verein id="11651">
+		<name>Kasteler Ruder- und Kanu- Gesellschaft 1880 e.V.</name>
+		<ort>Mainz-Kostheim</ort>
+		<kurzform>Kasteler Ruder- und Kanu- Gesellschaft</kurzform>
+		<lettern>KRKG</lettern>
+	</verein>
+	<verein id="11652">
+		<name>Wassersportverein Twistesee e.V. 1972</name>
+		<ort>Bad Arolsen / Wetterburg</ort>
+		<kurzform>WSV Twistesee</kurzform>
+		<lettern>WSVT</lettern>
+	</verein>
+	<verein id="11653">
+		<name>Rennrudergemeinschaft Mittellahn e.V.</name>
+		<ort>Gießen</ort>
+		<kurzform>RRugm. Mittellahn</kurzform>
+		<lettern>RRGM</lettern>
+	</verein>
+	<verein id="11654">
+		<name>Ruderverein Cassel 2010 e.V.</name>
+		<ort>Kassel</ort>
+		<kurzform>RV Cassel 2010 e.V.</kurzform>
+		<lettern>RVC</lettern>
+	</verein>
+	<verein id="11655">
+		<name>Rudern und Sport Steinmühle Marburg e.V.</name>
+		<ort>Marburg</ort>
+		<kurzform>Rudern und Sport Steinmühle</kurzform>
+		<lettern>RuSStm</lettern>
+	</verein>
+	<verein id="11701">
+		<name>Wassersportverein Einheit Neustrelitz e.V.</name>
+		<ort>Neustrelitz</ort>
+		<kurzform>WSV Einheit Neustrelitz</kurzform>
+		<lettern>WSVN</lettern>
+	</verein>
+	<verein id="11702">
+		<name>Anklamer Ruderklub e.V.</name>
+		<ort>Anklam</ort>
+		<kurzform>Anklamer RK</kurzform>
+		<lettern>ARK</lettern>
+	</verein>
+	<verein id="11703">
+		<name>Stralsunder Ruder-Club e.V.</name>
+		<ort>Stralsund</ort>
+		<kurzform>Stralsunder RC</kurzform>
+		<lettern>SRC</lettern>
+	</verein>
+	<verein id="11704">
+		<name>Olympischer Ruderclub Rostock von 1956 e.V.</name>
+		<ort>Rostock</ort>
+		<kurzform>ORC Rostock</kurzform>
+		<lettern>ORC</lettern>
+	</verein>
+	<verein id="11705">
+		<name>Schweriner Rudergesellschaft von 1874/75 e.V.</name>
+		<ort>Schwerin</ort>
+		<kurzform>Schweriner RG</kurzform>
+		<lettern>SRG</lettern>
+	</verein>
+	<verein id="11706">
+		<name>Rostocker Ruder-Club von 1885 e.V.</name>
+		<ort>Rostock</ort>
+		<kurzform>Rostocker RC</kurzform>
+		<lettern>RRC</lettern>
+	</verein>
+	<verein id="11707">
+		<name>Ruderverein Wolgast e.V.</name>
+		<ort>Wolgast</ort>
+		<kurzform>RV Wolgast</kurzform>
+		<lettern>RVW</lettern>
+	</verein>
+	<verein id="11708">
+		<name>Hochschulsportgemeinschaft der Universität Rostock e.V. Ruderabteilung</name>
+		<ort>Rostock</ort>
+		<kurzform>HSG der Uni Rostock</kurzform>
+		<lettern>HSGUR</lettern>
+	</verein>
+	<verein id="11712">
+		<name>Verein für Leibesübungen Bergen 94 e.V.</name>
+		<ort>Bergen</ort>
+		<kurzform>Verein für Leibesübungen Bergen</kurzform>
+		<lettern>VLB</lettern>
+	</verein>
+	<verein id="11714">
+		<name>Greifswalder Ruderclub "Hilda" 1892 e.V.</name>
+		<ort>Greifswald</ort>
+		<kurzform>Greifswalder RC Hilda</kurzform>
+		<lettern>GRCH</lettern>
+	</verein>
+	<verein id="11715">
+		<name>Ribnitzer Sportverein 1919 e.V.</name>
+		<ort>Ribnitz-Damgarten</ort>
+		<kurzform>Ribnitzer SV</kurzform>
+		<lettern>RSV</lettern>
+	</verein>
+	<verein id="11716">
+		<name>Sana-Sport-Gemeinschaft Rügen e.V. </name>
+		<ort>Bergen auf Rügen</ort>
+		<kurzform>SSG Rügen e.V.</kurzform>
+		<lettern>SSGR</lettern>
+	</verein>
+	<verein id="11801">
+		<name>Wassersportverein Altwarmbüchen e.V.</name>
+		<ort>Hannover</ort>
+		<kurzform>WSV Altwarmbüchen</kurzform>
+		<lettern>WSVA</lettern>
+	</verein>
+	<verein id="11802">
+		<name>Ruderverein Bodenwerder von 1922 e.V.</name>
+		<ort>Bodenwerder</ort>
+		<kurzform>RV Bodenwerder</kurzform>
+		<lettern>RVB</lettern>
+	</verein>
+	<verein id="11803">
+		<name>Ruder-Klub Normannia e.V.</name>
+		<ort>Braunschweig</ort>
+		<kurzform>RK Normannia</kurzform>
+		<lettern>RKN</lettern>
+	</verein>
+	<verein id="11804">
+		<name>Ruderabteilung von 1962 TSV Bremervörde e.V.</name>
+		<ort>Bremervörde</ort>
+		<kurzform>RA TSV Bremervörde</kurzform>
+		<lettern>TSVBRV</lettern>
+	</verein>
+	<verein id="11805">
+		<name>Turn- und Sportverein Bramsche e.V. Ruderabteilung</name>
+		<ort>Bramsche</ort>
+		<kurzform>Turn- und SV Bramsche RA</kurzform>
+		<lettern>TSVB</lettern>
+	</verein>
+	<verein id="11807">
+		<name>Celler Ruderverein e.V.</name>
+		<ort>Celle</ort>
+		<kurzform>Celler RV</kurzform>
+		<lettern>CRV</lettern>
+	</verein>
+	<verein id="11808">
+		<name>Ruderclub Ernestinum-Hölty Celle e.V.</name>
+		<ort>Celle</ort>
+		<kurzform>RC Ernestinum-Hölty Celle</kurzform>
+		<lettern>RCEH</lettern>
+	</verein>
+	<verein id="11809">
+		<name>Hermann Billung Celle e.V.</name>
+		<ort>Celle</ort>
+		<kurzform>Hermann Billung Celle</kurzform>
+		<lettern>HBC</lettern>
+	</verein>
+	<verein id="11811">
+		<name>Sportgemeinschaft Diepholz von 1870 e.V. Ruderabteilung</name>
+		<ort>Diepholz</ort>
+		<kurzform>SG Diepholz RA</kurzform>
+		<lettern>SGD</lettern>
+	</verein>
+	<verein id="11813">
+		<name>Emder Ruderverein e.V.</name>
+		<ort>Emden</ort>
+		<kurzform>Emder RV</kurzform>
+		<lettern>ERV</lettern>
+	</verein>
+	<verein id="11814">
+		<name>Ruderer-Vereinigung Nordharz e.V.</name>
+		<ort>Goslar</ort>
+		<kurzform>Ruderer-Vereinigung Nordharz</kurzform>
+		<lettern>RVN</lettern>
+	</verein>
+	<verein id="11815">
+		<name>Ruder-Club "Welle" Bardowick von 1894 e.V.</name>
+		<ort>Bardowick</ort>
+		<kurzform>RC Welle Bardowick</kurzform>
+		<lettern>RCW</lettern>
+	</verein>
+	<verein id="11816">
+		<name>Ruderverein Weser von 1885 e.V. Hameln</name>
+		<ort>Hameln</ort>
+		<kurzform>RV Weser</kurzform>
+		<lettern>RVW</lettern>
+	</verein>
+	<verein id="11817">
+		<name>Rudergemeinschaft ANGARIA e.V.</name>
+		<ort>Hannover</ort>
+		<kurzform>Rugm. Angaria</kurzform>
+		<lettern>RugmA</lettern>
+	</verein>
+	<verein id="11818">
+		<name>Deutscher Ruder-Club von 1884 e.V.</name>
+		<ort>Hannover</ort>
+		<kurzform>Deutscher RC</kurzform>
+		<lettern>DRC</lettern>
+	</verein>
+	<verein id="11819">
+		<name>1. Frauen-Ruder-Club Hannover 1928 e.V.</name>
+		<ort>Hannover</ort>
+		<kurzform>1.Frauen-RC Hannover</kurzform>
+		<lettern>FRCH</lettern>
+	</verein>
+	<verein id="11820">
+		<name>Ruderverein Linden von 1911 e.V.</name>
+		<ort>Hannover</ort>
+		<kurzform>RV Linden</kurzform>
+		<lettern>RVL</lettern>
+	</verein>
+	<verein id="11821">
+		<name>Hannoverscher Ruder-Club von 1880 e.V.</name>
+		<ort>Hannover</ort>
+		<kurzform>Hannoverscher RC</kurzform>
+		<lettern>HRC</lettern>
+	</verein>
+	<verein id="11822">
+		<name>Akademische Turnverbindung Hannover e.V.</name>
+		<ort>Hannover</ort>
+		<kurzform>Akademische Turnverbindung Hannover</kurzform>
+		<lettern>ATVH</lettern>
+	</verein>
+	<verein id="11823">
+		<name>Mündener Ruderverein e.V.</name>
+		<ort>Hann. Münden</ort>
+		<kurzform>Mündener RV</kurzform>
+		<lettern>MRV</lettern>
+	</verein>
+	<verein id="11824">
+		<name>Wasserfreunde Hemmoor e.V. Abt. Rudern</name>
+		<ort>Hemmoor</ort>
+		<kurzform>Wasserfreunde Hemmoor</kurzform>
+		<lettern>WFH</lettern>
+	</verein>
+	<verein id="11825">
+		<name>Hildesheimer Ruder-Club e.V.</name>
+		<ort>Hildesheim</ort>
+		<kurzform>Hildesheimer RC</kurzform>
+		<lettern>HRC</lettern>
+	</verein>
+	<verein id="11826">
+		<name>Ruder-Club Holzminden e.V.</name>
+		<ort>Holzminden</ort>
+		<kurzform>RC Holzminden</kurzform>
+		<lettern>RCH</lettern>
+	</verein>
+	<verein id="11827">
+		<name>Ruderverein Hoya von 1926 e.V.</name>
+		<ort>Hoya</ort>
+		<kurzform>RV Hoya</kurzform>
+		<lettern>RVH</lettern>
+	</verein>
+	<verein id="11830">
+		<name>Ruder Club Leer e.V.</name>
+		<ort>Leer</ort>
+		<kurzform>RC Leer</kurzform>
+		<lettern>RCL</lettern>
+	</verein>
+	<verein id="11831">
+		<name>Ruderverein Leer von 1903 e.V.</name>
+		<ort>Leer</ort>
+		<kurzform>RV Leer</kurzform>
+		<lettern>RVL</lettern>
+	</verein>
+	<verein id="11832">
+		<name>Ruderverein für das Große Freie e.V. Lehrte/Sehnde</name>
+		<ort>Lehrte/Sehnde</ort>
+		<kurzform>RV für das Große Freie Lehrte/Sehnde</kurzform>
+		<lettern>RGF</lettern>
+	</verein>
+	<verein id="11833">
+		<name>Eisenbahn-Sportverein Lingen e.V.</name>
+		<ort>Lingen</ort>
+		<kurzform>Eisenbahn-SV Lingen</kurzform>
+		<lettern>ESVL</lettern>
+	</verein>
+	<verein id="11834">
+		<name>Lingener Rudergesellschaft e.V. von 1923</name>
+		<ort>Lingen</ort>
+		<kurzform>Lingener RG</kurzform>
+		<lettern>LRG</lettern>
+	</verein>
+	<verein id="11835">
+		<name>Lüneburger Ruder-Club von 1875 e.V.</name>
+		<ort>Lüneburg</ort>
+		<kurzform>Lüneburger RC</kurzform>
+		<lettern>LRC</lettern>
+	</verein>
+	<verein id="11836">
+		<name>Lüneburger Ruder-Club Wiking v.1875 e.V.  </name>
+		<ort>Lüneburg</ort>
+		<kurzform>LRC Wiking v.1875</kurzform>
+		<lettern>LRCW</lettern>
+	</verein>
+	<verein id="11837">
+		<name>Wassersportverein Meppen e.V.</name>
+		<ort>Meppen</ort>
+		<kurzform>WSV Meppen</kurzform>
+		<lettern>WSVM</lettern>
+	</verein>
+	<verein id="11838">
+		<name>Ruder-Verein Nienburg e.V.</name>
+		<ort>Nienburg</ort>
+		<kurzform>RV Nienburg</kurzform>
+		<lettern>RVN</lettern>
+	</verein>
+	<verein id="11839">
+		<name>Nordenhamer Ruderclub von 1908 e.V.</name>
+		<ort>Nordenham</ort>
+		<kurzform>Nordenhamer RC Nordenham</kurzform>
+		<lettern>NRC</lettern>
+	</verein>
+	<verein id="11840">
+		<name>Norder Ruderclub e.V.</name>
+		<ort>Norden</ort>
+		<kurzform>Norder RC</kurzform>
+		<lettern>NRC</lettern>
+	</verein>
+	<verein id="11841">
+		<name>Bootsclub Nordhorn e.V.</name>
+		<ort>Nordhorn</ort>
+		<kurzform>Bootsclub Nordhorn</kurzform>
+		<lettern>BCN</lettern>
+	</verein>
+	<verein id="11842">
+		<name>Oldenburger Ruderverein e.V.</name>
+		<ort>Oldenburg</ort>
+		<kurzform>Oldenburger RV</kurzform>
+		<lettern>ORVO</lettern>
+	</verein>
+	<verein id="11843">
+		<name>Postsportverein Oldenburg e.V.  Ruderabteilung</name>
+		<ort>Oldenburg</ort>
+		<kurzform>Postsportverein Oldenburg RA</kurzform>
+		<lettern>PSVO</lettern>
+	</verein>
+	<verein id="11844">
+		<name>Osnabrücker Ruder-Verein e.V.</name>
+		<ort>Osnabrück</ort>
+		<kurzform>Osnabrücker RV</kurzform>
+		<lettern>ORV</lettern>
+	</verein>
+	<verein id="11845">
+		<name>Ruder-Verein Osterholz-Scharmbeck von 1901 e.V.</name>
+		<ort>Osterholz-Scharmbeck</ort>
+		<kurzform>RV Osterholz-Scharmbeck</kurzform>
+		<lettern>RV OSCH</lettern>
+	</verein>
+	<verein id="11846">
+		<name>TSV Otterndorf von 1862 e.V. Ruderabteilung</name>
+		<ort>Otterndorf</ort>
+		<kurzform>TSV Otterndorf/RA</kurzform>
+		<lettern>TSVO</lettern>
+	</verein>
+	<verein id="11847">
+		<name>Ruderclub Ratsgymnasium e.V. Osnabrück</name>
+		<ort>Osnabrück</ort>
+		<kurzform>RC Ratsgymnasium Osnabrück</kurzform>
+		<lettern>RCRO</lettern>
+	</verein>
+	<verein id="11848">
+		<name>Ruderclub Carolinum Osnabrück e.V.</name>
+		<ort>Osnabrück</ort>
+		<kurzform>RC Carolinum Osnabrück</kurzform>
+		<lettern>RCCO</lettern>
+	</verein>
+	<verein id="11849">
+		<name>Papenburger Ruderclub e.V.</name>
+		<ort>Papenburg</ort>
+		<kurzform>Papenburger RC</kurzform>
+		<lettern>PRC</lettern>
+	</verein>
+	<verein id="11850">
+		<name>Wasser-Sport-Verein Rinteln e.V.</name>
+		<ort>Rinteln</ort>
+		<kurzform>Wasser-Sport-Verein Rinteln</kurzform>
+		<lettern>WSVR</lettern>
+	</verein>
+	<verein id="11851">
+		<name>Ruderclub am Salzgittersee e.V. v. 1968/98</name>
+		<ort>Salzgitter</ort>
+		<kurzform>RC am Salzgittersee</kurzform>
+		<lettern>RCS</lettern>
+	</verein>
+	<verein id="11852">
+		<name>SV Alemannia 1919 Salzbergen e.V.</name>
+		<ort>Salzbergen</ort>
+		<kurzform>SV Alemannia Salzbergen</kurzform>
+		<lettern>SVA</lettern>
+	</verein>
+	<verein id="11853">
+		<name>Sportvereinigung Scharnebeck  e.V. Ruderabteilung</name>
+		<ort>Scharnebeck</ort>
+		<kurzform>Svg. Scharnebeck RA</kurzform>
+		<lettern>SvgS</lettern>
+	</verein>
+	<verein id="11855">
+		<name>Ruderclub Stolzenau von 1986 e.V.</name>
+		<ort>Stolzenau</ort>
+		<kurzform>RC Stolzenau</kurzform>
+		<lettern>RCS</lettern>
+	</verein>
+	<verein id="11856">
+		<name>Ruderverein Uelzen e.V.</name>
+		<ort>Uelzen</ort>
+		<kurzform>RV Uelzen</kurzform>
+		<lettern>RVU</lettern>
+	</verein>
+	<verein id="11857">
+		<name>Verdener Ruderverein e.V.</name>
+		<ort>Verden</ort>
+		<kurzform>Verdener RV</kurzform>
+		<lettern>VRV</lettern>
+	</verein>
+	<verein id="11858">
+		<name>Wassersportverein Wildeshausen e.V.</name>
+		<ort>Wildeshausen</ort>
+		<kurzform>WSV Wildeshausen</kurzform>
+		<lettern>WSVW</lettern>
+	</verein>
+	<verein id="11859">
+		<name>Wilhelmshavener Ruderclub von 1909 e.V.</name>
+		<ort>Wilhelmshaven</ort>
+		<kurzform>Wilhelmshavener RC</kurzform>
+		<lettern>WRC</lettern>
+	</verein>
+	<verein id="11860">
+		<name>Wolfsburger Ruder-Club e.V.</name>
+		<ort>Wolfsburg</ort>
+		<kurzform>Wolfsburger RC</kurzform>
+		<lettern>WRC</lettern>
+	</verein>
+	<verein id="11861">
+		<name>Ruderverein ARGO Aurich e.V.</name>
+		<ort>Aurich</ort>
+		<kurzform>RV ARGO Aurich</kurzform>
+		<lettern>RVA</lettern>
+	</verein>
+	<verein id="11862">
+		<name>Ruderriege Schaumburgia Bückeburg e.V.</name>
+		<ort>Bückeburg</ort>
+		<kurzform>RR Schaumburgia Bückeburg</kurzform>
+		<lettern>RRSB</lettern>
+	</verein>
+	<verein id="11863">
+		<name>Rennrudergemeinschaft Lüneburg von 2000 e.V.</name>
+		<ort>Lüneburg</ort>
+		<kurzform>RRugm. Lüneburg</kurzform>
+		<lettern>RRugmL</lettern>
+	</verein>
+	<verein id="11864">
+		<name>Argonauten Ruderclub e. V. Meppen</name>
+		<ort>Meppen</ort>
+		<kurzform>Argonauten RC Meppen</kurzform>
+		<lettern>ARCM</lettern>
+	</verein>
+	<verein id="11865">
+		<name>Wassersportverein Innerstetalsperre e.V.</name>
+		<ort>Langelsheim</ort>
+		<kurzform>WSV Innerstetalsperre e.V.</kurzform>
+		<lettern>WSVI</lettern>
+	</verein>
+	<verein id="11866">
+		<name>Ruderclub Oste e.V.</name>
+		<ort>Bremervörde</ort>
+		<kurzform>RC Oste</kurzform>
+		<lettern>RC Oste</lettern>
+	</verein>
+	<verein id="11867">
+		<name>Schüler-Ruderverein Hannover e.V.</name>
+		<ort>Hannover</ort>
+		<kurzform>SRV Hannover</kurzform>
+		<lettern>SRV Hannover</lettern>
+	</verein>
+	<verein id="11901">
+		<name>Yacht- und Ruderclub Attendorn e.V.</name>
+		<ort>Attendorn</ort>
+		<kurzform>Yacht- und RC Attendorn</kurzform>
+		<lettern>YRCA</lettern>
+	</verein>
+	<verein id="11902">
+		<name>Ruder-Club Biggesee e.V.</name>
+		<ort>Olpe</ort>
+		<kurzform>RC Biggesee</kurzform>
+		<lettern>RCB</lettern>
+	</verein>
+	<verein id="11903">
+		<name>Wassersportverein Honnef e.V.</name>
+		<ort>Bad Honnef</ort>
+		<kurzform>WSV Honnef</kurzform>
+		<lettern>WSVH</lettern>
+	</verein>
+	<verein id="11904">
+		<name>Ruderverein Blankenstein-Ruhr e.V.</name>
+		<ort>Hattingen</ort>
+		<kurzform>RV Blankenstein-Ruhr</kurzform>
+		<lettern>RVB</lettern>
+	</verein>
+	<verein id="11905">
+		<name>Ruderverein Bochum von 1920 e.V.</name>
+		<ort>Bochum</ort>
+		<kurzform>RV Bochum</kurzform>
+		<lettern>RVB</lettern>
+	</verein>
+	<verein id="11906">
+		<name>Akademischer Ruderclub Rhenus Bonn e.V.</name>
+		<ort>Bonn</ort>
+		<kurzform>ARC Rhenus Bonn</kurzform>
+		<lettern>ARC</lettern>
+	</verein>
+	<verein id="11907">
+		<name>Bonner Ruder-Gesellschaft e.V.</name>
+		<ort>Bonn</ort>
+		<kurzform>Bonner RG</kurzform>
+		<lettern>BRG</lettern>
+	</verein>
+	<verein id="11908">
+		<name>Bonner Ruder-Verein 1882 e.V.</name>
+		<ort>Bonn</ort>
+		<kurzform>Bonner RV</kurzform>
+		<lettern>BRV</lettern>
+	</verein>
+	<verein id="11909">
+		<name>Wassersportverein Godesberg 1909/11 e.V.</name>
+		<ort>Bonn</ort>
+		<kurzform>WSV Godesberg</kurzform>
+		<lettern>WSVG</lettern>
+	</verein>
+	<verein id="11910">
+		<name>Rudergemeinschaft Bottrop e.V.</name>
+		<ort>Bottrop</ort>
+		<kurzform>Rugm. Bottrop</kurzform>
+		<lettern>RugmB</lettern>
+	</verein>
+	<verein id="11911">
+		<name>Ruderverein Rauxel von 1922 e.V.</name>
+		<ort>Castrop-Rauxel</ort>
+		<kurzform>RV Rauxel</kurzform>
+		<lettern>RVR</lettern>
+	</verein>
+	<verein id="11912">
+		<name>Ruderverein Datteln von 1928 e.V.</name>
+		<ort>Datteln</ort>
+		<kurzform>RV Datteln</kurzform>
+		<lettern>RVD</lettern>
+	</verein>
+	<verein id="11913">
+		<name>Dormagener Ruder-Gesellschaft 'Bayer' e.V.</name>
+		<ort>Dormagen</ort>
+		<kurzform>Dormagener RG Bayer</kurzform>
+		<lettern>DRG</lettern>
+	</verein>
+	<verein id="11914">
+		<name>Ruderclub Germania von 1929 e.V. Dortmund </name>
+		<ort>Dortmund</ort>
+		<kurzform>RC Germania</kurzform>
+		<lettern>RCG</lettern>
+	</verein>
+	<verein id="11915">
+		<name>Ruderclub Hansa von 1898 e.V. Dortmund</name>
+		<ort>Dortmund</ort>
+		<kurzform>RC Hansa Dortmund</kurzform>
+		<lettern>RCHD</lettern>
+	</verein>
+	<verein id="11916">
+		<name>Ruder-Gesellschaft Benrath e.V.</name>
+		<ort>Düsseldorf</ort>
+		<kurzform>RG Benrath</kurzform>
+		<lettern>RGB</lettern>
+	</verein>
+	<verein id="11917">
+		<name>Ruderclub Germania Düsseldorf 1904 e.V.</name>
+		<ort>Düsseldorf</ort>
+		<kurzform>RC Germania Düsseldorf</kurzform>
+		<lettern>RCGD</lettern>
+	</verein>
+	<verein id="11918">
+		<name>Düsseldorfer Ruderverein 1880 e.V.</name>
+		<ort>Düsseldorf</ort>
+		<kurzform>Düsseldorfer RV</kurzform>
+		<lettern>DRV 1880</lettern>
+	</verein>
+	<verein id="11919">
+		<name>Wasser-Sport Verein Düsseldorf Rudergesellschaft von 1893 e.V.</name>
+		<ort>Düsseldorf</ort>
+		<kurzform>WSV Düsseldorf RG</kurzform>
+		<lettern>WSVD</lettern>
+	</verein>
+	<verein id="11920">
+		<name>Ruderclub "Borussia" Rheinhausen e.V.</name>
+		<ort>Duisburg</ort>
+		<kurzform>RC Borussia Rheinhausen</kurzform>
+		<lettern>RCBR</lettern>
+	</verein>
+	<verein id="11921">
+		<name>Duisburger Ruderverein e.V. (1897/1910)</name>
+		<ort>Duisburg</ort>
+		<kurzform>Duisburger RV</kurzform>
+		<lettern>DuRV</lettern>
+	</verein>
+	<verein id="11922">
+		<name>Ruderverein Dorsten e.V.</name>
+		<ort>Dorsten</ort>
+		<kurzform>RV Dorsten</kurzform>
+		<lettern>RVD</lettern>
+	</verein>
+	<verein id="11923">
+		<name>Wassersport-Verein Ennepetal e.V.</name>
+		<ort>Wuppertal</ort>
+		<kurzform>WV Ennepetal</kurzform>
+		<lettern>WVE</lettern>
+	</verein>
+	<verein id="11924">
+		<name>Ruderklub am Baldeneysee e.V.</name>
+		<ort>Essen</ort>
+		<kurzform>RK am Baldeneysee</kurzform>
+		<lettern>RaB</lettern>
+	</verein>
+	<verein id="11925">
+		<name>Ruderriege ETUF Essen e.V.</name>
+		<ort>Essen</ort>
+		<kurzform>RR ETUF Essen</kurzform>
+		<lettern>RRE</lettern>
+	</verein>
+	<verein id="11926">
+		<name>Essen-Werdener Ruder-Club von 1896 e.V.</name>
+		<ort>Essen</ort>
+		<kurzform>Essen-Werdener RC</kurzform>
+		<lettern>EWRC</lettern>
+	</verein>
+	<verein id="11927">
+		<name>Steeler Ruder-Verein e.V. 1904</name>
+		<ort>Essen</ort>
+		<kurzform>Steeler RV</kurzform>
+		<lettern>SRV</lettern>
+	</verein>
+	<verein id="11928">
+		<name>Ruderriege TVK Essen</name>
+		<ort>Essen</ort>
+		<kurzform>RR TVK Essen</kurzform>
+		<lettern>RRTVKE</lettern>
+	</verein>
+	<verein id="11929">
+		<name>Ruderriege der ATV Bonn und Gemeinschaft der Förderer des Gothen-Schwaben</name>
+		<ort>Bonn</ort>
+		<kurzform>RR der ATV Bonn</kurzform>
+		<lettern>ATVB</lettern>
+	</verein>
+	<verein id="11930">
+		<name>Ruderverein Gelsenkirchen e.V.</name>
+		<ort>Gelsenkirchen</ort>
+		<kurzform>RV Gelsenkirchen</kurzform>
+		<lettern>RVG</lettern>
+	</verein>
+	<verein id="11931">
+		<name>Ruderclub Hamm von 1890 e.V.</name>
+		<ort>Hamm</ort>
+		<kurzform>RC Hamm</kurzform>
+		<lettern>RCH</lettern>
+	</verein>
+	<verein id="11932">
+		<name>Rudergesellschaft Linden- Dahlhausen e.V.</name>
+		<ort>Essen</ort>
+		<kurzform>RG Linden- Dahlhausen</kurzform>
+		<lettern>RGLD</lettern>
+	</verein>
+	<verein id="11933">
+		<name>Hattinger Ruderverein e.V. 1923</name>
+		<ort>Hattingen</ort>
+		<kurzform>Hattinger RV</kurzform>
+		<lettern>HRV</lettern>
+	</verein>
+	<verein id="11934">
+		<name>Ruderclub "Westfalen" Herdecke 1929 e.V.</name>
+		<ort>Herdecke</ort>
+		<kurzform>RC "Westfalen" Herdecke 1929 </kurzform>
+		<lettern>RWH</lettern>
+	</verein>
+	<verein id="11935">
+		<name>Ruderverein 'Emscher' Wanne-Eickel Herten e.V.</name>
+		<ort>Herne</ort>
+		<kurzform>RV Emscher Wanne-Eickel-Herten</kurzform>
+		<lettern>RVE</lettern>
+	</verein>
+	<verein id="11936">
+		<name>Wassersportverein Herne 1920 e.V.</name>
+		<ort>Herne</ort>
+		<kurzform>WSV Herne</kurzform>
+		<lettern>WSVH</lettern>
+	</verein>
+	<verein id="11937">
+		<name>Ruderverein Höxter von 1898 e.V.</name>
+		<ort>Höxter</ort>
+		<kurzform>RV Höxter</kurzform>
+		<lettern>RVH</lettern>
+	</verein>
+	<verein id="11938">
+		<name>Homberger Ruderklub "Germania" e.V.</name>
+		<ort>Duisburg</ort>
+		<kurzform>Homberger RK Germania</kurzform>
+		<lettern>HRK</lettern>
+	</verein>
+	<verein id="11939">
+		<name>Kettwiger Rudergesellschaft e.V.</name>
+		<ort>Essen</ort>
+		<kurzform>Kettwiger RG</kurzform>
+		<lettern>KRG</lettern>
+	</verein>
+	<verein id="11940">
+		<name>Clever Ruder Club e.V.</name>
+		<ort>Kleve</ort>
+		<kurzform>Clever RC</kurzform>
+		<lettern>CRC</lettern>
+	</verein>
+	<verein id="11941">
+		<name>Ruder- u. Tennis-Klub GERMANIA e.V. Köln</name>
+		<ort>Köln</ort>
+		<kurzform>RTK GERMANIA Köln</kurzform>
+		<lettern>RTK Germania</lettern>
+	</verein>
+	<verein id="11942">
+		<name>Mülheimer Wassersport e.V.  Köln</name>
+		<ort>Köln</ort>
+		<kurzform>Mülheimer Wassersport Köln</kurzform>
+		<lettern>Müwa Köln</lettern>
+	</verein>
+	<verein id="11943">
+		<name>Club für Wassersport Porz e.V. 1926</name>
+		<ort>Köln</ort>
+		<kurzform>ClfW Porz</kurzform>
+		<lettern>CFWP</lettern>
+	</verein>
+	<verein id="11944">
+		<name>TPSK von 1925 e.V. </name>
+		<ort>Köln</ort>
+		<kurzform>TPSK Köln</kurzform>
+		<lettern>TPSK</lettern>
+	</verein>
+	<verein id="11945">
+		<name>Ruder-Club Preußen e.V.</name>
+		<ort>Köln</ort>
+		<kurzform>RC Preußen</kurzform>
+		<lettern>RCP</lettern>
+	</verein>
+	<verein id="11946">
+		<name>Kölner Rudergesellschaft 1891 e.V.</name>
+		<ort>Köln</ort>
+		<kurzform>Kölner RG 1891</kurzform>
+		<lettern>KRG</lettern>
+	</verein>
+	<verein id="11947">
+		<name>Kölner Ruderverein von 1877 e.V.</name>
+		<ort>Köln</ort>
+		<kurzform>Kölner RV</kurzform>
+		<lettern>KRV</lettern>
+	</verein>
+	<verein id="11948">
+		<name>Ruderverein Schwarzer Adler e.V. Köln</name>
+		<ort>Köln</ort>
+		<kurzform>RV Schwarzer Adler Köln</kurzform>
+		<lettern>RVSA</lettern>
+	</verein>
+	<verein id="11949">
+		<name>Kölner Club für Wassersport e.V.</name>
+		<ort>Köln</ort>
+		<kurzform>Kölner ClfW</kurzform>
+		<lettern>KCFW</lettern>
+	</verein>
+	<verein id="11950">
+		<name>Crefelder Ruder-Club 1883 e.V.</name>
+		<ort>Krefeld</ort>
+		<kurzform>Crefelder RC</kurzform>
+		<lettern>CRC</lettern>
+	</verein>
+	<verein id="11951">
+		<name>Uerdinger Ruder-Club e.V.</name>
+		<ort>Krefeld</ort>
+		<kurzform>Uerdinger RC</kurzform>
+		<lettern>URC</lettern>
+	</verein>
+	<verein id="11952">
+		<name>Kölner-Ruder-Club Köln 71 e.V.</name>
+		<ort>Köln</ort>
+		<kurzform>Kölner-RC Köln</kurzform>
+		<lettern>KRC</lettern>
+	</verein>
+	<verein id="11953">
+		<name>Ruderclub Sorpesee 1956 e.V.</name>
+		<ort>Sundern</ort>
+		<kurzform>RC Sorpesee</kurzform>
+		<lettern>RCS</lettern>
+	</verein>
+	<verein id="11954">
+		<name>RTHC Ruder-Tennis-Hockey-Club Bayer Leverkusen Ruder-Abteilung</name>
+		<ort>Leverkusen</ort>
+		<kurzform>RTHC Bayer Leverkusen</kurzform>
+		<lettern>RTHC</lettern>
+	</verein>
+	<verein id="11955">
+		<name>Ruder-Club Marl im VfB 1948/64 Hüls e.V.</name>
+		<ort>Marl</ort>
+		<kurzform>RC Marl im VfB Hüls</kurzform>
+		<lettern>RCM</lettern>
+	</verein>
+	<verein id="11956">
+		<name>Ruderclub Meschede e.V.</name>
+		<ort>Meschede</ort>
+		<kurzform>RC Meschede</kurzform>
+		<lettern>RCM</lettern>
+	</verein>
+	<verein id="11957">
+		<name>Mindener Ruder-Verein von 1905 e.V.</name>
+		<ort>Minden</ort>
+		<kurzform>Mindener RV</kurzform>
+		<lettern>MRV</lettern>
+	</verein>
+	<verein id="11958">
+		<name>Mülheimer Ruder-Gesellschaft e.V.</name>
+		<ort>Mülheim an der Ruhr</ort>
+		<kurzform>Mülheimer RG</kurzform>
+		<lettern>MRG</lettern>
+	</verein>
+	<verein id="11959">
+		<name>Renn-Ruder-Gemeinschaft Mülheim e.V.</name>
+		<ort>Mülheim an der Ruhr</ort>
+		<kurzform>Renn-Rugm. Mülheim</kurzform>
+		<lettern>RRugmM</lettern>
+	</verein>
+	<verein id="11960">
+		<name>Wassersportverein Mülheim-Ruhr e.V.</name>
+		<ort>Mülheim an der Ruhr</ort>
+		<kurzform>WSV Mülheim-Ruhr</kurzform>
+		<lettern>WSVM</lettern>
+	</verein>
+	<verein id="11961">
+		<name>Akademischer Ruder-Club zu Münster e.V.</name>
+		<ort>Münster</ort>
+		<kurzform>ARC zu Münster</kurzform>
+		<lettern>ARCM</lettern>
+	</verein>
+	<verein id="11962">
+		<name>Akademischer Ruderverein Westfalen Münster e.V.</name>
+		<ort>Münster</ort>
+		<kurzform>ARV Westfalen Münster</kurzform>
+		<lettern>ARVWM</lettern>
+	</verein>
+	<verein id="11963">
+		<name>Ruderverein Münster von 1882 e.V.</name>
+		<ort>Münster</ort>
+		<kurzform>RV Münster</kurzform>
+		<lettern>RVM</lettern>
+	</verein>
+	<verein id="11964">
+		<name>Ruderclub Mülheim a. d. Ruhr von 1977 e.V.</name>
+		<ort>Mülheim</ort>
+		<kurzform>RC Mülheim a. d. Ruhr</kurzform>
+		<lettern>RCM</lettern>
+	</verein>
+	<verein id="11965">
+		<name>Bessel-Ruder-Club e.V.</name>
+		<ort>Minden</ort>
+		<kurzform>Bessel-RC</kurzform>
+		<lettern>BRC</lettern>
+	</verein>
+	<verein id="11966">
+		<name>Ruderverein Monheim e.V.</name>
+		<ort>Monheim</ort>
+		<kurzform>RV Monheim</kurzform>
+		<lettern>RVM</lettern>
+	</verein>
+	<verein id="11967">
+		<name>Neusser Ruderverein e.V.</name>
+		<ort>Neuss</ort>
+		<kurzform>Neusser RV</kurzform>
+		<lettern>NRV</lettern>
+	</verein>
+	<verein id="11969">
+		<name>Ruderverein Oberhausen e.V.</name>
+		<ort>Oberhausen</ort>
+		<kurzform>RV Oberhausen</kurzform>
+		<lettern>RVO</lettern>
+	</verein>
+	<verein id="11970">
+		<name>Reeser Ruderverein 1905 e.V.</name>
+		<ort>Rees</ort>
+		<kurzform>Reeser RV</kurzform>
+		<lettern>RRV</lettern>
+	</verein>
+	<verein id="11971">
+		<name>Ruder-, Hockey- und Tanzsport-Club von 1901 e.V.</name>
+		<ort>Rheine</ort>
+		<kurzform>RHTC Rheine</kurzform>
+		<lettern>RHTC</lettern>
+	</verein>
+	<verein id="11972">
+		<name>Siegburger Ruderverein 1910 e.V.</name>
+		<ort>Siegburg</ort>
+		<kurzform>Siegburger RV</kurzform>
+		<lettern>SRV</lettern>
+	</verein>
+	<verein id="11973">
+		<name>Ruderverein Waltrop von 1928 e.V.</name>
+		<ort>Waltrop</ort>
+		<kurzform>RV Waltrop</kurzform>
+		<lettern>RVW</lettern>
+	</verein>
+	<verein id="11974">
+		<name>Ruder- und Tennisgesellschaft Wesel 1907 e.V.</name>
+		<ort>Wesel</ort>
+		<kurzform>RTG Wesel</kurzform>
+		<lettern>RTGW</lettern>
+	</verein>
+	<verein id="11975">
+		<name>Sportgemeinschaft DEMAG e.V.  Wetter</name>
+		<ort>Wetter</ort>
+		<kurzform>SG DEMAG</kurzform>
+		<lettern>SGD</lettern>
+	</verein>
+	<verein id="11976">
+		<name>Ruder-Club "Mark" e.V.</name>
+		<ort>Wetter</ort>
+		<kurzform>RC Mark Wetter</kurzform>
+		<lettern>RCMW</lettern>
+	</verein>
+	<verein id="11977">
+		<name>Ruder-Club Witten e.V.</name>
+		<ort>Witten</ort>
+		<kurzform>RC Witten</kurzform>
+		<lettern>RCW</lettern>
+	</verein>
+	<verein id="11978">
+		<name>Hürther Rudergesellschaft e.V.</name>
+		<ort>Hürth</ort>
+		<kurzform>Hürther RG</kurzform>
+		<lettern>HRG</lettern>
+	</verein>
+	<verein id="11979">
+		<name>Post und Telekom Sportgemeinschaft Lübbecke e.V.</name>
+		<ort>Lübbecke</ort>
+		<kurzform>Post und Telekom SG Lübbecke</kurzform>
+		<lettern>PTSGL</lettern>
+	</verein>
+	<verein id="11980">
+		<name>Ruderclub Schieder am Emmerstausee von 1985 e.V.</name>
+		<ort>Schieder-Schwalenberg</ort>
+		<kurzform>RC Schieder</kurzform>
+		<lettern>RCS</lettern>
+	</verein>
+	<verein id="11981">
+		<name>Förderverein für Freizeit und Sport am Kopernikus-Gymnasium Rheine e.V.</name>
+		<ort>Rheine</ort>
+		<kurzform>Förderv. für Freizeit u. Sport am KG</kurzform>
+		<lettern>FVKG</lettern>
+	</verein>
+	<verein id="11982">
+		<name>Rudergesellschaft Niederkassel von 1978 e.V.</name>
+		<ort>Niederkassel</ort>
+		<kurzform>RG Niederkassel</kurzform>
+		<lettern>RGN</lettern>
+	</verein>
+	<verein id="11983">
+		<name>Ruderverein Lüdinghausen 1925 e.V.</name>
+		<ort>Lüdinghausen</ort>
+		<kurzform>RV Lüdinghausen</kurzform>
+		<lettern>RVLH</lettern>
+	</verein>
+	<verein id="11985">
+		<name>International Wedau Regatta e.V.</name>
+		<ort>Duisburg</ort>
+		<kurzform>Int. Wedau Regatta</kurzform>
+		<lettern>IWR</lettern>
+	</verein>
+	<verein id="11986">
+		<name>Ruderverein Kreuzgasse e.V.</name>
+		<ort>Köln</ort>
+		<kurzform>RV Kreuzgasse</kurzform>
+		<lettern>RVK</lettern>
+	</verein>
+	<verein id="12001">
+		<name>Ruderverein Rhenus e.V.  Andernach</name>
+		<ort>Andernach</ort>
+		<kurzform>RV Rhenus Andernach</kurzform>
+		<lettern>RVRA</lettern>
+	</verein>
+	<verein id="12002">
+		<name>Bacharacher Ruder-Verein 1884 e.V.</name>
+		<ort>Bacharach</ort>
+		<kurzform>Bacharacher RV</kurzform>
+		<lettern>BRV</lettern>
+	</verein>
+	<verein id="12003">
+		<name>Ruderverein Bad Ems e.V.</name>
+		<ort>Bad Ems</ort>
+		<kurzform>RV Bad Ems</kurzform>
+		<lettern>RVBE</lettern>
+	</verein>
+	<verein id="12004">
+		<name>Creuznacher Ruderverein 1876 e.V.</name>
+		<ort>Bad Kreuznach</ort>
+		<kurzform>Creuznacher RV</kurzform>
+		<lettern>CRV</lettern>
+	</verein>
+	<verein id="12006">
+		<name>Ruder- und Kanu-Verein Bad Kreuznach 1950 e.V.</name>
+		<ort>Bad Kreuznach</ort>
+		<kurzform>Ruder- und Kanu-Verein Bad Kreuznach</kurzform>
+		<lettern>RKVK</lettern>
+	</verein>
+	<verein id="12007">
+		<name>Bernkasteler Ruderverein 1874 e.V.</name>
+		<ort>Bernkastel-Kues</ort>
+		<kurzform>Bernkasteler RV</kurzform>
+		<lettern>BRV</lettern>
+	</verein>
+	<verein id="12008">
+		<name>Binger Rudergesellschaft 1911 e.V.</name>
+		<ort>Bingen</ort>
+		<kurzform>Binger RG</kurzform>
+		<lettern>BRG</lettern>
+	</verein>
+	<verein id="12009">
+		<name>TRV Rhenania Bingen 1897 e.V.</name>
+		<ort>Bingen</ort>
+		<kurzform>TRV Rhenania Bingen e.V</kurzform>
+		<lettern>TRVR</lettern>
+	</verein>
+	<verein id="12010">
+		<name>Ruderclub Germania Boppard e.V.</name>
+		<ort>Boppard</ort>
+		<kurzform>RC Germania Boppard</kurzform>
+		<lettern>RCGB</lettern>
+	</verein>
+	<verein id="12011">
+		<name>Cochemer Rudergesellschaft 1905 e.V.</name>
+		<ort>Cochem</ort>
+		<kurzform>Cochemer RG</kurzform>
+		<lettern>CRG</lettern>
+	</verein>
+	<verein id="12012">
+		<name>Frankenthaler Ruderverein von 1895 e.V.</name>
+		<ort>Frankenthal</ort>
+		<kurzform>Frankenthaler RV</kurzform>
+		<lettern>FRV</lettern>
+	</verein>
+	<verein id="12013">
+		<name>Ruderverein Rhenania Germersheim e.V.</name>
+		<ort>Germersheim</ort>
+		<kurzform>RV Rhenania Germersheim e.V.</kurzform>
+		<lettern>RVRG</lettern>
+	</verein>
+	<verein id="12014">
+		<name>Ruderverein Ingelheim 1920 e.V.</name>
+		<ort>Ingelheim</ort>
+		<kurzform>RV Ingelheim</kurzform>
+		<lettern>RVI</lettern>
+	</verein>
+	<verein id="12015">
+		<name>Post-Sportverein e.V. Koblenz</name>
+		<ort>Koblenz</ort>
+		<kurzform>Post-SV Koblenz</kurzform>
+		<lettern>PSVK</lettern>
+	</verein>
+	<verein id="12016">
+		<name>Koblenzer Ruderclub Rhenania 1877/1921 e.V.</name>
+		<ort>Koblenz</ort>
+		<kurzform>Koblenzer RC Rhenania</kurzform>
+		<lettern>KRCR</lettern>
+	</verein>
+	<verein id="12017">
+		<name>Ruder- u. Kanuverein Konz e.V.</name>
+		<ort>Konz</ort>
+		<kurzform>Ruder- u. Kanuverein Konz</kurzform>
+		<lettern>RKVK</lettern>
+	</verein>
+	<verein id="12018">
+		<name>Ludwigshafener Ruderverein von 1878</name>
+		<ort>Ludwigshafen</ort>
+		<kurzform>Ludwigshafener RV</kurzform>
+		<lettern>LRV</lettern>
+	</verein>
+	<verein id="12019">
+		<name>Eisenbahner Sportverein Eintracht Mainz 1927 e.V. Ruderabteilung</name>
+		<ort>Mainz</ort>
+		<kurzform>Eisenbahner SV Eintracht Mainz RA</kurzform>
+		<lettern>ESVM</lettern>
+	</verein>
+	<verein id="12021">
+		<name>Mainzer Ruder-Gesellschaft 1898 e.V.</name>
+		<ort>Mainz</ort>
+		<kurzform>Mainzer RG</kurzform>
+		<lettern>MRG 1898</lettern>
+	</verein>
+	<verein id="12022">
+		<name>Mainzer Ruder-Verein 1878 e.V.</name>
+		<ort>Mainz</ort>
+		<kurzform>Mainzer RV</kurzform>
+		<lettern>MRV</lettern>
+	</verein>
+	<verein id="12023">
+		<name>Weisenauer Ruderverein 1913 e.V.</name>
+		<ort>Mainz</ort>
+		<kurzform>Weisenauer RV</kurzform>
+		<lettern>WRV</lettern>
+	</verein>
+	<verein id="12024">
+		<name>Neuwieder Ruder-Gesellschaft 1883 e.V.</name>
+		<ort>Neuwied</ort>
+		<kurzform>Neuwieder RG</kurzform>
+		<lettern>NRG</lettern>
+	</verein>
+	<verein id="12025">
+		<name>Gymnasial-Turn-Ruder-Verein Neuwied 1882 e.V.</name>
+		<ort>Neuwied</ort>
+		<kurzform>GTRV Neuwied 1882 e.V.</kurzform>
+		<lettern>GTRVN</lettern>
+	</verein>
+	<verein id="12026">
+		<name>Rudergesellschaft Lahnstein 1922 e.V.</name>
+		<ort>Lahnstein</ort>
+		<kurzform>RG Lahnstein</kurzform>
+		<lettern>RGL</lettern>
+	</verein>
+	<verein id="12028">
+		<name>Ruder-Gesellschaft Remagen e.V.</name>
+		<ort>Remagen</ort>
+		<kurzform>RG Remagen</kurzform>
+		<lettern>RGR</lettern>
+	</verein>
+	<verein id="12030">
+		<name>Saarburger Ruderclub 1925 e.V.</name>
+		<ort>Saarburg</ort>
+		<kurzform>Saarburger RC</kurzform>
+		<lettern>SRC</lettern>
+	</verein>
+	<verein id="12031">
+		<name>Rudergesellschaft Speyer 1883 e.V.</name>
+		<ort>Speyer</ort>
+		<kurzform>RG Speyer</kurzform>
+		<lettern>RGS</lettern>
+	</verein>
+	<verein id="12032">
+		<name>Wassersportverein St. Goar 1924 e.V.</name>
+		<ort>St. Goar</ort>
+		<kurzform>WSV St. Goar</kurzform>
+		<lettern>WSV St. Goar</lettern>
+	</verein>
+	<verein id="12033">
+		<name>Ruder-Club Traben-Trarbach  1881 e.V.</name>
+		<ort>Traben-Trarbach</ort>
+		<kurzform>RC Traben-Trarbach</kurzform>
+		<lettern>RCTT</lettern>
+	</verein>
+	<verein id="12034">
+		<name>Rudergesellschaft Treis-Karden 1969 e.V.</name>
+		<ort>Treis-Karden</ort>
+		<kurzform>RG Treis-Karden</kurzform>
+		<lettern>RGTK</lettern>
+	</verein>
+	<verein id="12035">
+		<name>Rudergesellschaft Trier 1883 e.V.</name>
+		<ort>Trier</ort>
+		<kurzform>RG Trier</kurzform>
+		<lettern>RGT</lettern>
+	</verein>
+	<verein id="12036">
+		<name>Ruderverein Treviris 1921 e.V. </name>
+		<ort>Trier</ort>
+		<kurzform>RV Treviris</kurzform>
+		<lettern>RVT</lettern>
+	</verein>
+	<verein id="12037">
+		<name>Ruder- und Kanu-Club Wörth e.V.</name>
+		<ort>Wörth</ort>
+		<kurzform>Ruder- und Kanu-Club Wörth</kurzform>
+		<lettern>RKCW</lettern>
+	</verein>
+	<verein id="12038">
+		<name>Wormser Ruderclub Blau-Weiß von 1883 e.V.</name>
+		<ort>Worms</ort>
+		<kurzform>Wormser RC Blau-Weiß</kurzform>
+		<lettern>WRC</lettern>
+	</verein>
+	<verein id="12039">
+		<name>Ruderverein Zell e.V. 1921</name>
+		<ort>Zell</ort>
+		<kurzform>RV Zell</kurzform>
+		<lettern>RVZ</lettern>
+	</verein>
+	<verein id="12040">
+		<name>Rudergesellschaft Zeltingen e.V.</name>
+		<ort>Zeltingen</ort>
+		<kurzform>RG Zeltingen</kurzform>
+		<lettern>RGZ</lettern>
+	</verein>
+	<verein id="12041">
+		<name>Rudergesellschaft Worms 1883 e.V.</name>
+		<ort>Worms</ort>
+		<kurzform>RG Worms</kurzform>
+		<lettern>RGW</lettern>
+	</verein>
+	<verein id="12042">
+		<name>Olympische Rennrudergemeinschaft "Südwest" e.V.</name>
+		<ort>Bad Kreuznach</ort>
+		<kurzform>Oly. RRgem. "Südwest"</kurzform>
+		<lettern>ORRG</lettern>
+	</verein>
+	<verein id="12043">
+		<name>Schulruderzentrum Mainz e.V.</name>
+		<ort>Mainz</ort>
+		<kurzform>SRZ Mainz</kurzform>
+		<lettern>SRZ Mainz</lettern>
+	</verein>
+	<verein id="12101">
+		<name>Ruder-Club Saar 1885 e.V. </name>
+		<ort>Saarbrücken</ort>
+		<kurzform>RC "Saar" 1885 e.V.</kurzform>
+		<lettern>RCS</lettern>
+	</verein>
+	<verein id="12102">
+		<name>Saarbrücker Rudergesellschaft Undine e.V.</name>
+		<ort>Saarbrücken</ort>
+		<kurzform>Saarbrücker RG Undine</kurzform>
+		<lettern>SRG</lettern>
+	</verein>
+	<verein id="12103">
+		<name>Ruderverein Saarbrücken e.V..</name>
+		<ort>Saarbrücken</ort>
+		<kurzform>RV Saarbrücken</kurzform>
+		<lettern>RVS</lettern>
+	</verein>
+	<verein id="12104">
+		<name>Erlebnisruderverein Saarlouis</name>
+		<ort>Saarlouis</ort>
+		<kurzform>Erlebnis RV Saarlouis</kurzform>
+		<lettern>ERVS</lettern>
+	</verein>
+	<verein id="12105">
+		<name>Olympische Rennrudergemeinschaft "Südwest" e.V.</name>
+		<ort>Saarbrücken</ort>
+		<kurzform>Olympische RRugm. Südwest</kurzform>
+		<lettern>ORRS</lettern>
+	</verein>
+	<verein id="12202">
+		<name>Wurzener Rudervereinigung Schwarz-Gelb e.V.</name>
+		<ort>Wurzen</ort>
+		<kurzform>Wurzener Rvg. Schwarz-Gelb</kurzform>
+		<lettern>WRVg</lettern>
+	</verein>
+	<verein id="12203">
+		<name>Dresdner Ruder-Club 1902 e.V.</name>
+		<ort>Dresden</ort>
+		<kurzform>Dresdner RC</kurzform>
+		<lettern>DRC</lettern>
+	</verein>
+	<verein id="12204">
+		<name>Pirnaer Ruderverein 1872 e.V.</name>
+		<ort>Pirna</ort>
+		<kurzform>Pirnaer RV</kurzform>
+		<lettern>PRV 1872</lettern>
+	</verein>
+	<verein id="12206">
+		<name>Ruderclub Eilenburg e.V.</name>
+		<ort>Eilenburg</ort>
+		<kurzform>RC Eilenburg</kurzform>
+		<lettern>RCE</lettern>
+	</verein>
+	<verein id="12208">
+		<name>Laubegaster Ruderverein Dresden e.V.</name>
+		<ort>Dresden</ort>
+		<kurzform>Laubegaster RV Dresden</kurzform>
+		<lettern>LRVD</lettern>
+	</verein>
+	<verein id="12209">
+		<name>Dresdner Ruderverein e.V.</name>
+		<ort>Dresden</ort>
+		<kurzform>Dresdner RV</kurzform>
+		<lettern>DRV</lettern>
+	</verein>
+	<verein id="12210">
+		<name>Ruderverein Triton 1893 e.V. Leipzig</name>
+		<ort>Leipzig</ort>
+		<kurzform>RV Triton Leipzig</kurzform>
+		<lettern>RVT</lettern>
+	</verein>
+	<verein id="12211">
+		<name>SC DHfK Leipzig e.V., Abteilung Rudern</name>
+		<ort>Leipzig</ort>
+		<kurzform>SC DHfK Leipzig</kurzform>
+		<lettern>SCDHfKL</lettern>
+	</verein>
+	<verein id="12212">
+		<name>Akademischer Ruderverein zu Leipzig e.V.</name>
+		<ort>Leipzig</ort>
+		<kurzform>ARV zu Leipzig</kurzform>
+		<lettern>ARVL</lettern>
+	</verein>
+	<verein id="12213">
+		<name>Meissner Ruderclub "Neptun" 1882 e.V.</name>
+		<ort>Meißen</ort>
+		<kurzform>Meissner RC Neptun</kurzform>
+		<lettern>MRC</lettern>
+	</verein>
+	<verein id="12214">
+		<name>Universitätssportverein TU Dresden e.V. Abt. Rudern</name>
+		<ort>Dresden</ort>
+		<kurzform>USV TU Dresden</kurzform>
+		<lettern>USVD</lettern>
+	</verein>
+	<verein id="12215">
+		<name>Torgauer Ruderverein e.V.</name>
+		<ort>Torgau</ort>
+		<kurzform>Torgauer RV</kurzform>
+		<lettern>TRV</lettern>
+	</verein>
+	<verein id="12217">
+		<name>Spiel- und Sportverein Planeta Radebeul e.V.</name>
+		<ort>Radebeul</ort>
+		<kurzform>Spiel- und SV Planeta Radebeul</kurzform>
+		<lettern>SSVPR</lettern>
+	</verein>
+	<verein id="12219">
+		<name>Rudergemeinschaft Sachsen 1993 e.V.</name>
+		<ort>Dresden</ort>
+		<kurzform>Rugm. Sachsen</kurzform>
+		<lettern>RugmS</lettern>
+	</verein>
+	<verein id="12220">
+		<name>Albis Colonia Rudergesellschaft Meißen e.V.</name>
+		<ort>Meißen</ort>
+		<kurzform>Albis Colonia RG Meißen</kurzform>
+		<lettern>ACRGM</lettern>
+	</verein>
+	<verein id="12301">
+		<name>Merseburger Rudergesellschaft e.V.</name>
+		<ort>Merseburg</ort>
+		<kurzform>Merseburger RG</kurzform>
+		<lettern>MRG</lettern>
+	</verein>
+	<verein id="12302">
+		<name>Bernburger Ruderclub e.V.</name>
+		<ort>Bernburg</ort>
+		<kurzform>Bernburger RC</kurzform>
+		<lettern>BRC</lettern>
+	</verein>
+	<verein id="12303">
+		<name>Hallesche-Ruder-Vereinigung Böllberg v. 1884 u. Nelson v. 1874 e.V. im SV Halle</name>
+		<ort>Halle</ort>
+		<kurzform>Hallesche-Rvg. Böllberg u. Nelson</kurzform>
+		<lettern>HRBN</lettern>
+	</verein>
+	<verein id="12304">
+		<name>Tangermünder Ruderclub von 1906 e.V.</name>
+		<ort>Tangermünde</ort>
+		<kurzform>Tangermünder RC</kurzform>
+		<lettern>TRC</lettern>
+	</verein>
+	<verein id="12305">
+		<name>Hallescher Ruderclub e.V. im Universitätssportverein Halle e.V.</name>
+		<ort>Halle</ort>
+		<kurzform>Hallescher RC im Uni-SV</kurzform>
+		<lettern>HRC</lettern>
+	</verein>
+	<verein id="12307">
+		<name>Zschornewitzer Ruderclub v. 1954 im SV "Turbine" Zschornewitz e.V.</name>
+		<ort>Zschornewitz</ort>
+		<kurzform>Zschornewitzer RC im SV Turbine Zschw.</kurzform>
+		<lettern>ZRC</lettern>
+	</verein>
+	<verein id="12308">
+		<name>SC Magdeburg e.V., Abteilung Rudern</name>
+		<ort>Magdeburg</ort>
+		<kurzform>SC Magdeburg</kurzform>
+		<lettern>SCM</lettern>
+	</verein>
+	<verein id="12309">
+		<name>Ruder-Club Wittenberg e.V.</name>
+		<ort>Wittenberg</ort>
+		<kurzform>RC Wittenberg</kurzform>
+		<lettern>RCW</lettern>
+	</verein>
+	<verein id="12310">
+		<name>Universitätssportclub "Otto-von-Guericke" Magdeburg e.V.</name>
+		<ort>Magdeburg</ort>
+		<kurzform>Uni-SC Otto Guericke Magdeburg</kurzform>
+		<lettern>USCM</lettern>
+	</verein>
+	<verein id="12311">
+		<name>Wassersportfreunde Burg e.V. 1924</name>
+		<ort>Burg</ort>
+		<kurzform>Wassersportfreunde Burg</kurzform>
+		<lettern>WSFB</lettern>
+	</verein>
+	<verein id="12312">
+		<name>Roßlauer Rudergesellschaft e.V.</name>
+		<ort>Roßlau</ort>
+		<kurzform>Roßlauer RG</kurzform>
+		<lettern>RRG</lettern>
+	</verein>
+	<verein id="12313">
+		<name>Rudervereinigung Dessau e.V.</name>
+		<ort>Dessau-Roßlau</ort>
+		<kurzform>Rvg.Dessau</kurzform>
+		<lettern>RVD</lettern>
+	</verein>
+	<verein id="12314">
+		<name>Ruderverein Rot-Weiß Naumburg von 1908 e.V.</name>
+		<ort>Naumburg</ort>
+		<kurzform>RV Rot-Weiß Naumburg</kurzform>
+		<lettern>RVN</lettern>
+	</verein>
+	<verein id="12315">
+		<name>Ruder-Club Aken e.V.</name>
+		<ort>Aken (Elbe)</ort>
+		<kurzform>RC Aken</kurzform>
+		<lettern>RCA</lettern>
+	</verein>
+	<verein id="12316">
+		<name>Magdeburger Ruder-Club e.V.</name>
+		<ort>Magdeburg</ort>
+		<kurzform>Magdeburger RC</kurzform>
+		<lettern>MRC</lettern>
+	</verein>
+	<verein id="12317">
+		<name>Ruderclub Alt-Werder Magdeburg 1887 e.V.</name>
+		<ort>Magdeburg</ort>
+		<kurzform>RC Alt-Werder Magdeburg</kurzform>
+		<lettern>RCAW</lettern>
+	</verein>
+	<verein id="12318">
+		<name>Union 1861 Schönebeck e. V. </name>
+		<ort>Schönebeck</ort>
+		<kurzform>RC Schönebeck</kurzform>
+		<lettern>RC Schönebeck</lettern>
+	</verein>
+	<verein id="12319">
+		<name>Weißenfelser Ruder-Verein 1884 e.V.</name>
+		<ort>Weißenfels</ort>
+		<kurzform>Weißenfelser RV</kurzform>
+		<lettern>WRV</lettern>
+	</verein>
+	<verein id="12320">
+		<name>Ruderverein Raguhn 1901 e.V.</name>
+		<ort>Raguhn</ort>
+		<kurzform>RV Raguhn</kurzform>
+		<lettern>RVR</lettern>
+	</verein>
+	<verein id="12321">
+		<name>Ruderriege Havelberg von 1909 e.V.</name>
+		<ort>Havelberg</ort>
+		<kurzform>RHV Havelberg</kurzform>
+		<lettern>RHV</lettern>
+	</verein>
+	<verein id="12322">
+		<name>Goitzsche Ruderclub Bitterfeld e.V.</name>
+		<ort>Bitterfeld</ort>
+		<kurzform>GRC Bitterfeld</kurzform>
+		<lettern>GRCB</lettern>
+	</verein>
+	<verein id="12401">
+		<name>Eckernförder Ruderclub von 1924 e.V.</name>
+		<ort>Eckernförde</ort>
+		<kurzform>Eckernförder RC</kurzform>
+		<lettern>ERC</lettern>
+	</verein>
+	<verein id="12402">
+		<name>Elmshorner Ruder-Club von 1909 e.V.</name>
+		<ort>Elmshorn</ort>
+		<kurzform>Elmshorner RC</kurzform>
+		<lettern>ERC</lettern>
+	</verein>
+	<verein id="12403">
+		<name>Germania Ruderverein Eutin e.V.</name>
+		<ort>Eutin</ort>
+		<kurzform>Germania RV Eutin</kurzform>
+		<lettern>GRVE</lettern>
+	</verein>
+	<verein id="12404">
+		<name>Ruderklub Flensburg e.V.</name>
+		<ort>Flensburg</ort>
+		<kurzform>RK Flensburg</kurzform>
+		<lettern>RKF</lettern>
+	</verein>
+	<verein id="12405">
+		<name>Friedrichstädter Rudergesellschaft e.V.</name>
+		<ort>Friedrichstadt</ort>
+		<kurzform>Friedrichstädter RG</kurzform>
+		<lettern>FRG</lettern>
+	</verein>
+	<verein id="12406">
+		<name>Rudergruppe Geesthacht von 1912 e.V.</name>
+		<ort>Geesthacht</ort>
+		<kurzform>Rgr. Geesthacht</kurzform>
+		<lettern>RGG</lettern>
+	</verein>
+	<verein id="12407">
+		<name>Akademischer Ruderverein e.V. Kiel</name>
+		<ort>Kiel</ort>
+		<kurzform>ARV Kiel</kurzform>
+		<lettern>ARV</lettern>
+	</verein>
+	<verein id="12408">
+		<name>Erster Kieler Ruder-Club von 1862 e.V.</name>
+		<ort>Kiel</ort>
+		<kurzform>Erster Kieler RC</kurzform>
+		<lettern>EKRC</lettern>
+	</verein>
+	<verein id="12409">
+		<name>Rudergesellschaft Germania Kiel von 1882</name>
+		<ort>Kiel</ort>
+		<kurzform>RG Germania Kiel</kurzform>
+		<lettern>RGK</lettern>
+	</verein>
+	<verein id="12410">
+		<name>Ruderriege Ditmarsia Kiel e.V.</name>
+		<ort>Kiel</ort>
+		<kurzform>RR Ditmarsia Kiel</kurzform>
+		<lettern>ATVD</lettern>
+	</verein>
+	<verein id="12411">
+		<name>Rudervereinigung Kappeln im Turn- und Sportverein Kappeln von 1876 e.V.</name>
+		<ort>Kappeln</ort>
+		<kurzform>Rvg. Kappeln im Turn- und SV Kappeln</kurzform>
+		<lettern>RVK</lettern>
+	</verein>
+	<verein id="12412">
+		<name>Ruder-Gesellschaft Lauenburg e.V.</name>
+		<ort>Lauenburg/Elbe</ort>
+		<kurzform>RG Lauenburg</kurzform>
+		<lettern>RGL</lettern>
+	</verein>
+	<verein id="12413">
+		<name>Lübecker Frauen-Ruder- Gesellschaft von 1907 e.V.</name>
+		<ort>Lübeck</ort>
+		<kurzform>Lübecker Frauen-RG</kurzform>
+		<lettern>LFRG</lettern>
+	</verein>
+	<verein id="12414">
+		<name>Lübecker Frauen-Ruder-Klub e.V.</name>
+		<ort>Lübeck</ort>
+		<kurzform>Lübecker Frauen-Ruder- Klub</kurzform>
+		<lettern>LFRK</lettern>
+	</verein>
+	<verein id="12415">
+		<name>Lübecker Ruder-Gesellschaft von 1885 e.V.</name>
+		<ort>Lübeck</ort>
+		<kurzform>Lübecker RG</kurzform>
+		<lettern>LRG</lettern>
+	</verein>
+	<verein id="12416">
+		<name>Lübecker Ruder-Klub e.V.</name>
+		<ort>Lübeck</ort>
+		<kurzform>Lübecker RK</kurzform>
+		<lettern>LRK</lettern>
+	</verein>
+	<verein id="12417">
+		<name>Möllner Ruder-Club e.V. vorm. Möllner Turnerschaft v. 1884</name>
+		<ort>Mölln</ort>
+		<kurzform>Möllner RC vorm. Möllner Turnerschaft v</kurzform>
+		<lettern>MRC</lettern>
+	</verein>
+	<verein id="12418">
+		<name>Ruder-Club Neumünster e.V.</name>
+		<ort>Neumünster</ort>
+		<kurzform>RC Neumünster</kurzform>
+		<lettern>RCN</lettern>
+	</verein>
+	<verein id="12419">
+		<name>Preetzer Ruderclub e.V.</name>
+		<ort>Preetz</ort>
+		<kurzform>Preetzer RC</kurzform>
+		<lettern>PRC</lettern>
+	</verein>
+	<verein id="12420">
+		<name>Ratzeburger Ruderclub e.V.</name>
+		<ort>Ratzeburg</ort>
+		<kurzform>Ratzeburger RC</kurzform>
+		<lettern>RRC</lettern>
+	</verein>
+	<verein id="12421">
+		<name>Reinfelder Rudergemeinschaft von 1963 e.V.</name>
+		<ort>Reinfeld</ort>
+		<kurzform>Reinfelder Rugm.</kurzform>
+		<lettern>RRG</lettern>
+	</verein>
+	<verein id="12422">
+		<name>Rendsburger Ruderverein e.V.</name>
+		<ort>Rendsburg</ort>
+		<kurzform>Rendsburger RV</kurzform>
+		<lettern>RRV</lettern>
+	</verein>
+	<verein id="12423">
+		<name>Rendsburger Primaner Ruderclub von 1880</name>
+		<ort>Rendsburg</ort>
+		<kurzform>Rendsburger Primaner RC</kurzform>
+		<lettern>RPRC</lettern>
+	</verein>
+	<verein id="12424">
+		<name>Segeberger Ruderclub von 1926 e.V.</name>
+		<ort>Bad Segeberg</ort>
+		<kurzform>Segeberger RC</kurzform>
+		<lettern>SRC</lettern>
+	</verein>
+	<verein id="12425">
+		<name>Domschulruderclub Schleswig e.V.</name>
+		<ort>Schleswig</ort>
+		<kurzform>Domschulruderclub Schleswig</kurzform>
+		<lettern>DRC</lettern>
+	</verein>
+	<verein id="12426">
+		<name>Wassersportverein Belau e.V.</name>
+		<ort>Belau</ort>
+		<kurzform>WSV Belau</kurzform>
+		<lettern>WSVB</lettern>
+	</verein>
+	<verein id="12427">
+		<name>Plöner Ruderverein e.V.</name>
+		<ort>Plön</ort>
+		<kurzform>Plöner RV</kurzform>
+		<lettern>PRV</lettern>
+	</verein>
+	<verein id="12428">
+		<name>Rudergesellschaft "Titania" Mölln von 2012 e.V.</name>
+		<ort>Mölln</ort>
+		<kurzform>RG "Titania" Mölln</kurzform>
+		<lettern>RGTM</lettern>
+	</verein>
+	<verein id="12501">
+		<name>Ruderclub Roßleben e.V.</name>
+		<ort>Roßleben</ort>
+		<kurzform>RC Roßleben</kurzform>
+		<lettern>RCR</lettern>
+	</verein>
+	<verein id="12502">
+		<name>Bad Lobensteiner Ruderverein 1932 e.V.</name>
+		<ort>Bad Lobenstein</ort>
+		<kurzform>Bad Lobensteiner RV</kurzform>
+		<lettern>LRV</lettern>
+	</verein>
+	<verein id="12503">
+		<name>Jenaer Kanu- und Ruderverein e.V.</name>
+		<ort>Jena</ort>
+		<kurzform>Jenaer Kanu- und RV</kurzform>
+		<lettern>JKRV</lettern>
+	</verein>
+	<verein id="12504">
+		<name>Universitätssportverein Jena e.V.</name>
+		<ort>Jena</ort>
+		<kurzform>Universitätssportverein Jena</kurzform>
+		<lettern>USJ</lettern>
+	</verein>
+	<verein id="12505">
+		<name>Jenaer Ruder- und Seesportverein e.V.</name>
+		<ort>Jena</ort>
+		<kurzform>Jenaer Ruder- u. Seesportverein</kurzform>
+		<lettern>JRSV</lettern>
+	</verein>
+	<verein id="15001">
+		<name>Ruderabteilung Schloss Gaienhofen</name>
+		<ort>Gaienhofen</ort>
+		<kurzform>RA Gaienhofen</kurzform>
+		<lettern>RAG</lettern>
+	</verein>
+	<verein id="15003">
+		<name>RAG Albertus-Magnus-Gymnasium Stuttgart</name>
+		<ort>Stuttgart</ort>
+		<kurzform>RAG Albertus-Magnus-Gymnasium Stuttgart</kurzform>
+		<lettern>AMGS</lettern>
+	</verein>
+	<verein id="15005">
+		<name>Freie Schule "Lernzeiträume" Dossenheim</name>
+		<ort>Dossenheim</ort>
+		<kurzform>Freie Schule "Lernzeiträume"</kurzform>
+		<lettern>FSLzt</lettern>
+	</verein>
+	<verein id="15006">
+		<name>SRR Friedrich-Schiller-Gymnasium Marbach</name>
+		<ort>Marbach</ort>
+		<kurzform>SRR FSG Marbach</kurzform>
+		<lettern>SRR FSG Marbach</lettern>
+	</verein>
+	<verein id="15103">
+		<name>Goethe-Gymnasium Regensburg</name>
+		<ort>Regensburg</ort>
+		<kurzform>Goethe-Gymn. Regensburg</kurzform>
+		<lettern>GGR</lettern>
+	</verein>
+	<verein id="15109">
+		<name>SRR des Albrecht-Altdorfer Gymnasium</name>
+		<ort>Regensburg</ort>
+		<kurzform>SRR des Albrecht-Altdorfer Gymnasium</kurzform>
+		<lettern>SRRAAG</lettern>
+	</verein>
+	<verein id="15110">
+		<name>SRR des Albertus-Magnus-Gymnasium</name>
+		<ort>Regensburg</ort>
+		<kurzform>SRR des Albertus-Magnus-Gymnasium</kurzform>
+		<lettern>SRRAMG</lettern>
+	</verein>
+	<verein id="15111">
+		<name>SRR des Ammersee-Gymnasim</name>
+		<ort>Dießen</ort>
+		<kurzform>SSR Ammersee-Gym.</kurzform>
+		<lettern>SSRAG</lettern>
+	</verein>
+	<verein id="15113">
+		<name>Schülerruderriege München in der Rudergesellschaft München</name>
+		<ort>Dachau</ort>
+		<kurzform>SRR München</kurzform>
+		<lettern>SRR München</lettern>
+	</verein>
+	<verein id="15114">
+		<name>Schülerruderriege Josef-Effner-Gymnasium Dachau</name>
+		<ort>Dachau</ort>
+		<kurzform>SRR Josef-Effner-Gymnasium Dachau</kurzform>
+		<lettern>SRR Josef-Effner-Gymnasium Dachau</lettern>
+	</verein>
+	<verein id="15201">
+		<name>Schülerruderverein an der Robert-Blum-Schule</name>
+		<ort>Berlin</ort>
+		<kurzform>SRV an der Robert-Blum-Schule</kurzform>
+		<lettern>SRVRBS</lettern>
+	</verein>
+	<verein id="15203">
+		<name>SRR Gymnasium Steglitz</name>
+		<ort>Berlin</ort>
+		<kurzform>SRR Gymnasium Steglitz</kurzform>
+		<lettern>SRRS</lettern>
+	</verein>
+	<verein id="15204">
+		<name>Ruderriege des Rheingau-Gymnasium</name>
+		<ort>Berlin</ort>
+		<kurzform>RR des Rheingau-Gymnasium</kurzform>
+		<lettern>RRRG</lettern>
+	</verein>
+	<verein id="15206">
+		<name>Humboldt-Oberschule Gymnasium Berlin</name>
+		<ort>Berlin</ort>
+		<kurzform>Humboldt-Oberschule Gymnasium Berlin</kurzform>
+		<lettern>HOGB</lettern>
+	</verein>
+	<verein id="15207">
+		<name>Schülerruderriege Clay-Oberschule Berlin</name>
+		<ort>Berlin</ort>
+		<kurzform>SRR Clay-Oberschule Berlin</kurzform>
+		<lettern>SRRCOB</lettern>
+	</verein>
+	<verein id="15208">
+		<name>SRR Kant-Gymnasium Berlin</name>
+		<ort>Berlin</ort>
+		<kurzform>SRR Kant-Gymnasium Berlin</kurzform>
+		<lettern>SRRKGB</lettern>
+	</verein>
+	<verein id="15209">
+		<name>Schülerruderriege des Lessing-Gymnasium Berlin</name>
+		<ort>Berlin</ort>
+		<kurzform>SRR Lessing-Oberschule Berlin</kurzform>
+		<lettern>SRRLOB</lettern>
+	</verein>
+	<verein id="15212">
+		<name>Dreilinden-Grundschule Berlin</name>
+		<ort>Berlin</ort>
+		<kurzform>Dreilinden-Grundschule Berlin</kurzform>
+		<lettern>DGB</lettern>
+	</verein>
+	<verein id="15213">
+		<name>SRR Hermann-Ehlers-Oberschule Berlin</name>
+		<ort>Berlin</ort>
+		<kurzform>SRR Hermann-Ehlers-Oberschule Berlin</kurzform>
+		<lettern>SRRHEB</lettern>
+	</verein>
+	<verein id="15214">
+		<name>Schülerruderriege Conrad-Grundschule  Berlin</name>
+		<ort>Berlin</ort>
+		<kurzform>SRR Conrad-Grundschule Berlin</kurzform>
+		<lettern>SRR CG B</lettern>
+	</verein>
+	<verein id="15215">
+		<name>Lili-Braun-Oberschule (Gymn) Berlin</name>
+		<ort>Berlin</ort>
+		<kurzform>Lili-Braun-Oberschule (Gymn) Berlin</kurzform>
+		<lettern>LBO B</lettern>
+	</verein>
+	<verein id="15216">
+		<name>RR Schulfarm Insel Scharfenberg Berlin</name>
+		<ort>Berlin</ort>
+		<kurzform>RR Schulfarm Insel Scharfenberg Berlin</kurzform>
+		<lettern>RRSISB</lettern>
+	</verein>
+	<verein id="15217">
+		<name>SRR Franz-Marc-Grundschule</name>
+		<ort>Berlin</ort>
+		<kurzform>SRR Franz-Marc-Grundschule</kurzform>
+		<lettern>SRRFMG</lettern>
+	</verein>
+	<verein id="15218">
+		<name>Evangelisches Gymnasium zum Grauen Kloster</name>
+		<ort>Berlin</ort>
+		<kurzform>Ev. Gym. Gr. Kloster</kurzform>
+		<lettern>EvGGrK</lettern>
+	</verein>
+	<verein id="15220">
+		<name>SRR Sportschule im Olympiapark Poelchau-Schule</name>
+		<ort>Berlin</ort>
+		<kurzform>SRR Poelchau-Schule</kurzform>
+		<lettern>SRR Poelchau-Schule</lettern>
+	</verein>
+	<verein id="15221">
+		<name>Flatow-Oberschule Berlin-Köpenick</name>
+		<ort>Berlin</ort>
+		<kurzform>Flatow-OS Berlin</kurzform>
+		<lettern>Flatow-OS Berlin</lettern>
+	</verein>
+	<verein id="15301">
+		<name>Schüler-Ruderriege der Sportschule Potsdam</name>
+		<ort>Potsdam</ort>
+		<kurzform>SRR Sportschule Potsdam</kurzform>
+		<lettern>SRR Sportschule Potsdam</lettern>
+	</verein>
+	<verein id="15401">
+		<name>Oberschule am Leibnizplatz</name>
+		<ort>Bremen</ort>
+		<kurzform>Oberschule Leibnizplatz</kurzform>
+		<lettern>OS Leibnizplatz</lettern>
+	</verein>
+	<verein id="15501">
+		<name>Hansa-Gymnasium Bergedorf</name>
+		<ort>Reinbek</ort>
+		<kurzform>Hansa-Gymnasium Bergedorf</kurzform>
+		<lettern>HGB</lettern>
+	</verein>
+	<verein id="15502">
+		<name>SRV "Pinguin" der Irena-Sendler-Schule</name>
+		<ort>Hamburg</ort>
+		<kurzform>SRV Pinguin</kurzform>
+		<lettern>SRVP</lettern>
+	</verein>
+	<verein id="15503">
+		<name>SRV Albatros Harburg des Friedrich-Ebert-Gymnasium</name>
+		<ort>Hamburg</ort>
+		<kurzform>SRV Albatros Friedrich-Ebert- Gymnasium</kurzform>
+		<lettern>SRVAGH</lettern>
+	</verein>
+	<verein id="15504">
+		<name>Gymnasial Ruder Verein 'Hamburg' am Wilhelm-Gymnasium</name>
+		<ort>Hamburg</ort>
+		<kurzform>Gymnasial RV Hamburg am Wilhelm-Gymn.</kurzform>
+		<lettern>GRVH</lettern>
+	</verein>
+	<verein id="15505">
+		<name>SRC Emilie-Wüstenfeld Gymnasium</name>
+		<ort>Hamburg</ort>
+		<kurzform>SRC Emilie-Wüstenfeld Schule</kurzform>
+		<lettern>SRCEWS</lettern>
+	</verein>
+	<verein id="15507">
+		<name>SRR Sophie-Barat-Schule Hamburg</name>
+		<ort>Hamburg</ort>
+		<kurzform>SRR Sophie-Barat-Schule Hamburg</kurzform>
+		<lettern>SRRSBSH</lettern>
+	</verein>
+	<verein id="15508">
+		<name>Schülerruderriege Helene-Lange-Gymnasium</name>
+		<ort>Hamburg</ort>
+		<kurzform>SRR Helene-Lange-Gymnasium</kurzform>
+		<lettern>SRR HLG</lettern>
+	</verein>
+	<verein id="15509">
+		<name>Ruderclub der Gelehrtenschule des Johanneums</name>
+		<ort>Hamburg</ort>
+		<kurzform>Ruderclub des Johanneums</kurzform>
+		<lettern>RdJ</lettern>
+	</verein>
+	<verein id="15510">
+		<name>Berufliche Schule Recycling- u. Umwelttechnik (G 8)</name>
+		<ort>Hamburg</ort>
+		<kurzform>BS Recycling- u. Umwelttechnik (G 8)</kurzform>
+		<lettern>BSRU</lettern>
+	</verein>
+	<verein id="15512">
+		<name>Schülerruderriege der Geschwister-Scholl-Stadtteilschule</name>
+		<ort>Hamburg</ort>
+		<kurzform>SRR Geschwister-Scholl-Stadtteilschule</kurzform>
+		<lettern>SRR GSST</lettern>
+	</verein>
+	<verein id="15513">
+		<name>SRR der Stadtteilschule Kirchwerder</name>
+		<ort>Hamburg</ort>
+		<kurzform>SRR der Stadtteilschule Kirchwerder</kurzform>
+		<lettern>SRR der Stadtteilschule Kirchwerder</lettern>
+	</verein>
+	<verein id="15514">
+		<name>Schülerruderriege am Matthias-Claudius-Gymnasium</name>
+		<ort>Hamburg</ort>
+		<kurzform>SRR Matthias-Claudius-Gymnasium</kurzform>
+		<lettern>SRR MCG</lettern>
+	</verein>
+	<verein id="15515">
+		<name>SRR Brecht Schule</name>
+		<ort>Hamburg</ort>
+		<kurzform>Brecht Schule</kurzform>
+		<lettern>Brecht Schule</lettern>
+	</verein>
+	<verein id="15516">
+		<name>Schüler-Ruderverein "Hansa-Bergedorf"</name>
+		<ort>Hamburg</ort>
+		<kurzform>SRV "Hansa-Bergedorf"</kurzform>
+		<lettern>SRVHB</lettern>
+	</verein>
+	<verein id="15517">
+		<name>Schülerruderverein Alter Teichweg</name>
+		<ort>Hamburg</ort>
+		<kurzform>SRV Alter Teichweg</kurzform>
+		<lettern>SRV ATW</lettern>
+	</verein>
+	<verein id="15601">
+		<name>Berufliche Schule Arolsen</name>
+		<ort>Bad Arolsen</ort>
+		<kurzform>Berufliche Schule Arolsen</kurzform>
+		<lettern>BSA</lettern>
+	</verein>
+	<verein id="15603">
+		<name>Christian-Rauch-Schule</name>
+		<ort>Bad Arolsen</ort>
+		<kurzform>Christian-Rauch-Schule</kurzform>
+		<lettern>CRS</lettern>
+	</verein>
+	<verein id="15604">
+		<name>Schulsportzentrum Liebigschule Gießen</name>
+		<ort>Gießen</ort>
+		<kurzform>Schulsportzentrum Liebigschule Gießen</kurzform>
+		<lettern>SLG</lettern>
+	</verein>
+	<verein id="15605">
+		<name>RR am Schulsportzentrum Obersberg Bad Hersfeld</name>
+		<ort>Bad Hersfeld</ort>
+		<kurzform>RR am Schulsportz. Obersbg. Bad Hersfeld</kurzform>
+		<lettern>RRSBH</lettern>
+	</verein>
+	<verein id="15606">
+		<name>Ruderverein der Heinrich-Schütz-Schule Kassel</name>
+		<ort>Kassel</ort>
+		<kurzform>RV HSS Kassel</kurzform>
+		<lettern>RVHSS</lettern>
+	</verein>
+	<verein id="15607">
+		<name>Ruderverein Goethegymnasium Kassel</name>
+		<ort>Kassel</ort>
+		<kurzform>RV GG Kassel</kurzform>
+		<lettern>RVGG</lettern>
+	</verein>
+	<verein id="15608">
+		<name>Turn- und Ruderverein der Albert-Schweitzer-Schule in Kassel e.V.</name>
+		<ort>Kassel</ort>
+		<kurzform>TRV Albert-Schweitzer-Schule Kassel</kurzform>
+		<lettern>TRVASS</lettern>
+	</verein>
+	<verein id="15609">
+		<name>Ruderverein Wilhelmsgymnasium</name>
+		<ort>Kassel</ort>
+		<kurzform>RV WG Kassel</kurzform>
+		<lettern>RVWG</lettern>
+	</verein>
+	<verein id="15610">
+		<name>Ruderverein Friedrichsgymnasium Kassel</name>
+		<ort>Kassel</ort>
+		<kurzform>RV FG Kassel</kurzform>
+		<lettern>RVFG</lettern>
+	</verein>
+	<verein id="15612">
+		<name>SRR Goethe-Schule Wetzlar</name>
+		<ort>Wetzlar</ort>
+		<kurzform>SRR Goethe-Schule Wetzlar</kurzform>
+		<lettern>SRRGSW</lettern>
+	</verein>
+	<verein id="15613">
+		<name>SRR Gutenbergschule  Wiesbaden</name>
+		<ort>Wiesbaden</ort>
+		<kurzform>SRR Gutenbergschule Wiesbaden</kurzform>
+		<lettern>SRRGW</lettern>
+	</verein>
+	<verein id="15614">
+		<name>SRR Elly-Heuss-Schule Wiesbaden</name>
+		<ort>Wiesbaden</ort>
+		<kurzform>SRR Elly-Heuss-Schule Wiesbaden</kurzform>
+		<lettern>SRREHSW</lettern>
+	</verein>
+	<verein id="15616">
+		<name>SRR Karl Rehbein Schule Hanau</name>
+		<ort>Hanau</ort>
+		<kurzform>SRR Karl Rehbein Schule Hanau</kurzform>
+		<lettern>SRRKRSH</lettern>
+	</verein>
+	<verein id="15617">
+		<name>Ruderverein der Jacob-Grimm Schule in Kassel e.V.</name>
+		<ort>Kassel</ort>
+		<kurzform>RV Jacob-Grimm Schule Kassel</kurzform>
+		<lettern>RVJGS</lettern>
+	</verein>
+	<verein id="15618">
+		<name>SRR Hohe Landesschule Hanau</name>
+		<ort>Hanau</ort>
+		<kurzform>SRR Hohe Landesschule Hanau</kurzform>
+		<lettern>SRRHLH</lettern>
+	</verein>
+	<verein id="15620">
+		<name>SRR Kestner-Schule Wetzlar</name>
+		<ort>Wetzlar</ort>
+		<kurzform>SRR Kestner-Schule Wetzlar</kurzform>
+		<lettern>SRRKSW</lettern>
+	</verein>
+	<verein id="15621">
+		<name>SRR Gymnasium Philippinum Weilburg</name>
+		<ort>Weilburg</ort>
+		<kurzform>SRR Gymnasium Philippinum Weilburg</kurzform>
+		<lettern>SRRGPW</lettern>
+	</verein>
+	<verein id="15622">
+		<name>SRR Leibnizgymnasium Offenbach</name>
+		<ort>Offenbach</ort>
+		<kurzform>SRR Leibnizgymnasium Offenbach</kurzform>
+		<lettern>SRRLO</lettern>
+	</verein>
+	<verein id="15623">
+		<name>Gymnasium Steinmühle Marburg</name>
+		<ort>Marburg</ort>
+		<kurzform>Gymnasium Steinmühle Marburg</kurzform>
+		<lettern>GSM</lettern>
+	</verein>
+	<verein id="15624">
+		<name>SSR Nieder-Olm </name>
+		<ort>Mainz</ort>
+		<kurzform>SSR Nieder-Olm</kurzform>
+		<lettern>SSR NO</lettern>
+	</verein>
+	<verein id="15625">
+		<name>SRR Gymnasium Mainz-Oberstadt</name>
+		<ort>Mainz</ort>
+		<kurzform>SRR Gym. Oberstadt</kurzform>
+		<lettern>SRRGMO</lettern>
+	</verein>
+	<verein id="15626">
+		<name>Schülerruderriege Schillerschule Frankfurt</name>
+		<ort>Frankfurt</ort>
+		<kurzform>SRR Schillerschule Frankfurt</kurzform>
+		<lettern>SRR Schillerschule Frankfurt</lettern>
+	</verein>
+	<verein id="15627">
+		<name>Schülerruderriege Otto-Hahn-Schule Hanau</name>
+		<ort>Hanau</ort>
+		<kurzform>SRR Otto-Hahn-Schule Hanau</kurzform>
+		<lettern>SRR Otto-Hahn-Schule Hanau</lettern>
+	</verein>
+	<verein id="15801">
+		<name>Gymnasial Turn- und Ruderverein Lingen</name>
+		<ort>Lingen</ort>
+		<kurzform>Gymnasial Turn- und RV Lingen</kurzform>
+		<lettern>GTRV</lettern>
+	</verein>
+	<verein id="15803">
+		<name>RR Greselius-Gymnasium Bramsche</name>
+		<ort>Bramsche</ort>
+		<kurzform>RR Greselius Gymnasium Bramsche</kurzform>
+		<lettern>RRGGB</lettern>
+	</verein>
+	<verein id="15804">
+		<name>RR am Kaiserin-Auguste-Viktoria-Gymnasium Celle</name>
+		<ort>Celle</ort>
+		<kurzform>RR am KAV-Gymn. Celle</kurzform>
+		<lettern>RRKAVC</lettern>
+	</verein>
+	<verein id="15805">
+		<name>Ruderverein Isenhagener Land</name>
+		<ort>Hankensbüttel</ort>
+		<kurzform>RV Isenhagener Land</kurzform>
+		<lettern>RV IL</lettern>
+	</verein>
+	<verein id="15806">
+		<name>RV Bismarckschule Hannover e.V.</name>
+		<ort>Hannover</ort>
+		<kurzform>RVB</kurzform>
+		<lettern>RVB</lettern>
+	</verein>
+	<verein id="15807">
+		<name>SRV Schillerschule Hannover</name>
+		<ort>Hannover</ort>
+		<kurzform>SRV Schillerschule Hannover</kurzform>
+		<lettern>SRVSH</lettern>
+	</verein>
+	<verein id="15809">
+		<name>SRR Albert-Schweitzer- Schule Nienburg</name>
+		<ort>Nienburg</ort>
+		<kurzform>SRR Albert-Schweitzer- Schule Nienburg</kurzform>
+		<lettern>SRRASSN</lettern>
+	</verein>
+	<verein id="15810">
+		<name>RR Gymnasium Carolinum Osnabrück</name>
+		<ort>Osnabrück</ort>
+		<kurzform>RR Gymnasium Carolinum Osnabrück</kurzform>
+		<lettern>RRGCO</lettern>
+	</verein>
+	<verein id="15811">
+		<name>RR Domgymnasium  Verden</name>
+		<ort>Verden</ort>
+		<kurzform>RR Domgymnasium Verden</kurzform>
+		<lettern>RRDV</lettern>
+	</verein>
+	<verein id="15813">
+		<name>RV Humboldtschule Hannover</name>
+		<ort>Hannover</ort>
+		<kurzform>RV Humboldtschule Hannover</kurzform>
+		<lettern>RVHH</lettern>
+	</verein>
+	<verein id="15814">
+		<name>RV Helene-Lange-Schule Hannover</name>
+		<ort>Hannover</ort>
+		<kurzform>RV Helene-Lange-Schule Hannover</kurzform>
+		<lettern>RVHLS</lettern>
+	</verein>
+	<verein id="15815">
+		<name>Gymnasium Bad Essen</name>
+		<ort>Bad Essen</ort>
+		<kurzform>Gymnasium Bad Essen</kurzform>
+		<lettern>GBE</lettern>
+	</verein>
+	<verein id="15816">
+		<name>SRR Ratsgymnasium  Osnabrück</name>
+		<ort>Osnabrück</ort>
+		<kurzform>SRR Ratsgymnasium Osnabrück</kurzform>
+		<lettern>SRRRO</lettern>
+	</verein>
+	<verein id="15817">
+		<name>Ruderriege Angelaschule Osnabrück</name>
+		<ort>Osnabrück</ort>
+		<kurzform>RR Angelaschule Osnabrück</kurzform>
+		<lettern>RRAO</lettern>
+	</verein>
+	<verein id="15818">
+		<name>Ruderriege "Schaumburgia" am Adolfinum Bückeburg</name>
+		<ort>Bückeburg</ort>
+		<kurzform>RR Schaumburgia am Adolfinum Bückeburg</kurzform>
+		<lettern>RRSAB</lettern>
+	</verein>
+	<verein id="15819">
+		<name>SRR des Georg-Büchner-Gymnasium</name>
+		<ort>Seelze</ort>
+		<kurzform>Georg-Büchner-Gymnasium RR</kurzform>
+		<lettern>GBGRR</lettern>
+	</verein>
+	<verein id="15821">
+		<name>IGS Garbsen Arbeitsgemeinschaft Rudern</name>
+		<ort>Garbsen</ort>
+		<kurzform>IGS Garbsen AG Rudern</kurzform>
+		<lettern>IGSG</lettern>
+	</verein>
+	<verein id="15822">
+		<name>RV Zinfandel e.V. Landesbildungszentrum für Blinde</name>
+		<ort>Hannover</ort>
+		<kurzform>RV Zinfandel Landesbildungsz. f. Blinde</kurzform>
+		<lettern>RVZ</lettern>
+	</verein>
+	<verein id="15823">
+		<name>SRR des Ernst-Moritz-Arndt-Gymnasium</name>
+		<ort>Osnabrück</ort>
+		<kurzform>Ernst-Moritz-Arndt- Gymnasium</kurzform>
+		<lettern>EMAG</lettern>
+	</verein>
+	<verein id="15824">
+		<name>Ruderriege Grotefend-Gymnasium Münden</name>
+		<ort>Hann. Münden</ort>
+		<kurzform>RR Grotefend-Gymnasium Münden</kurzform>
+		<lettern>RRGGM</lettern>
+	</verein>
+	<verein id="15825">
+		<name>SRR der Cäcilienschule Wilhelmshaven</name>
+		<ort>Wilhelmshaven</ort>
+		<kurzform>SRR der Cäcilienschule Wilhelmshaven</kurzform>
+		<lettern>SRRCW</lettern>
+	</verein>
+	<verein id="15826">
+		<name>SRR Gymnasium Stolzenau</name>
+		<ort>Stolzenau</ort>
+		<kurzform>SRR Gymnasium Stolzenau</kurzform>
+		<lettern>SRRGS</lettern>
+	</verein>
+	<verein id="15827">
+		<name>SRR der Waldschule Steyerberg</name>
+		<ort>Steyerberg</ort>
+		<kurzform>SRR der Waldschule Steyerberg</kurzform>
+		<lettern>SRRWS</lettern>
+	</verein>
+	<verein id="15828">
+		<name>Ruderteam am Gymnasium Bersenbrück</name>
+		<ort>Bersenbrück</ort>
+		<kurzform>RTG Bersenbrück</kurzform>
+		<lettern>RTGB</lettern>
+	</verein>
+	<verein id="15829">
+		<name>Ruderriege Ratsgymnasium Stadthagen</name>
+		<ort>Stadthagen</ort>
+		<kurzform>RR Ruderriege Ratsgymn. Stadthagen</kurzform>
+		<lettern>RRRGS</lettern>
+	</verein>
+	<verein id="15830">
+		<name>Schülerruderriege Ulrichsgymnasium Norden</name>
+		<ort>Norden</ort>
+		<kurzform>SSR Ulrichsgymn. Norden</kurzform>
+		<lettern>SRRUGN</lettern>
+	</verein>
+	<verein id="15831">
+		<name>Schülerruderriege Ernestinum Rinteln</name>
+		<ort>Rinteln</ort>
+		<kurzform>SRR Ernestinum Rinteln</kurzform>
+		<lettern>SRRE</lettern>
+	</verein>
+	<verein id="15901">
+		<name>SRC am Friedrich-Ebert-Gymnasium Bonn</name>
+		<ort>Bonn</ort>
+		<kurzform>SRC F.-E.-Gymnasium Bonn</kurzform>
+		<lettern>SRCFEGB</lettern>
+	</verein>
+	<verein id="15902">
+		<name>GRV am Beethoven-Gymnasium Bonn</name>
+		<ort>Bonn</ort>
+		<kurzform>GRV am Beethoven-Gymnasium Bonn</kurzform>
+		<lettern>GRVBGB</lettern>
+	</verein>
+	<verein id="15903">
+		<name>Rudergemeinschaft Gymnasium Gerresheim</name>
+		<ort>Düsseldorf</ort>
+		<kurzform>Rudergemeinschaft Gymnasium Gerresheim</kurzform>
+		<lettern>RGG</lettern>
+	</verein>
+	<verein id="15908">
+		<name>SRV Gymnasium Kreuzgasse Köln</name>
+		<ort>Köln</ort>
+		<kurzform>SRV Gymnasium Kreuzgasse Köln</kurzform>
+		<lettern>SRVK</lettern>
+	</verein>
+	<verein id="15909">
+		<name>RR Humboldt-Gymnasium Köln</name>
+		<ort>Köln</ort>
+		<kurzform>RR Humboldt-Gymnasium Köln</kurzform>
+		<lettern>RRHGK</lettern>
+	</verein>
+	<verein id="15910">
+		<name>RR am Ratsgymnasium Minden e.V.</name>
+		<ort>Minden</ort>
+		<kurzform>RR am Ratsgymnasium Minden e.V.</kurzform>
+		<lettern>RRRM</lettern>
+	</verein>
+	<verein id="15911">
+		<name>SRV Karl-Ziegler-Schule</name>
+		<ort>Mülheim</ort>
+		<kurzform>SRV Karl-Ziegler-Schule</kurzform>
+		<lettern>SRVKZS</lettern>
+	</verein>
+	<verein id="15912">
+		<name>RR Immanuel-Kant-Gymnasium  Münster</name>
+		<ort>Münster</ort>
+		<kurzform>RR Immanuel-Kant-Gymnasium Münster</kurzform>
+		<lettern>RRIKGM</lettern>
+	</verein>
+	<verein id="15914">
+		<name>RC am Kopernikus-Gymnasium  Niederkassel</name>
+		<ort>Niederkassel</ort>
+		<kurzform>RC am Kopernikus-Gymnasium Niederkassel</kurzform>
+		<lettern>RCKG</lettern>
+	</verein>
+	<verein id="15915">
+		<name>RR Herder-Gymnasium Minden</name>
+		<ort>Minden</ort>
+		<kurzform>RR Herder-Gymnasium Minden</kurzform>
+		<lettern>RRHGM</lettern>
+	</verein>
+	<verein id="15917">
+		<name>RR Ratsgymnasium Münster</name>
+		<ort>Münster</ort>
+		<kurzform>RR Ratsgymnasium Münster</kurzform>
+		<lettern>RRRM</lettern>
+	</verein>
+	<verein id="15918">
+		<name>SRR Burggymnasium Essen</name>
+		<ort>Essen</ort>
+		<kurzform>SRR Burggymnasium Essen</kurzform>
+		<lettern>SRRBE</lettern>
+	</verein>
+	<verein id="15919">
+		<name>Gymnasial Ruder-Club am städt. Ernst-Moritz-Arndt-Gymnasium</name>
+		<ort>Bonn</ort>
+		<kurzform>Gymnasial RC am städt. EMA-Gymn.</kurzform>
+		<lettern>GRCEMA</lettern>
+	</verein>
+	<verein id="15920">
+		<name>Ruderriege von 1899 am Max-Planck-Gymnasium Dortmund</name>
+		<ort>Dortmund</ort>
+		<kurzform>RR am MPG Dortmund</kurzform>
+		<lettern>RRMPGDO</lettern>
+	</verein>
+	<verein id="15921">
+		<name>RR "Mark"" am Helmholtz-Gymnasium Essen</name>
+		<ort>Essen</ort>
+		<kurzform>RR Mark am Helmholtz-Gymnasium Essen</kurzform>
+		<lettern>RRM</lettern>
+	</verein>
+	<verein id="15922">
+		<name>RR Besselgymnasium Minden</name>
+		<ort>Minden</ort>
+		<kurzform>RR Besselgymnasium Minden</kurzform>
+		<lettern>RRBM</lettern>
+	</verein>
+	<verein id="15923">
+		<name>RR Schillergymnasium Münster</name>
+		<ort>Münster</ort>
+		<kurzform>RR Schillergymnasium Münster</kurzform>
+		<lettern>RRSM</lettern>
+	</verein>
+	<verein id="15924">
+		<name>SRV Ernst-Kalkuhl-Gymnasium Bonn</name>
+		<ort>Bonn</ort>
+		<kurzform>SRV Ernst-Kalkuhl-Gymnasium Bonn</kurzform>
+		<lettern>SRVEKG</lettern>
+	</verein>
+	<verein id="15927">
+		<name>Theodor-Heuss-Gymnasium Essen-Kettwig</name>
+		<ort>Essen</ort>
+		<kurzform>Theodor-Heuss-Gymnasium Essen-Kettwig</kurzform>
+		<lettern>THGEK</lettern>
+	</verein>
+	<verein id="15928">
+		<name>SRR Gymnasium Petrinum</name>
+		<ort>Dorsten</ort>
+		<kurzform>Gymnasium Petrinum zu Dorsten</kurzform>
+		<lettern>GPD</lettern>
+	</verein>
+	<verein id="15929">
+		<name>RR am Albert-Schweitzer-Gymnasium Hürth</name>
+		<ort>Hürth</ort>
+		<kurzform>RR am Albert-Schweitzer-Gymnasium Hürth</kurzform>
+		<lettern>RRASGH</lettern>
+	</verein>
+	<verein id="15931">
+		<name>SRR Söderblom Gymnasium Espelkamp</name>
+		<ort>Espelkamp</ort>
+		<kurzform>SRR Söderblom Gymnasium Espelkamp</kurzform>
+		<lettern>SRRSGE</lettern>
+	</verein>
+	<verein id="15934">
+		<name>RR Otto-Pankok-Schule Mülheim</name>
+		<ort>Mülheim</ort>
+		<kurzform>RR Otto-Pankok-Schule Mülheim</kurzform>
+		<lettern>RROPSM</lettern>
+	</verein>
+	<verein id="15935">
+		<name>SRV Friedrich-Wilhelm-Gymnasium Köln von 1921</name>
+		<ort>Köln</ort>
+		<kurzform>SRV Friedrich-Wilhelm-Gymnasium Köln</kurzform>
+		<lettern>SRV am FWG</lettern>
+	</verein>
+	<verein id="15936">
+		<name>Ruder-Verein Pädagogium Godesberg 09 e.V.</name>
+		<ort>Bonn</ort>
+		<kurzform>RV Pädagogium Godesberg</kurzform>
+		<lettern>RVPG</lettern>
+	</verein>
+	<verein id="15937">
+		<name>SRV am Rhein-Gymnasium</name>
+		<ort>Köln</ort>
+		<kurzform>SRV am Rhein-Gymnasium</kurzform>
+		<lettern>SRVRG</lettern>
+	</verein>
+	<verein id="15938">
+		<name>Schülerrudergemeinschaft LSH Schloß Heessen</name>
+		<ort>Hamm</ort>
+		<kurzform>SRG LSH Schloß Hees</kurzform>
+		<lettern>SRGLSH</lettern>
+	</verein>
+	<verein id="15939">
+		<name>RR des Kardinal von Galen Gymnasium</name>
+		<ort>Münster</ort>
+		<kurzform>RR des Kardinal v. Galen Gymnasium</kurzform>
+		<lettern>RRKGG</lettern>
+	</verein>
+	<verein id="15940">
+		<name>RR des Gymnasium Thusneldastraße, Köln</name>
+		<ort>Köln</ort>
+		<kurzform>RR des Gymnasium Thusneldastraße Köln</kurzform>
+		<lettern>RRGTK</lettern>
+	</verein>
+	<verein id="15941">
+		<name>Ruderriege am Städt. Gymnasium Olpe</name>
+		<ort>Olpe</ort>
+		<kurzform>RR am Städt. Gymnasium Olpe</kurzform>
+		<lettern>RRSGO</lettern>
+	</verein>
+	<verein id="15942">
+		<name>Schülerruderriege an der Gesamtschule Neuss e.V.</name>
+		<ort>Neuss</ort>
+		<kurzform>SRR Gesamtschule Neuss</kurzform>
+		<lettern>SRRGN</lettern>
+	</verein>
+	<verein id="15943">
+		<name>Ruder AG Albert-Einstein-Gymnasium Sankt Augustin</name>
+		<ort>Sankt Augustin</ort>
+		<kurzform>Ruder AG Albert-Einstein-Gymnasium</kurzform>
+		<lettern>RAEG</lettern>
+	</verein>
+	<verein id="16002">
+		<name>SRV Gymnasial-Turn-Ruder-Verein Neuwied 1882</name>
+		<ort>Neuwied</ort>
+		<kurzform>GTRV Neuwied</kurzform>
+		<lettern>GTRVN</lettern>
+	</verein>
+	<verein id="16003">
+		<name>SRR des Wilhelm-Hofmann-Gymnasium</name>
+		<ort>St. Goarshausen</ort>
+		<kurzform>SRR des Wilhelm-Hofmann-Gymnasium</kurzform>
+		<lettern>SRRWHG</lettern>
+	</verein>
+	<verein id="16004">
+		<name>SRR Maria Ward-Schule Mainz</name>
+		<ort>Mainz</ort>
+		<kurzform>SRR Maria Ward-Schule Mainz</kurzform>
+		<lettern>SRRMWS</lettern>
+	</verein>
+	<verein id="16006">
+		<name>Schülerruderriege Schlossgymnasium Mainz</name>
+		<ort>Mainz</ort>
+		<kurzform>SRR Schlossgymnasium Mainz</kurzform>
+		<lettern>SRR SGM</lettern>
+	</verein>
+	<verein id="16007">
+		<name>Schülerruderriege Bischöfliches Willigis-Gymnasium Mainz</name>
+		<ort>Mainz</ort>
+		<kurzform>SRR Bischöfliches Willigis-Gymnasium Mainz</kurzform>
+		<lettern>SRR Bischöfliches Willigis-Gymnasium Mainz</lettern>
+	</verein>
+	<verein id="16301">
+		<name>SRR des Pestalozzi-Gymnasium-Havelberg e.V.</name>
+		<ort>Havelberg</ort>
+		<kurzform>SRR des Pestalozzi-Gymnasium-Havelberg</kurzform>
+		<lettern>SRRPGH</lettern>
+	</verein>
+	<verein id="16401">
+		<name>RC am Gymnasium Athenaeum  Stade</name>
+		<ort>Stade</ort>
+		<kurzform>Gymnasium Athenaeum Stade</kurzform>
+		<lettern>GAS</lettern>
+	</verein>
+	<verein id="16403">
+		<name>RR Hermann-Tast-Schule Husum</name>
+		<ort>Husum</ort>
+		<kurzform>RR Hermann-Tast-Schule Husum</kurzform>
+		<lettern>RRHTSH</lettern>
+	</verein>
+	<verein id="16404">
+		<name>Realgymnasial Ruderclub AEGIR</name>
+		<ort>Kiel</ort>
+		<kurzform>Realgymnasiumaler RC AEGIR</kurzform>
+		<lettern>RRCA</lettern>
+	</verein>
+	<verein id="16405">
+		<name>RR der Thomas-Mann-Schule</name>
+		<ort>Lübeck</ort>
+		<kurzform>RR der Thomas-Mann-Schule</kurzform>
+		<lettern>RRTMS</lettern>
+	</verein>
+	<verein id="16406">
+		<name>RR des Carl-Jacob-Burckhardt-Gymnasium</name>
+		<ort>Lübeck</ort>
+		<kurzform>RR des Carl-Jacob-Burckhardt- Gymnasium</kurzform>
+		<lettern>RRCJBG</lettern>
+	</verein>
+	<verein id="16409">
+		<name>RR der Alten Stadtschule Lübeck</name>
+		<ort>Lübeck</ort>
+		<kurzform>RR Alte Stadtschule Lübeck</kurzform>
+		<lettern>RRASL</lettern>
+	</verein>
+	<verein id="16410">
+		<name>WSC Alexander-von-Humboldt-Schule</name>
+		<ort>Neumünster</ort>
+		<kurzform>WSC Alexander-von-Humboldt-Schule</kurzform>
+		<lettern>WSCAvHS</lettern>
+	</verein>
+	<verein id="16411">
+		<name>RR am Helene-Lange-Gymnasium Rendsburg</name>
+		<ort>Rendsburg</ort>
+		<kurzform>RR am Helene-Lange-Gymn. Rendsburg</kurzform>
+		<lettern>RRHLG</lettern>
+	</verein>
+	<verein id="16412">
+		<name>SRR Domschulruderclub Schleswig</name>
+		<ort>Schleswig</ort>
+		<kurzform>SRR Domschulruderclub Schleswig</kurzform>
+		<lettern>SRRDS</lettern>
+	</verein>
+	<verein id="16413">
+		<name>RR Christian-Timm-Schule Rendsburg</name>
+		<ort>Rendsburg</ort>
+		<kurzform>RR Christian-Timm-Schule Rendsburg</kurzform>
+		<lettern>RRCTSR</lettern>
+	</verein>
+	<verein id="16414">
+		<name>Schüler-Ruder-Riege im VDF des Leibniz-Gymnasiums in Bad Schwartau e.V.</name>
+		<ort>Bad Schwartau</ort>
+		<kurzform>SRR Leibniz-Gymnasium Bad Schwartau</kurzform>
+		<lettern>SRRLG</lettern>
+	</verein>
+	<verein id="16416">
+		<name>Kieler Gymnasial RV Teifun von 1883</name>
+		<ort>Kiel</ort>
+		<kurzform>Kieler Gymnasial RV Teifun</kurzform>
+		<lettern>KGRVT</lettern>
+	</verein>
+	<verein id="16419">
+		<name>RR des Johanneums zu Lübeck</name>
+		<ort>Lübeck</ort>
+		<kurzform>RR des Johanneums zu Lübeck</kurzform>
+		<lettern>RRJL</lettern>
+	</verein>
+	<verein id="16420">
+		<name>Friedrich Schiller Gymnasium Preetz</name>
+		<ort>Preetz</ort>
+		<kurzform>Friedrich Schiller Gymnasium Preetz</kurzform>
+		<lettern>FSGP</lettern>
+	</verein>
+	<verein id="16422">
+		<name>O.R.R.C. 'Neptun' Kiel von 1898 Ruderclub an der Hebbelschule</name>
+		<ort>Kiel</ort>
+		<kurzform>O.R.R.C. Neptun Kiel RC an der Hebbels.</kurzform>
+		<lettern>NKRC</lettern>
+	</verein>
+	<verein id="16423">
+		<name>Lauenburgische Gelehrtenschule Ratzeburg</name>
+		<ort>Ratzeburg</ort>
+		<kurzform>Lauenburgische Gelehrtenschule Ratzeburg</kurzform>
+		<lettern>LGR</lettern>
+	</verein>
+	<verein id="16424">
+		<name>Schüler Ruder- u. Segelverein e.V. Plön</name>
+		<ort>Plön</ort>
+		<kurzform>Schüler Ruder- u. Segelverein e.V. Plön</kurzform>
+		<lettern>SRSVP</lettern>
+	</verein>
+	<verein id="16425">
+		<name>Lübecker Schüler-Ruderverein</name>
+		<ort>Lübeck</ort>
+		<kurzform>Lübecker Schüler-RV</kurzform>
+		<lettern>LSRV</lettern>
+	</verein>
+	<verein id="16426">
+		<name>SRR des Gymnasium Kronwerk</name>
+		<ort>Rendsburg</ort>
+		<kurzform>SRR des Gymnasium Kronwerk</kurzform>
+		<lettern>SRRGK</lettern>
+	</verein>
+	<verein id="16427">
+		<name>SRR der Realschule Fockbek</name>
+		<ort>Fockbek</ort>
+		<kurzform>SRR der Realschule Fockbek</kurzform>
+		<lettern>SRRRF</lettern>
+	</verein>
+	<verein id="16428">
+		<name>Schülerwassersportverein am Hans-Geiger-Gymnasium v. 1976 Kiel e.V.</name>
+		<ort>Kiel</ort>
+		<kurzform>SWSV am Hans-Geiger-Gymnasium v. 1976 Kiel e.V.</kurzform>
+		<lettern>SWSV HGG</lettern>
+	</verein>
+	<verein id="16429">
+		<name>Katharineum Ruder Riege</name>
+		<ort>Lübeck</ort>
+		<kurzform>Katharineum RR</kurzform>
+		<lettern>KRR</lettern>
+	</verein>
+	<verein id="16430">
+		<name>Ruderriege Ricarda-Huch Schule Kiel</name>
+		<ort>Kiel</ort>
+		<kurzform>SRR Ricarda-Huch Kiel</kurzform>
+		<lettern>SRRRHK</lettern>
+	</verein>
+	<verein id="20001">
+		<name>Nordschleswigscher Ruderverband</name>
+		<ort>Sønderborg</ort>
+		<kurzform>Nordschleswigscher RV</kurzform>
+		<lettern>NRV</lettern>
+	</verein>
+	<verein id="30010">
+		<name>Landesruderverband Baden-Württemberg e.V.</name>
+		<ort>Stuttgart</ort>
+		<kurzform>LRV Baden-Württemberg</kurzform>
+		<lettern>LRVBW</lettern>
+	</verein>
+	<verein id="30011">
+		<name>Bayerischer Ruderverband e.V.</name>
+		<ort>München</ort>
+		<kurzform>LRV Bayern</kurzform>
+		<lettern>BRV</lettern>
+	</verein>
+	<verein id="30012">
+		<name>Landesruderverband Berlin e.V.</name>
+		<ort>Berlin</ort>
+		<kurzform>LRV Berlin</kurzform>
+		<lettern>LRVB</lettern>
+	</verein>
+	<verein id="30013">
+		<name>Landesruderverband Brandenburg e.V.</name>
+		<ort>Potsdam</ort>
+		<kurzform>LRV Brandenburg</kurzform>
+		<lettern>LRVB</lettern>
+	</verein>
+	<verein id="30014">
+		<name>Landesruderverband Bremen</name>
+		<ort>Bremen</ort>
+		<kurzform>LRV Bremen</kurzform>
+		<lettern>LRVB</lettern>
+	</verein>
+	<verein id="30015">
+		<name>Allgemeiner Alster-Club/ Norddeutscher Ruderer-Bund</name>
+		<ort>Hamburg</ort>
+		<kurzform>Allgem. Alster-Club</kurzform>
+		<lettern>AAC/NRB</lettern>
+	</verein>
+	<verein id="30016">
+		<name>Hessischer Ruderverband e.V.</name>
+		<ort>Frankfurt am Main</ort>
+		<kurzform>Hessischer Ruderverband</kurzform>
+		<lettern>HRV</lettern>
+	</verein>
+	<verein id="30017">
+		<name>Landesruderverband Mecklenburg-Vorpommern e.V.</name>
+		<ort>Rostock</ort>
+		<kurzform>LRV Mecklenburg-Vorpommern</kurzform>
+		<lettern>LRVMVP</lettern>
+	</verein>
+	<verein id="30018">
+		<name>Landesruderverband Niedersachsen</name>
+		<ort>Deutsch Evern</ort>
+		<kurzform>LRV Niedersachsen</kurzform>
+		<lettern>LRVN</lettern>
+	</verein>
+	<verein id="30019">
+		<name>Nordrhein-Westfälischer Ruderverband</name>
+		<ort>Duisburg</ort>
+		<kurzform>Nordrhein-Westfälischer RV</kurzform>
+		<lettern>NWRV</lettern>
+	</verein>
+	<verein id="30020">
+		<name>Ruderverband Südwest e.V. </name>
+		<ort>Mainz</ort>
+		<kurzform>Ruderverband Südwest</kurzform>
+		<lettern>RV Südwest</lettern>
+	</verein>
+	<verein id="30021">
+		<name>Ruderbund Saar e.V.</name>
+		<ort>Saarbrücken</ort>
+		<kurzform>LRV Saarland</kurzform>
+		<lettern>LRVS</lettern>
+	</verein>
+	<verein id="30022">
+		<name>Landesruderverband Sachsen</name>
+		<ort>Dresden</ort>
+		<kurzform>LRV Sachsen</kurzform>
+		<lettern>LRVS</lettern>
+	</verein>
+	<verein id="30023">
+		<name>Ruderverband Sachsen-Anhalt </name>
+		<ort>Magdeburg</ort>
+		<kurzform>RV Sachsen-Anhalt</kurzform>
+		<lettern>RuSA</lettern>
+	</verein>
+	<verein id="30024">
+		<name>Ruderverband Schleswig-Holstein</name>
+		<ort>Ratzeburg</ort>
+		<kurzform>LRV Schleswig-Holstein</kurzform>
+		<lettern>LRVSH</lettern>
+	</verein>
+	<verein id="30025">
+		<name>Thüringer Ruderverband</name>
+		<ort>Jena</ort>
+		<kurzform>LRV Thüringen</kurzform>
+		<lettern>LRVT</lettern>
+	</verein>
+	<verein id="30026">
+		<name>Ruderverband Rheinland e.V.</name>
+		<ort>Koblenz</ort>
+		<kurzform>Ruderverband Rheinland</kurzform>
+		<lettern>RVR</lettern>
+	</verein>
+	<verein id="30027">
+		<name>Ruderverband Pfalz e.V.</name>
+		<ort>Speyer</ort>
+		<kurzform>Ruderverband Pfalz</kurzform>
+		<lettern>RVP</lettern>
+	</verein>
+	<verein id="40001">
+		<name>Regatta-Verband Ems-Jade-Weser/ Team Nord West</name>
+		<ort>Oldenburg</ort>
+		<kurzform>RV Ems-Jade-Weser / Team Nord West</kurzform>
+		<lettern>RVEJW/TNW</lettern>
+	</verein>
+	<verein id="40002">
+		<name>Rheinisch Westfälischer Regattaverband e.V.</name>
+		<ort>Duisburg</ort>
+		<kurzform>Rheinisch Westfälischer RV</kurzform>
+		<lettern>RWRV</lettern>
+	</verein>
+	<verein id="40003">
+		<name>Essener Ruder-Regattaverein e.V.</name>
+		<ort>Essen</ort>
+		<kurzform>Essener RRV</kurzform>
+		<lettern>ERRV</lettern>
+	</verein>
+	<verein id="40004">
+		<name>Frankfurter Regatta-Verein von 1888 / Ruderleistungsgemeinschaft e.V.</name>
+		<ort>Frankfurt am Main</ort>
+		<kurzform>Frankfurter RegV</kurzform>
+		<lettern>FRVR</lettern>
+	</verein>
+	<verein id="40005">
+		<name>Regattaverein Gießen e.V.</name>
+		<ort>Gießen</ort>
+		<kurzform>RegV Gießen</kurzform>
+		<lettern>RegVG</lettern>
+	</verein>
+	<verein id="40006">
+		<name>Nordwestdeutscher Regatta-Verband e.V.</name>
+		<ort>Hameln</ort>
+		<kurzform>Nordwestdeutscher Regatta-Verband</kurzform>
+		<lettern>NWRegV</lettern>
+	</verein>
+	<verein id="40007">
+		<name>Hanauer Regatta-Verein e.V.</name>
+		<ort>Bruchköbel</ort>
+		<kurzform>Hanauer RegV</kurzform>
+		<lettern>HRegV</lettern>
+	</verein>
+	<verein id="40008">
+		<name>Hannoverscher Regatta-Verband e.V.</name>
+		<ort>Hannover</ort>
+		<kurzform>Hannoverscher RegV</kurzform>
+		<lettern>HRV</lettern>
+	</verein>
+	<verein id="40009">
+		<name>Heidelberger Regattaverband e.V.</name>
+		<ort>Heidelberg</ort>
+		<kurzform>Heidelberger RegV</kurzform>
+		<lettern>HRegV</lettern>
+	</verein>
+	<verein id="40010">
+		<name>Kasseler Regattaverein e.V.</name>
+		<ort>Kassel</ort>
+		<kurzform>Kasseler Regattaverein</kurzform>
+		<lettern>KRV</lettern>
+	</verein>
+	<verein id="40012">
+		<name>Kölner Regatta-Verband e.V.</name>
+		<ort>Köln</ort>
+		<kurzform>Kölner RegV</kurzform>
+		<lettern>KRegV</lettern>
+	</verein>
+	<verein id="40013">
+		<name>Lübecker Regattaverein e.V.</name>
+		<ort>Lübeck</ort>
+		<kurzform>Lübecker Regattaverein</kurzform>
+		<lettern>LRV</lettern>
+	</verein>
+	<verein id="40014">
+		<name>Mannheimer Regatta-Verein e.V.</name>
+		<ort>Mannheim</ort>
+		<kurzform>Mannheimer Regatta-Verein</kurzform>
+		<lettern>MRegV</lettern>
+	</verein>
+	<verein id="40015">
+		<name>Schleswig-Holsteinischer Regatta-Verein</name>
+		<ort>Norderstedt</ort>
+		<kurzform>Schleswig-Holsteinischer Regatta-Verein</kurzform>
+		<lettern>SHRV</lettern>
+	</verein>
+	<verein id="40017">
+		<name>Regattaverein Niederrhein e.V.</name>
+		<ort>Krefeld</ort>
+		<kurzform>RV Niederrhein</kurzform>
+		<lettern>RVN</lettern>
+	</verein>
+	<verein id="40019">
+		<name>Regattaverein Würzburg e.V.</name>
+		<ort>Würzburg</ort>
+		<kurzform>Regattaverein Würzburg</kurzform>
+		<lettern>RVW</lettern>
+	</verein>
+	<verein id="40020">
+		<name>Ruder-Club Deutschland Stiftung Rudern</name>
+		<ort>Bad Kissingen</ort>
+		<kurzform>RC Deutschland Stiftung Rudern</kurzform>
+		<lettern>RCDSR</lettern>
+	</verein>
+	<verein id="40021">
+		<name>Leistungsgemeinschaft Rudern Frankfurt e.V.</name>
+		<ort>Frankfurt am Main</ort>
+		<kurzform>LG Rudern Frankfurt</kurzform>
+		<lettern>LGRF</lettern>
+	</verein>
+	<verein id="40022">
+		<name>Münsteraner Regattaverein e.V.</name>
+		<ort>Münster</ort>
+		<kurzform>Münsteraner Regattaverein</kurzform>
+		<lettern>MRV</lettern>
+	</verein>
+	<verein id="40023">
+		<name>Kettwiger Ruder-Regattaverein e.V.</name>
+		<ort>Essen</ort>
+		<kurzform>Kettwiger Regattaverein</kurzform>
+		<lettern>KRRV</lettern>
+	</verein>
+	<verein id="40024">
+		<name>Havel-Regatta-Verein v. 1920 e.V.</name>
+		<ort>Potsdam</ort>
+		<kurzform>Havel-Regatta-Verein</kurzform>
+		<lettern>HRV</lettern>
+	</verein>
+	<verein id="40025">
+		<name>Olympia-Regattaverein München e.V.</name>
+		<ort>Oberschleißheim</ort>
+		<kurzform>Olympia-Regattaverein München</kurzform>
+		<lettern>ORM</lettern>
+	</verein>
+	<verein id="40026">
+		<name>Förderverein Wassersporthandicaps e.V.</name>
+		<ort>Berlin</ort>
+		<kurzform>Förderverein Wassersporthandicaps</kurzform>
+		<lettern>FVWSH</lettern>
+	</verein>
+	<verein id="40027">
+		<name>Sächsischer Elbe-Regattaverein e.V.</name>
+		<ort>Dresden</ort>
+		<kurzform>Sächsischer Elbe-ReV</kurzform>
+		<lettern>SERV</lettern>
+	</verein>
+	<verein id="40028">
+		<name>Regatta-Gemeinschaft RRK/ RRV Regensburg e.V.</name>
+		<ort>Regensburg</ort>
+		<kurzform>Regatta-Gemeinschaft RRK RRV Regensburg</kurzform>
+		<lettern>RGR</lettern>
+	</verein>
+	<verein id="40029">
+		<name>Regatta München e.V.</name>
+		<ort>München</ort>
+		<kurzform>Regatta München</kurzform>
+		<lettern>RM</lettern>
+	</verein>
+	<verein id="50001">
+		<name>Schüler-Ruderverband Berlin e.V.</name>
+		<ort>Berlin</ort>
+		<kurzform>SRV Berlin</kurzform>
+		<lettern>SRVB</lettern>
+	</verein>
+	<verein id="50002">
+		<name>Schülerruderverband im Nordrhein-Westfälischen Ruder-Verbnad e.V.</name>
+		<ort>Duisburg</ort>
+		<kurzform>SRV im NRW-RV</kurzform>
+		<lettern>SRVNRW</lettern>
+	</verein>
+	<verein id="50003">
+		<name>Schülerruderverband Rhein.-Westfälischer</name>
+		<ort>Duisburg</ort>
+		<kurzform>SRV Rhein.-Westfälischer</kurzform>
+		<lettern>SRVRW</lettern>
+	</verein>
+	<verein id="50004">
+		<name>Schülerruderverband Nordrhein- Westfalen</name>
+		<ort>Bochum</ort>
+		<kurzform>SRV Nordrhein- Westfalen</kurzform>
+		<lettern>SRNRW</lettern>
+	</verein>
+	<verein id="50005">
+		<name>Hamburger Schüler-Ruderverband</name>
+		<ort>Hamburg</ort>
+		<kurzform>Hamburger SRV</kurzform>
+		<lettern>HSRVb</lettern>
+	</verein>
+	<verein id="50006">
+		<name>Schüler-Ruder-Verband Niedersachsen e.V.</name>
+		<ort>Hannover</ort>
+		<kurzform>Schüler-Ruder-Verband Niedersachsen</kurzform>
+		<lettern>SRVN</lettern>
+	</verein>
+	<verein id="50007">
+		<name>Heidelberger Regatta.Vbd. als Schülerruderverband</name>
+		<ort>Heidelberg</ort>
+		<kurzform>Heidelberger Regatta-Vbd als SRV</kurzform>
+		<lettern>HRV</lettern>
+	</verein>
+	<verein id="50008">
+		<name>Schülerruderverband Hessen e.V.</name>
+		<ort>Frankfurt am Main</ort>
+		<kurzform>SRV Hessen</kurzform>
+		<lettern>SRVH</lettern>
+	</verein>
+	<verein id="50009">
+		<name>Schleswig-Holsteinische Ruderjugend im RVbd. Schl.-Holstein e.V.</name>
+		<ort>Ratzeburg</ort>
+		<kurzform>Schleswig-Holst. Ruderjugend im RVSH</kurzform>
+		<lettern>SHRJ</lettern>
+	</verein>
+	<verein id="50010">
+		<name>Schülerruderverband im Kölner Regatta-Verband e.V.</name>
+		<ort>Köln</ort>
+		<kurzform>SRV im Kölner Reg. Vbd.</kurzform>
+		<lettern>SRVK</lettern>
+	</verein>
+	<verein id="50011">
+		<name>Ruderverband Pfalz Schülerruderverband</name>
+		<ort>Speyer</ort>
+		<kurzform>Ruderverband Pfalz SRV</kurzform>
+		<lettern>SRVP</lettern>
+	</verein>
+	<verein id="50012">
+		<name>Schüler- und Jugendverband im Bayr. Rudervbd.</name>
+		<ort>München</ort>
+		<kurzform>Schüler- u. Jugendverband im Bay. RV</kurzform>
+		<lettern>SJVB</lettern>
+	</verein>
+	<verein id="60001">
+		<name>Hochschulsportzentrum RWTH Aachen</name>
+		<ort>Aachen</ort>
+		<kurzform>HSZ RWTH Aachen</kurzform>
+		<lettern>HSZRWTHA</lettern>
+	</verein>
+	<verein id="60003">
+		<name>Universität Bielefeld, Abteilung Sportwissenschaft</name>
+		<ort>Bielefeld</ort>
+		<kurzform>Universität Bielefeld Abt. Sportwissenschaft</kurzform>
+		<lettern>UB</lettern>
+	</verein>
+	<verein id="60004">
+		<name>Ruhr-Universität Bochum   Fakultät für Sportwissenschaft,</name>
+		<ort>Bochum</ort>
+		<kurzform>Uni Bochum </kurzform>
+		<lettern>UniBo</lettern>
+	</verein>
+	<verein id="60005">
+		<name>Universität Bonn, Allgemeiner Hochschulsport</name>
+		<ort>Bonn</ort>
+		<kurzform>Uni Bonn</kurzform>
+		<lettern>Uni Bonn</lettern>
+	</verein>
+	<verein id="60006">
+		<name>Ruderriege der TH Darmstadt -Hochschulsportzentrum-</name>
+		<ort>Darmstadt</ort>
+		<kurzform>TH Darmstadt</kurzform>
+		<lettern>THD</lettern>
+	</verein>
+	<verein id="60008">
+		<name>Georg-August-Universität Göttingen, Zentrale Einrichtung Hochschulsport</name>
+		<ort>Göttingen</ort>
+		<kurzform>Universität Göttingen</kurzform>
+		<lettern>UniGö</lettern>
+	</verein>
+	<verein id="60009">
+		<name>Hochschulsport Förderverein der Universität Hamburg</name>
+		<ort>Hamburg</ort>
+		<kurzform>Uni Hamburg</kurzform>
+		<lettern>UniH</lettern>
+	</verein>
+	<verein id="60010">
+		<name>Ruderriege des Karlsruher Institut für Technologie</name>
+		<ort>Karlsruhe</ort>
+		<kurzform>Karlsruher Institut für Technologie (KIT)</kurzform>
+		<lettern>KIT</lettern>
+	</verein>
+	<verein id="60011">
+		<name>Sportzentrum der Christian-Albrechts-Universität zu Kiel</name>
+		<ort>Kiel</ort>
+		<kurzform>Uni Kiel</kurzform>
+		<lettern>CAU Kiel</lettern>
+	</verein>
+	<verein id="60012">
+		<name>Universität zu Köln -Abteilung 24- Universitätssport</name>
+		<ort>Köln</ort>
+		<kurzform>Uni zu Köln</kurzform>
+		<lettern>UniK24</lettern>
+	</verein>
+	<verein id="60013">
+		<name>Philipps-Universität Marburg, Zentrum für Hochschulsport</name>
+		<ort>Marburg</ort>
+		<kurzform>Uni Marburg</kurzform>
+		<lettern>ZFH</lettern>
+	</verein>
+	<verein id="60014">
+		<name>Zentraler Hochschulsport der Technischen Universität München</name>
+		<ort>München</ort>
+		<kurzform>ZHS München</kurzform>
+		<lettern>ZHS</lettern>
+	</verein>
+	<verein id="60016">
+		<name>Ruderriege der Humboldt-Universität zu Berlin</name>
+		<ort>Berlin</ort>
+		<kurzform>RR Humboldt-Uni Berlin</kurzform>
+		<lettern>HUniB</lettern>
+	</verein>
+	<verein id="60017">
+		<name>Deutsche Sporthochschule Köln, Institut für Outdoor Sport und Umweltforschung</name>
+		<ort>Köln</ort>
+		<kurzform>Deutsche Sporthochschule Köln</kurzform>
+		<lettern>DSHS</lettern>
+	</verein>
+	<verein id="60018">
+		<name>Hochschulsport Universität Tübingen</name>
+		<ort>Tübingen</ort>
+		<kurzform>Uni Tübingen</kurzform>
+		<lettern>UniTü</lettern>
+	</verein>
+	<verein id="60019">
+		<name>Technische Universität Dortmund, Institut für Sport und Sportwissenschaften</name>
+		<ort>Dortmund</ort>
+		<kurzform>Uni Dortmund</kurzform>
+		<lettern>UniDo</lettern>
+	</verein>
+	<verein id="60020">
+		<name>Universität Passau Sportzentrum</name>
+		<ort>Passau</ort>
+		<kurzform>Uni Passau</kurzform>
+		<lettern>Uni PA</lettern>
+	</verein>
+	<verein id="60021">
+		<name>TU Berlin - Zentraleinrichtung Hochschulsport</name>
+		<ort>Berlin</ort>
+		<kurzform>TU Sport</kurzform>
+		<lettern>TU Sport</lettern>
+	</verein>
+	<verein id="60022">
+		<name>Allgemeiner Hochschulsport der Universität Kassel</name>
+		<ort>Kassel</ort>
+		<kurzform>Allg. Hochschulsport Uni Kassel</kurzform>
+		<lettern>Allg. Hochschulsport Uni Kassel</lettern>
+	</verein>
+	<verein id="90000">
+		<name>Deutscher Ruderverband e.V.</name>
+		<ort>Hannover</ort>
+		<kurzform>Deutscher Ruderverband</kurzform>
+		<lettern>DRV</lettern>
+	</verein>
+	<verein id="90001">
+		<name>Bundesstützpunkt Berlin</name>
+		<ort>Berlin</ort>
+		<kurzform>BSP Berlin</kurzform>
+		<lettern>BSPB</lettern>
+	</verein>
+	<verein id="90002">
+		<name>Bundesstützpunkt Nachwuchs Potsdam</name>
+		<ort>Potsdam</ort>
+		<kurzform>BSPN Potsdam</kurzform>
+		<lettern>BSPNP</lettern>
+	</verein>
+	<verein id="90003">
+		<name>Bundesstützpunkt Dortmund</name>
+		<ort>Dortmund</ort>
+		<kurzform>BSP Dortmund</kurzform>
+		<lettern>BSP</lettern>
+	</verein>
+	<verein id="90004">
+		<name>Bundesstützpunkt Dresden</name>
+		<ort>Dresden</ort>
+		<kurzform>BSP Dresden</kurzform>
+		<lettern>BSPD</lettern>
+	</verein>
+	<verein id="90005">
+		<name>Bundesstützpunkt Dresden/Leipzig</name>
+		<ort>Leipzig</ort>
+		<kurzform>BSP Dresden/Leipzig</kurzform>
+		<lettern>BSPDL</lettern>
+	</verein>
+	<verein id="90006">
+		<name>Bundesstützpunkt Magdeburg</name>
+		<ort>Magdeburg</ort>
+		<kurzform>BSP Magdeburg</kurzform>
+		<lettern>BSPM</lettern>
+	</verein>
+	<verein id="90007">
+		<name>Bundesstützpunkt Nachwuchs Magdeburg/Halle</name>
+		<ort>Magdeburg</ort>
+		<kurzform>BSPN Magdeburg/Halle</kurzform>
+		<lettern>BSPNMH</lettern>
+	</verein>
+	<verein id="90008">
+		<name>Bundesstützpunkt Ratzeburg / Hamburg</name>
+		<ort>Ratzeburg</ort>
+		<kurzform>BSP Ratzeburg / Hamburg</kurzform>
+		<lettern>BSPRH</lettern>
+	</verein>
+	<verein id="90009">
+		<name>Bundesstützpunkt Rostock</name>
+		<ort>Rostock</ort>
+		<kurzform>BSP Rostock</kurzform>
+		<lettern>BSPR</lettern>
+	</verein>
+	<verein id="90010">
+		<name>Bundesstützpunkt Saarbrücken</name>
+		<ort>Saarbrücken</ort>
+		<kurzform>BSP Saarbrücken</kurzform>
+		<lettern>BSPS</lettern>
+	</verein>
+	<verein id="90011">
+		<name>Bundesstützpunkt Hannover</name>
+		<ort>Hannover</ort>
+		<kurzform>BSP Hannover</kurzform>
+		<lettern>BSPH</lettern>
+	</verein>
+	<verein id="90012">
+		<name>Bundesstützpunkt Ratzeburg/Hamburg</name>
+		<ort>Hamburg</ort>
+		<kurzform>BSP Ratzeburg/Hamburg</kurzform>
+		<lettern>BSPRH</lettern>
+	</verein>
+	<verein id="90013">
+		<name>Bundesstützpunkt Saarbrücken/Breisach</name>
+		<ort>Saarbrücken</ort>
+		<kurzform>BSP Saarbrücken/Breisach</kurzform>
+		<lettern>BSPSB</lettern>
+	</verein>
+	<verein id="90014">
+		<name>Bundesstützpunkt Frankfurt/Mainz</name>
+		<ort>Frankfurt am Main</ort>
+		<kurzform>BSP Frankfurt/Mainz</kurzform>
+		<lettern>BSPFFM</lettern>
+	</verein>
+	<verein id="90015">
+		<name>Bundesstützpunkt Essen</name>
+		<ort>Essen</ort>
+		<kurzform>BSP Essen</kurzform>
+		<lettern>BSPE</lettern>
+	</verein>
+	<verein id="90016">
+		<name>Bundesstützpunkt Nachwuchs Ulm/Süd</name>
+		<ort>Ulm</ort>
+		<kurzform>BSTP Süd</kurzform>
+		<lettern>BSTU</lettern>
+	</verein>
+	<verein id="90017">
+		<name>Bundesstützpunkt Potsdam</name>
+		<ort>Potsdam</ort>
+		<kurzform>BSTP Potsdam</kurzform>
+		<lettern>BSTPP</lettern>
+	</verein>
+	<verein id="91000">
+		<name>Deutsche Ruderjugend</name>
+		<ort>Hannover</ort>
+		<kurzform>Dt. Ruderjugend</kurzform>
+		<lettern>DRJ</lettern>
+	</verein>
+</dvl:vereine>
