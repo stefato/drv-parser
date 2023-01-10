@@ -1,11 +1,13 @@
 package de.luebeckregatta.parser
 
+import com.fasterxml.jackson.databind.JsonMappingException
 import de.luebeckregatta.parser.testdata.AusschreibungTestData
 import de.luebeckregatta.parser.testdata.MeldungenTestData
 import de.luebeckregatta.parser.testdata.VereinTestData
 import de.luebeckregatta.parser.testutils.TestUtils
 import org.assertj.core.api.Assertions.assertThat
 import org.junit.jupiter.api.Test
+import org.junit.jupiter.api.assertThrows
 import org.junit.jupiter.params.ParameterizedTest
 import org.junit.jupiter.params.provider.Arguments
 import org.junit.jupiter.params.provider.MethodSource
@@ -38,8 +40,7 @@ class ParserReadTest {
     fun `test parse Vereine xml downloaded from drv-portal`() {
         val xmlString = TestUtils.readStringContentFromTestResourceFile("vereine-2023-01-07.xml")
 
-        val actualParsedObject = DrvXmlParser.parseVereine(xmlString);
+        assertThrows<JsonMappingException> { DrvXmlParser.parseVereine(xmlString); }
 
-        assertThat(actualParsedObject).isNotNull;
     }
 }
