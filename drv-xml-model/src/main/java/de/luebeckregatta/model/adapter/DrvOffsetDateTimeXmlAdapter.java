@@ -17,4 +17,9 @@ public class DrvOffsetDateTimeXmlAdapter extends TemporalAccessorXmlAdapter<Offs
     public DrvOffsetDateTimeXmlAdapter() {
         super(DRV_OFFSET_DATE_TIME_FORMATTER, OffsetDateTime::from);
     }
+
+    @Override
+    public String marshal(final OffsetDateTime value) {
+        return value != null ? DateTimeFormatter.ISO_OFFSET_DATE_TIME.format(value) : null;
+    }
 }
