@@ -7,9 +7,8 @@ object TestUtils {
         val classLoader = javaClass.classLoader
         val resource = classLoader.getResource(testResourceFileName)
         val file = File(resource?.file ?: throw RuntimeException())
-        val expectedMeldungenXmlString = file.bufferedReader().use {
+        return file.bufferedReader().use {
             it.readText()
         }
-        return expectedMeldungenXmlString
     }
 }
