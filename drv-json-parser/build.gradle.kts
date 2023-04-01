@@ -6,9 +6,9 @@ plugins {
 }
 
 dependencies {
-    api(project(":drv-xml-model"))
+    api(project(":drv-json-model"))
 
-    implementation(libs.bundles.jackson.xml)
+    implementation(libs.bundles.jackson.json)
 
     testApi(testFixtures(project(":common-test")))
     testImplementation(libs.bundles.test)
@@ -20,4 +20,3 @@ tasks.withType<KotlinCompile> {
         jvmTarget = "11"
     }
 }
-

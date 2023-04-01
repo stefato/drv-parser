@@ -1,7 +1,7 @@
 package de.luebeckregatta.parser
 
 import de.luebeckregatta.parser.testdata.MeldungenTestData
-import de.luebeckregatta.parser.testutils.TestUtils
+import de.luebeckregatta.testutils.TestUtils
 import org.assertj.core.api.Assertions.assertThat
 import org.junit.jupiter.api.Test
 

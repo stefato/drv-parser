@@ -3,7 +3,7 @@ package de.luebeckregatta.parser
 import de.luebeckregatta.parser.testdata.AusschreibungTestData
 import de.luebeckregatta.parser.testdata.MeldungenTestData
 import de.luebeckregatta.parser.testdata.VereinTestData
-import de.luebeckregatta.parser.testutils.TestUtils
+import de.luebeckregatta.testutils.TestUtils
 import org.assertj.core.api.Assertions.assertThat
 import org.junit.jupiter.params.ParameterizedTest
 import org.junit.jupiter.params.provider.Arguments

@@ -1,5 +1,6 @@
+@Suppress("DSL_SCOPE_VIOLATION")
 plugins {
-    id("com.palantir.git-version") version "0.15.0" apply false
+    alias(libs.plugins.git.version) apply false
 }
 
 subprojects {
