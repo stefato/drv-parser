@@ -21,7 +21,7 @@ object DrvXmlParser {
         .setSerializationInclusion(JsonInclude.Include.NON_EMPTY)
         .registerModule(JavaTimeModule())
         .registerModule(JaxbAnnotationModule())
-        .registerModule(KotlinModule(nullToEmptyCollection = true, nullToEmptyMap = true))
+        .registerModule(KotlinModule(nullToEmptyCollection = true, nullToEmptyMap = true ))
 
     fun parseMeldungen(xmlString: String): RegattaMeldungen {
         return xmlMapper.readValue(xmlString, RegattaMeldungen::class.java)

@@ -1,4 +1,4 @@
-package de.luebeckregatta.parser.testutils
+package de.luebeckregatta.testutils
 
 import java.io.File
 

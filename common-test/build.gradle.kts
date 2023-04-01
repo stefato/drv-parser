@@ -2,16 +2,8 @@ import org.jetbrains.kotlin.gradle.tasks.KotlinCompile
 
 @Suppress("DSL_SCOPE_VIOLATION")
 plugins {
+    id("java-test-fixtures")
     alias(libs.plugins.kotlin)
-}
-
-dependencies {
-    api(project(":drv-xml-model"))
-
-    implementation(libs.bundles.jackson.xml)
-
-    testApi(testFixtures(project(":common-test")))
-    testImplementation(libs.bundles.test)
 }
 
 tasks.withType<KotlinCompile> {
@@ -20,4 +12,3 @@ tasks.withType<KotlinCompile> {
         jvmTarget = "11"
     }
 }
-

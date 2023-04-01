@@ -1,0 +1,41 @@
+[versions]
+kotlin-plugin = "1.8.10"
+git-version-plugin = "0.15.0"
+jackson = "2.14.2"
+junit = "5.9.2"
+assertJ = "3.24.2"
+
+# higher versions use the jakarta package name for javax dependencies
+# and are not compatible with the 'org.unbroken-dome.xjc' gradle plugin in version 2.0.0
+# -> don't update threeten-jaxb-core to a version higher than 1.2 and jakarta.xml.bind-api to a version higher than 2.3.3
+xjc-plugin = "2.0.0"
+jaxb-xew-plugin = "1.11"
+jaxb2-basics = "0.13.1"
+threeten-jaxb = "1.2"
+jakarta-xml = "2.3.3"
+
+[libraries]
+jackson-dataformat-xml = { group = "com.fasterxml.jackson.dataformat", name = "jackson-dataformat-xml", version.ref = "jackson" }
+jackson-module-jaxb-annotations = { group = "com.fasterxml.jackson.module", name = "jackson-module-jaxb-annotations", version.ref = "jackson" }
+jackson-datatype-jsr310 = { group = "com.fasterxml.jackson.datatype", name = "jackson-datatype-jsr310", version.ref = "jackson" }
+jackson-module-kotlin = { group = "com.fasterxml.jackson.module", name = "jackson-module-kotlin", version.ref = "jackson" }
+jackson-core-annotations = { group = "com.fasterxml.jackson.core", name = "jackson-annotations", version.ref = "jackson" }
+
+jaxb-plugin-xew = { group = "com.github.jaxb-xew-plugin", name = "jaxb-xew-plugin", version.ref = "jaxb-xew-plugin" }
+jaxb-plugin-jaxb2basics = { group = "org.jvnet.jaxb2_commons", name = "jaxb2-basics", version.ref = "jaxb2-basics" }
+jaxb-adapter-threeten = { group = "io.github.threeten-jaxb", name = "threeten-jaxb-core", version.ref = "threeten-jaxb" }
+jakarta-xml-api = { group = "jakarta.xml.bind", name = "jakarta.xml.bind-api", version.ref = "jakarta-xml" }
+
+junit-jupiter = { group = "org.junit.jupiter", name = "junit-jupiter", version.ref = "junit" }
+assertJ-core = { group = "org.assertj", name = "assertj-core", version.ref = "assertJ" }
+
+[bundles]
+jackson-xml = ["jackson-dataformat-xml", "jackson-module-jaxb-annotations", "jackson-datatype-jsr310", "jackson-module-kotlin"]
+jackson-json = ["jackson-datatype-jsr310", "jackson-module-kotlin"]
+jaxb-plugins = ["jaxb-plugin-xew","jaxb-plugin-jaxb2basics"]
+test = ["junit-jupiter", "assertJ-core"]
+
+[plugins]
+kotlin = { id = "org.jetbrains.kotlin.jvm", version.ref = "kotlin-plugin" }
+xjc = { id = "org.unbroken-dome.xjc", version.ref = "xjc-plugin" }
+git-version  = { id = "com.palantir.git-version", version.ref = "git-version-plugin" }
