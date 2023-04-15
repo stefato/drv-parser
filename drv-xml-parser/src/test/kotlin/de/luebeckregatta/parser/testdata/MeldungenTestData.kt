@@ -42,14 +42,14 @@ object MeldungenTestData {
     }
 
     private val TEST_OBMANN_1 = TObmann().apply {
-        id = 123
+        id = "123"
         name = "testname1"
         email = "testmail1"
         phone = "testphone1"
     }
 
     private val TEST_OBMANN_2 = TObmann().apply {
-        id = 456
+        id = "456"
         name = "testname2"
         email = "testmail2"
         phone = "testphone2"
@@ -80,25 +80,25 @@ object MeldungenTestData {
     }
 
     val TEST_MELDUNG_1 = TMeldung().apply {
-        id = 1234
+        id = "1234"
         verein = 10001
-        obmann = 123
+        obmann = "123"
         mannschaft = listOf(TEST_BOOTS_POSITION_1, TEST_BOOTS_POSITION_2)
         titel = "testTitel1"
     }
 
     val TEST_MELDUNG_2 = TMeldung().apply {
-        id = 6789
+        id = "6789"
         verein = 11000
-        obmann = 456
+        obmann = "456"
         mannschaft = listOf(TEST_BOOTS_POSITION_3, TEST_BOOTS_POSITION_4)
         titel = "testTitel2"
     }
 
     val TEST_MELDUNG_3 = TMeldung().apply {
-        id = 2834
+        id = "2834"
         verein = 10001
-        obmann = 4563
+        obmann = "456"
         mannschaft = listOf(TEST_BOOTS_POSITION_3)
         titel = "testTitel3"
     }
