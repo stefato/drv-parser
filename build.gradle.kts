@@ -28,16 +28,11 @@ subprojects {
         }
         repositories {
             maven {
-                val rootApiUrl = System.getenv("CI_API_V4_URL")
-                val projectId = System.getenv("CI_PROJECT_ID")
-                url = uri("$rootApiUrl/projects/$projectId/packages/maven")
-                name = "Gitlab"
-                credentials(HttpHeaderCredentials::class) {
-                    name = "Job-Token"
-                    value = System.getenv("CI_JOB_TOKEN")
-                }
-                authentication {
-                    create<HttpHeaderAuthentication>("header")
+                name = "github"
+                url = uri("https://maven.pkg.github.com/stefato/drv-parser")
+                credentials {
+                    username = System.getenv("GITHUB_ACTOR")
+                    password = System.getenv("GITHUB_TOKEN")
                 }
             }
         }
