@@ -1,12 +1,15 @@
 name: Gradle Publish
 
 on:
-  release:
-    types: [published]
-    branches: [master]
+  push:
+    tags:
+      - 'v*.*.*'
+    branches:
+      - master
 
 jobs:
-  publish:
+  release:
+    name: Release Version and publish packages
     runs-on: ubuntu-latest
     permissions:
       contents: read
@@ -28,3 +31,10 @@ jobs:
       env:
         GITHUB_ACTOR: ${{ github.actor }}
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+    - name: Create Release
+      uses: softprops/action-gh-release@v0.1.15
+      with:
+        files: ./**/build/libs/*.jar
+        generate_release_notes: true
+      
