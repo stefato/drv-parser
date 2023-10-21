@@ -3,7 +3,7 @@ name: Gradle Publish
 on:
   push:
     tags:
-      - 'v*.*.*'
+      - 'versions/*.*.*'
       
 jobs:
   release:

@@ -14,7 +14,7 @@ subprojects {
 
     group = "de.luebeckregatta"
     val gitVersion: groovy.lang.Closure<String> by extra
-    version = gitVersion(mapOf("prefix" to "v")) // v1.0.0 -> 1.0.0
+    version = gitVersion(mapOf("prefix" to "versions")) // versions/1.0.0 -> 1.0.0
 
     configure<JavaPluginExtension> {
         sourceCompatibility = JavaVersion.VERSION_11
