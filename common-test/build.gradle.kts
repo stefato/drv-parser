@@ -11,4 +11,6 @@ tasks.withType<KotlinCompile> {
         freeCompilerArgs = listOf("-Xjsr305=strict")
         jvmTarget = "11"
     }
+
+tasks.withType<PublishToMavenRepository>().configureEach { enabled = false }
 }
