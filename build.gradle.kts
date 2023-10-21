@@ -18,6 +18,7 @@ subprojects {
 
     configure<JavaPluginExtension> {
         sourceCompatibility = JavaVersion.VERSION_11
+        withSourcesJar()
     }
 
     configure<PublishingExtension> {
