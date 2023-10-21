@@ -2,9 +2,11 @@ name: Gradle Publish
 
 on:
   push:
+    branches:
+      - '**'
     tags:
       - 'v*.*.*'
-
+      
 jobs:
   release:
     name: Release Version and publish packages
