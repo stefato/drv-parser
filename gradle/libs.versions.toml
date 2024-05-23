@@ -12,7 +12,7 @@ xjc-plugin = "2.0.0"
 jaxb-xew-plugin = "1.11"
 jaxb2-basics = "0.13.1"
 threeten-jaxb = "1.2"
-jakarta-xml = "2.3.3"
+jakarta-xml = "4.0.2"
 
 [libraries]
 jackson-dataformat-xml = { group = "com.fasterxml.jackson.dataformat", name = "jackson-dataformat-xml", version.ref = "jackson" }
