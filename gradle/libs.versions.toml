@@ -1,6 +1,6 @@
 [versions]
 kotlin-plugin = "1.8.10"
-git-version-plugin = "0.15.0"
+git-version-plugin = "3.0.0"
 jackson = "2.14.2"
 junit = "5.9.2"
 assertJ = "3.24.2"
