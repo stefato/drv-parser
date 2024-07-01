@@ -2,7 +2,7 @@
 kotlin-plugin = "1.8.10"
 git-version-plugin = "0.15.0"
 jackson = "2.14.2"
-junit = "5.9.2"
+junit = "5.10.3"
 assertJ = "3.24.2"
 
 # higher versions use the jakarta package name for javax dependencies
